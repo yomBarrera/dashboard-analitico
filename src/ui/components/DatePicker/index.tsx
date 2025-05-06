@@ -2,7 +2,7 @@ import { useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
-const DateSelect = () => {
+export const DateSelect = () => {
   const [startDate, setStartDate] = useState(new Date());
   const [endDate, setEndDate] = useState(null);
 
@@ -45,4 +45,4 @@ const DateSelect = () => {
     />
   );
 };
-export default DateSelect;
+

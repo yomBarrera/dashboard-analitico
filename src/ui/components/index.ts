@@ -5,4 +5,5 @@ export * from "./FontChange";
 export * from "./DropRol";
 export * from "./HomeLink";
 export * from "./DatePicker";
-export * from "./ImputSelect";
+export * from "./InputSelect";
+export * from './Card'
