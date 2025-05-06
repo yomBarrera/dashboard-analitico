@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import { Header, Footer } from '@/ui/components'
-import '../styles/main.module.css'
+import '../styles/main.module.scss'
 
 type Props = {
   children: React.ReactNode
