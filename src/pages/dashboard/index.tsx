@@ -10,8 +10,12 @@ const Home = () => {
 
       <h2>Filters</h2>
       <section className={sc.filters}>
-        <InputSelect />
-        <DateSelect />
+        <div className="">
+          Region: <InputSelect />
+        </div>
+        <div className="">
+          Date Rabge: <DateSelect />
+        </div>
       </section>
 
       <section className={sc.card_list}>
