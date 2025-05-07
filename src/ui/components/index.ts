@@ -6,4 +6,6 @@ export * from "./DropRol";
 export * from "./HomeLink";
 export * from "./DatePicker";
 export * from "./InputSelect";
-export * from './Card'
+export * from './Card';
+export * from './OrderTable';
+export * from './Chart';

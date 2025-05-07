@@ -1,23 +1,32 @@
-import { InputSelect, DateSelect, Card } from '@/ui/components'
-import { OrdersTable } from '@/ui/components/OrderTable'
-import Main from '@/ui/layouts/main'
-import Link from 'next/link'
+import { InputSelect, DateSelect, Card, OrdersChart, OrdersTable } from "@/ui/components";
+import Main from "@/ui/layouts/main";
+import Link from "next/link";
 
-import sc from './dashboard.module.scss'
-
+import sc from "./dashboard.module.scss";
 
 const Home = () => {
   return (
     <Main>
 
-      <h2>filters</h2>
-      <InputSelect/>
-      <DateSelect/>
-      <div className={sc.card_list}>
-        <Card category={'Ventas'} totalSale={'112000'}>
-          <svg fill="#000000" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+      <h2>Filters</h2>
+      <section className={sc.filters}>
+        <InputSelect />
+        <DateSelect />
+      </section>
+
+      <section className={sc.card_list}>
+        <Card category={"Ventas"} totalSale={"112000"}>
+          <svg
+            fill="#000000"
+            viewBox="0 0 1024 1024"
+            xmlns="http://www.w3.org/2000/svg"
+          >
             <g id="SVGRepo_bgCarrier" strokeWidth={0} />
-            <g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round" />
+            <g
+              id="SVGRepo_tracerCarrier"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
             <g id="SVGRepo_iconCarrier">
               <path d="M136.948 908.811c5.657 0 10.24-4.583 10.24-10.24V610.755c0-5.657-4.583-10.24-10.24-10.24h-81.92a10.238 10.238 0 00-10.24 10.24v287.816c0 5.657 4.583 10.24 10.24 10.24h81.92zm0 40.96h-81.92c-28.278 0-51.2-22.922-51.2-51.2V610.755c0-28.278 22.922-51.2 51.2-51.2h81.92c28.278 0 51.2 22.922 51.2 51.2v287.816c0 28.278-22.922 51.2-51.2 51.2zm278.414-40.96c5.657 0 10.24-4.583 10.24-10.24V551.322c0-5.657-4.583-10.24-10.24-10.24h-81.92a10.238 10.238 0 00-10.24 10.24v347.249c0 5.657 4.583 10.24 10.24 10.24h81.92zm0 40.96h-81.92c-28.278 0-51.2-22.922-51.2-51.2V551.322c0-28.278 22.922-51.2 51.2-51.2h81.92c28.278 0 51.2 22.922 51.2 51.2v347.249c0 28.278-22.922 51.2-51.2 51.2zm278.414-40.342c5.657 0 10.24-4.583 10.24-10.24V492.497c0-5.651-4.588-10.24-10.24-10.24h-81.92c-5.652 0-10.24 4.589-10.24 10.24v406.692c0 5.657 4.583 10.24 10.24 10.24h81.92zm0 40.96h-81.92c-28.278 0-51.2-22.922-51.2-51.2V492.497c0-28.271 22.924-51.2 51.2-51.2h81.92c28.276 0 51.2 22.929 51.2 51.2v406.692c0 28.278-22.922 51.2-51.2 51.2zm278.414-40.958c5.657 0 10.24-4.583 10.24-10.24V441.299c0-5.657-4.583-10.24-10.24-10.24h-81.92a10.238 10.238 0 00-10.24 10.24v457.892c0 5.657 4.583 10.24 10.24 10.24h81.92zm0 40.96h-81.92c-28.278 0-51.2-22.922-51.2-51.2V441.299c0-28.278 22.922-51.2 51.2-51.2h81.92c28.278 0 51.2 22.922 51.2 51.2v457.892c0 28.278-22.922 51.2-51.2 51.2zm-6.205-841.902C677.379 271.088 355.268 367.011 19.245 387.336c-11.29.683-19.889 10.389-19.206 21.679s10.389 19.889 21.679 19.206c342.256-20.702 670.39-118.419 964.372-284.046 9.854-5.552 13.342-18.041 7.79-27.896s-18.041-13.342-27.896-7.79z" />
               <path d="M901.21 112.64l102.39.154c11.311.017 20.494-9.138 20.511-20.449s-9.138-20.494-20.449-20.511l-102.39-.154c-11.311-.017-20.494 9.138-20.511 20.449s9.138 20.494 20.449 20.511z" />
@@ -25,7 +34,7 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-        <Card category={'Clientes'} totalSale={'112000'}>
+        <Card category={"Clientes"} totalSale={"112000"}>
           <svg
             fill="#000000"
             version="1.1"
@@ -37,7 +46,11 @@ const Home = () => {
             xmlSpace="preserve"
           >
             <g id="SVGRepo_bgCarrier" strokeWidth={0} />
-            <g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round" />
+            <g
+              id="SVGRepo_tracerCarrier"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
             <g id="SVGRepo_iconCarrier">
               {" "}
               <g>
@@ -61,7 +74,7 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-        <Card category={'Tikets Abiertos'} totalSale={'112000'}>
+        <Card category={"Tikets Abiertos"} totalSale={"112000"}>
           <svg
             fill="#000000"
             version="1.1"
@@ -72,7 +85,11 @@ const Home = () => {
             xmlSpace="preserve"
           >
             <g id="SVGRepo_bgCarrier" strokeWidth={0} />
-            <g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round" />
+            <g
+              id="SVGRepo_tracerCarrier"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
             <g id="SVGRepo_iconCarrier">
               {" "}
               <g>
@@ -92,7 +109,7 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-        <Card category={'Tasa de conversión'} totalSale={'112000'}>
+        <Card category={"Tasa de conversión"} totalSale={"112000"}>
           <svg
             viewBox="0 0 512 512"
             enableBackground="new 0 0 512 512"
@@ -104,7 +121,11 @@ const Home = () => {
             fill="#000000"
           >
             <g id="SVGRepo_bgCarrier" strokeWidth={0} />
-            <g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round" />
+            <g
+              id="SVGRepo_tracerCarrier"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
             <g id="SVGRepo_iconCarrier">
               {" "}
               <g>
@@ -219,18 +240,22 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-      </div>
+      </section>
 
-      <h2>Hightcharts</h2>
+      <h2>Sales Trends</h2>
+      <section className={sc.charts}>
+        <OrdersChart/>
+      </section>
 
-      <h2>Datatable</h2>
-      <OrdersTable/>
-
+      <section className={sc.table_data}>
+        <h2>Orders Table</h2>
+        <OrdersTable />
+      </section>
 
       <Link href="/detail/123">Order 123</Link>
+
     </Main>
-  )
-}
+  );
+};
 
-export default Home
-
+export default Home;

@@ -1,4002 +1,4002 @@
 [
   {
-    "orderId": "A08840",
-    "date": "2023-09-20",
+    "orderId": "A04145",
+    "date": "2024-01-25",
     "region": "EMEA",
-    "customer": "Company 84",
-    "revenue": 8196.9,
-    "tickets": 3
-  },
-  {
-    "orderId": "A0114",
-    "date": "2025-01-05",
-    "region": "APAC",
-    "customer": "Company 40",
-    "revenue": 9376.41,
+    "customer": "Company 45",
+    "revenue": 4466.01,
     "tickets": 2
   },
   {
-    "orderId": "A03820",
-    "date": "2023-06-10",
-    "region": "NA",
-    "customer": "Company 3",
-    "revenue": 4484.75,
-    "tickets": 5
-  },
-  {
-    "orderId": "A03227",
-    "date": "2023-08-14",
-    "region": "NA",
-    "customer": "Company 9",
-    "revenue": 1130.2,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08349",
-    "date": "2023-07-12",
-    "region": "APAC",
-    "customer": "Company 71",
-    "revenue": 8320.78,
-    "tickets": 5
-  },
-  {
-    "orderId": "A06056",
-    "date": "2024-12-02",
-    "region": "LATAM",
-    "customer": "Company 92",
-    "revenue": 6523.74,
-    "tickets": 6
-  },
-  {
-    "orderId": "A09082",
-    "date": "2024-09-04",
-    "region": "NA",
-    "customer": "Company 62",
-    "revenue": 6801.6,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06821",
-    "date": "2024-08-08",
-    "region": "EMEA",
-    "customer": "Company 89",
-    "revenue": 4079.71,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05641",
-    "date": "2023-07-30",
-    "region": "EMEA",
-    "customer": "Company 63",
-    "revenue": 3718.96,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05629",
-    "date": "2025-04-13",
-    "region": "NA",
-    "customer": "Company 73",
-    "revenue": 3163.33,
-    "tickets": 4
-  },
-  {
-    "orderId": "A04251",
-    "date": "2023-08-22",
-    "region": "EMEA",
-    "customer": "Company 36",
-    "revenue": 7250.38,
-    "tickets": 6
-  },
-  {
-    "orderId": "A02746",
-    "date": "2024-06-19",
-    "region": "LATAM",
-    "customer": "Company 37",
-    "revenue": 9295.64,
-    "tickets": 3
-  },
-  {
-    "orderId": "A03496",
-    "date": "2023-07-17",
-    "region": "NA",
-    "customer": "Company 31",
-    "revenue": 4118.03,
-    "tickets": 7
-  },
-  {
-    "orderId": "A02346",
-    "date": "2024-05-25",
-    "region": "LATAM",
-    "customer": "Company 16",
-    "revenue": 4985.78,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07434",
-    "date": "2025-01-28",
-    "region": "LATAM",
-    "customer": "Company 57",
-    "revenue": 5643.02,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05986",
-    "date": "2025-05-17",
-    "region": "APAC",
-    "customer": "Company 16",
-    "revenue": 1738.33,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05511",
-    "date": "2024-12-02",
-    "region": "APAC",
-    "customer": "Company 29",
-    "revenue": 482.32,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01225",
-    "date": "2024-12-11",
-    "region": "NA",
-    "customer": "Company 61",
-    "revenue": 8108.73,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07876",
-    "date": "2024-03-11",
-    "region": "APAC",
-    "customer": "Company 72",
-    "revenue": 2646.55,
-    "tickets": 9
-  },
-  {
-    "orderId": "A04721",
-    "date": "2025-02-14",
-    "region": "EMEA",
-    "customer": "Company 81",
-    "revenue": 7450.82,
-    "tickets": 6
-  },
-  {
-    "orderId": "A07169",
-    "date": "2024-11-02",
-    "region": "EMEA",
-    "customer": "Company 4",
-    "revenue": 9059.66,
-    "tickets": 3
-  },
-  {
-    "orderId": "A02195",
-    "date": "2025-03-26",
-    "region": "LATAM",
-    "customer": "Company 46",
-    "revenue": 8657.43,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07917",
-    "date": "2024-11-24",
-    "region": "EMEA",
-    "customer": "Company 27",
-    "revenue": 6926.69,
-    "tickets": 10
-  },
-  {
-    "orderId": "A06792",
-    "date": "2024-11-01",
-    "region": "LATAM",
-    "customer": "Company 58",
-    "revenue": 7387.55,
-    "tickets": 8
-  },
-  {
-    "orderId": "A09441",
-    "date": "2024-02-24",
-    "region": "LATAM",
-    "customer": "Company 12",
-    "revenue": 7945.57,
-    "tickets": 5
-  },
-  {
-    "orderId": "A01265",
-    "date": "2024-05-16",
-    "region": "NA",
-    "customer": "Company 75",
-    "revenue": 2110.5,
-    "tickets": 2
-  },
-  {
-    "orderId": "A01971",
-    "date": "2024-12-18",
-    "region": "NA",
-    "customer": "Company 32",
-    "revenue": 5345.71,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02820",
-    "date": "2024-12-17",
-    "region": "LATAM",
-    "customer": "Company 94",
-    "revenue": 8868.83,
-    "tickets": 5
-  },
-  {
-    "orderId": "A04378",
-    "date": "2024-12-04",
-    "region": "APAC",
-    "customer": "Company 41",
-    "revenue": 414.58,
-    "tickets": 5
-  },
-  {
-    "orderId": "A05461",
-    "date": "2023-11-15",
-    "region": "NA",
-    "customer": "Company 57",
-    "revenue": 7433.95,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07691",
-    "date": "2024-07-29",
-    "region": "EMEA",
-    "customer": "Company 11",
-    "revenue": 5967.59,
-    "tickets": 8
-  },
-  {
-    "orderId": "A01688",
-    "date": "2024-09-28",
-    "region": "LATAM",
-    "customer": "Company 87",
-    "revenue": 1620.4,
-    "tickets": 6
-  },
-  {
-    "orderId": "A06065",
-    "date": "2024-04-26",
+    "orderId": "A05046",
+    "date": "2023-02-14",
     "region": "APAC",
     "customer": "Company 15",
-    "revenue": 1104.86,
-    "tickets": 1
+    "revenue": 8152.33,
+    "tickets": 4
   },
   {
-    "orderId": "A09148",
-    "date": "2025-03-24",
-    "region": "NA",
-    "customer": "Company 19",
-    "revenue": 8368.37,
-    "tickets": 8
-  },
-  {
-    "orderId": "A08821",
-    "date": "2024-06-12",
-    "region": "NA",
-    "customer": "Company 35",
-    "revenue": 4691.13,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01230",
-    "date": "2023-08-20",
-    "region": "NA",
-    "customer": "Company 83",
-    "revenue": 6464.67,
-    "tickets": 7
-  },
-  {
-    "orderId": "A06510",
-    "date": "2024-10-22",
+    "orderId": "A01387",
+    "date": "2023-01-11",
     "region": "LATAM",
-    "customer": "Company 12",
-    "revenue": 1579.18,
-    "tickets": 9
-  },
-  {
-    "orderId": "A06338",
-    "date": "2024-07-29",
-    "region": "EMEA",
-    "customer": "Company 76",
-    "revenue": 9597.07,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03871",
-    "date": "2023-08-04",
-    "region": "APAC",
-    "customer": "Company 85",
-    "revenue": 2858.63,
-    "tickets": 10
-  },
-  {
-    "orderId": "A03777",
-    "date": "2023-10-29",
-    "region": "EMEA",
-    "customer": "Company 6",
-    "revenue": 8714.87,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06060",
-    "date": "2024-09-25",
-    "region": "NA",
-    "customer": "Company 72",
-    "revenue": 1763.13,
-    "tickets": 7
-  },
-  {
-    "orderId": "A01930",
-    "date": "2024-09-17",
-    "region": "EMEA",
-    "customer": "Company 18",
-    "revenue": 4763.05,
-    "tickets": 3
-  },
-  {
-    "orderId": "A09605",
-    "date": "2024-03-04",
-    "region": "LATAM",
-    "customer": "Company 82",
-    "revenue": 8350.69,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06054",
-    "date": "2024-09-28",
-    "region": "EMEA",
-    "customer": "Company 80",
-    "revenue": 6971.83,
-    "tickets": 4
-  },
-  {
-    "orderId": "A04920",
-    "date": "2023-09-18",
-    "region": "APAC",
-    "customer": "Company 80",
-    "revenue": 6072.33,
-    "tickets": 2
-  },
-  {
-    "orderId": "A0964",
-    "date": "2024-04-18",
-    "region": "APAC",
-    "customer": "Company 40",
-    "revenue": 2248.12,
-    "tickets": 1
-  },
-  {
-    "orderId": "A08380",
-    "date": "2025-05-14",
-    "region": "EMEA",
-    "customer": "Company 40",
-    "revenue": 2036.03,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03606",
-    "date": "2024-05-20",
-    "region": "NA",
-    "customer": "Company 43",
-    "revenue": 7365.19,
-    "tickets": 6
-  },
-  {
-    "orderId": "A08966",
-    "date": "2024-11-15",
-    "region": "APAC",
-    "customer": "Company 95",
-    "revenue": 7771.39,
-    "tickets": 4
-  },
-  {
-    "orderId": "A01498",
-    "date": "2024-10-06",
-    "region": "NA",
-    "customer": "Company 3",
-    "revenue": 2413.49,
-    "tickets": 10
-  },
-  {
-    "orderId": "A02100",
-    "date": "2025-04-17",
-    "region": "APAC",
-    "customer": "Company 47",
-    "revenue": 4957.86,
-    "tickets": 10
-  },
-  {
-    "orderId": "A02549",
-    "date": "2023-09-25",
-    "region": "EMEA",
-    "customer": "Company 43",
-    "revenue": 3206.3,
-    "tickets": 6
-  },
-  {
-    "orderId": "A04881",
-    "date": "2025-04-09",
-    "region": "NA",
     "customer": "Company 10",
-    "revenue": 3052.93,
-    "tickets": 4
-  },
-  {
-    "orderId": "A09880",
-    "date": "2024-10-14",
-    "region": "APAC",
-    "customer": "Company 42",
-    "revenue": 7090.78,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08599",
-    "date": "2023-08-23",
-    "region": "LATAM",
-    "customer": "Company 67",
-    "revenue": 325.68,
-    "tickets": 6
-  },
-  {
-    "orderId": "A03119",
-    "date": "2023-09-20",
-    "region": "EMEA",
-    "customer": "Company 2",
-    "revenue": 4767.42,
-    "tickets": 5
-  },
-  {
-    "orderId": "A01073",
-    "date": "2023-08-01",
-    "region": "APAC",
-    "customer": "Company 87",
-    "revenue": 6148.28,
-    "tickets": 4
-  },
-  {
-    "orderId": "A02669",
-    "date": "2024-03-28",
-    "region": "NA",
-    "customer": "Company 91",
-    "revenue": 7476.12,
-    "tickets": 9
-  },
-  {
-    "orderId": "A05066",
-    "date": "2023-07-28",
-    "region": "LATAM",
-    "customer": "Company 16",
-    "revenue": 2920.3,
-    "tickets": 1
-  },
-  {
-    "orderId": "A01610",
-    "date": "2024-06-17",
-    "region": "NA",
-    "customer": "Company 95",
-    "revenue": 7563.07,
-    "tickets": 2
-  },
-  {
-    "orderId": "A09634",
-    "date": "2024-04-16",
-    "region": "LATAM",
-    "customer": "Company 93",
-    "revenue": 9162.23,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07705",
-    "date": "2024-06-03",
-    "region": "APAC",
-    "customer": "Company 66",
-    "revenue": 5571.97,
-    "tickets": 10
-  },
-  {
-    "orderId": "A04133",
-    "date": "2023-11-15",
-    "region": "NA",
-    "customer": "Company 64",
-    "revenue": 3701.57,
-    "tickets": 9
-  },
-  {
-    "orderId": "A0634",
-    "date": "2023-09-27",
-    "region": "NA",
-    "customer": "Company 35",
-    "revenue": 2394.93,
-    "tickets": 1
-  },
-  {
-    "orderId": "A04697",
-    "date": "2025-04-25",
-    "region": "NA",
-    "customer": "Company 72",
-    "revenue": 1614.24,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09799",
-    "date": "2025-03-18",
-    "region": "EMEA",
-    "customer": "Company 2",
-    "revenue": 922.03,
-    "tickets": 7
-  },
-  {
-    "orderId": "A0257",
-    "date": "2025-02-03",
-    "region": "APAC",
-    "customer": "Company 57",
-    "revenue": 5473.03,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05155",
-    "date": "2025-05-10",
-    "region": "APAC",
-    "customer": "Company 78",
-    "revenue": 4428.22,
-    "tickets": 1
-  },
-  {
-    "orderId": "A01119",
-    "date": "2023-09-10",
-    "region": "LATAM",
-    "customer": "Company 32",
-    "revenue": 7048.45,
-    "tickets": 1
-  },
-  {
-    "orderId": "A08150",
-    "date": "2023-09-02",
-    "region": "APAC",
-    "customer": "Company 78",
-    "revenue": 4615.48,
-    "tickets": 2
-  },
-  {
-    "orderId": "A0877",
-    "date": "2025-04-17",
-    "region": "EMEA",
-    "customer": "Company 17",
-    "revenue": 6744.22,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07294",
-    "date": "2024-04-17",
-    "region": "APAC",
-    "customer": "Company 85",
-    "revenue": 3460.88,
-    "tickets": 3
-  },
-  {
-    "orderId": "A09212",
-    "date": "2024-04-07",
-    "region": "NA",
-    "customer": "Company 68",
-    "revenue": 9749.03,
-    "tickets": 6
-  },
-  {
-    "orderId": "A08832",
-    "date": "2024-04-17",
-    "region": "EMEA",
-    "customer": "Company 98",
-    "revenue": 2551.35,
-    "tickets": 3
-  },
-  {
-    "orderId": "A02387",
-    "date": "2024-10-31",
-    "region": "LATAM",
-    "customer": "Company 91",
-    "revenue": 7036.61,
-    "tickets": 1
-  },
-  {
-    "orderId": "A03383",
-    "date": "2023-10-02",
-    "region": "APAC",
-    "customer": "Company 32",
-    "revenue": 6700.53,
+    "revenue": 6669.74,
     "tickets": 8
   },
   {
-    "orderId": "A02641",
-    "date": "2023-10-18",
-    "region": "APAC",
-    "customer": "Company 10",
-    "revenue": 4567.77,
-    "tickets": 1
-  },
-  {
-    "orderId": "A08457",
-    "date": "2024-02-02",
-    "region": "NA",
-    "customer": "Company 25",
-    "revenue": 7122.8,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01545",
-    "date": "2024-03-04",
-    "region": "LATAM",
-    "customer": "Company 84",
-    "revenue": 6831.71,
-    "tickets": 8
-  },
-  {
-    "orderId": "A06844",
-    "date": "2025-05-07",
-    "region": "NA",
-    "customer": "Company 61",
-    "revenue": 6737.67,
-    "tickets": 6
-  },
-  {
-    "orderId": "A09381",
-    "date": "2024-02-01",
-    "region": "NA",
-    "customer": "Company 98",
-    "revenue": 3043.54,
-    "tickets": 10
-  },
-  {
-    "orderId": "A05825",
-    "date": "2023-07-06",
-    "region": "EMEA",
-    "customer": "Company 26",
-    "revenue": 4811.08,
-    "tickets": 5
-  },
-  {
-    "orderId": "A02515",
-    "date": "2024-12-17",
-    "region": "LATAM",
-    "customer": "Company 64",
-    "revenue": 1162.48,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05852",
-    "date": "2025-01-31",
-    "region": "NA",
-    "customer": "Company 90",
-    "revenue": 3447.82,
-    "tickets": 5
-  },
-  {
-    "orderId": "A01482",
-    "date": "2024-12-28",
-    "region": "LATAM",
-    "customer": "Company 42",
-    "revenue": 2114.19,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03547",
-    "date": "2023-08-29",
-    "region": "NA",
-    "customer": "Company 70",
-    "revenue": 2337.38,
-    "tickets": 8
-  },
-  {
-    "orderId": "A09250",
-    "date": "2024-08-29",
-    "region": "NA",
-    "customer": "Company 36",
-    "revenue": 366.32,
-    "tickets": 6
-  },
-  {
-    "orderId": "A08058",
-    "date": "2024-06-12",
-    "region": "NA",
-    "customer": "Company 34",
-    "revenue": 6522.92,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03971",
-    "date": "2024-11-30",
-    "region": "NA",
-    "customer": "Company 51",
-    "revenue": 3749.19,
-    "tickets": 6
-  },
-  {
-    "orderId": "A0878",
-    "date": "2025-05-03",
-    "region": "LATAM",
-    "customer": "Company 75",
-    "revenue": 1537.17,
-    "tickets": 6
-  },
-  {
-    "orderId": "A08888",
+    "orderId": "A05410",
     "date": "2024-03-18",
-    "region": "EMEA",
-    "customer": "Company 92",
-    "revenue": 388.99,
-    "tickets": 4
-  },
-  {
-    "orderId": "A02768",
-    "date": "2024-04-11",
     "region": "NA",
-    "customer": "Company 18",
-    "revenue": 4151.21,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07959",
-    "date": "2024-07-03",
-    "region": "APAC",
-    "customer": "Company 83",
-    "revenue": 2297.41,
-    "tickets": 8
-  },
-  {
-    "orderId": "A04653",
-    "date": "2024-06-11",
-    "region": "EMEA",
-    "customer": "Company 1",
-    "revenue": 5941.25,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03961",
-    "date": "2024-04-02",
-    "region": "EMEA",
     "customer": "Company 37",
-    "revenue": 6914.15,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02348",
-    "date": "2024-01-13",
-    "region": "APAC",
-    "customer": "Company 47",
-    "revenue": 5815.14,
-    "tickets": 10
-  },
-  {
-    "orderId": "A08381",
-    "date": "2025-02-04",
-    "region": "LATAM",
-    "customer": "Company 62",
-    "revenue": 7175.88,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02600",
-    "date": "2024-07-29",
-    "region": "APAC",
-    "customer": "Company 52",
-    "revenue": 8105.68,
-    "tickets": 5
-  },
-  {
-    "orderId": "A02395",
-    "date": "2024-05-10",
-    "region": "LATAM",
-    "customer": "Company 23",
-    "revenue": 2199.26,
-    "tickets": 3
-  },
-  {
-    "orderId": "A06949",
-    "date": "2023-09-14",
-    "region": "APAC",
-    "customer": "Company 26",
-    "revenue": 9820.48,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05178",
-    "date": "2024-12-11",
-    "region": "APAC",
-    "customer": "Company 24",
-    "revenue": 5077.63,
-    "tickets": 4
-  },
-  {
-    "orderId": "A01203",
-    "date": "2023-08-23",
-    "region": "APAC",
-    "customer": "Company 12",
-    "revenue": 785.96,
-    "tickets": 3
-  },
-  {
-    "orderId": "A06593",
-    "date": "2023-09-10",
-    "region": "LATAM",
-    "customer": "Company 13",
-    "revenue": 6879.66,
-    "tickets": 1
-  },
-  {
-    "orderId": "A08142",
-    "date": "2025-05-14",
-    "region": "LATAM",
-    "customer": "Company 29",
-    "revenue": 5118.01,
-    "tickets": 9
-  },
-  {
-    "orderId": "A08269",
-    "date": "2024-05-30",
-    "region": "EMEA",
-    "customer": "Company 1",
-    "revenue": 5812.73,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07091",
-    "date": "2025-05-30",
-    "region": "NA",
-    "customer": "Company 99",
-    "revenue": 9913.62,
+    "revenue": 6017.17,
     "tickets": 2
   },
   {
-    "orderId": "A09062",
-    "date": "2023-10-20",
-    "region": "APAC",
-    "customer": "Company 22",
-    "revenue": 1542.48,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06322",
-    "date": "2025-01-10",
+    "orderId": "A06618",
+    "date": "2023-05-07",
     "region": "LATAM",
-    "customer": "Company 93",
-    "revenue": 277.23,
-    "tickets": 10
-  },
-  {
-    "orderId": "A07751",
-    "date": "2023-08-27",
-    "region": "EMEA",
-    "customer": "Company 32",
-    "revenue": 5852.63,
-    "tickets": 1
-  },
-  {
-    "orderId": "A04790",
-    "date": "2024-06-21",
-    "region": "EMEA",
-    "customer": "Company 8",
-    "revenue": 3656.69,
-    "tickets": 10
-  },
-  {
-    "orderId": "A08020",
-    "date": "2024-02-23",
-    "region": "LATAM",
-    "customer": "Company 16",
-    "revenue": 3287.49,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07466",
-    "date": "2025-04-21",
-    "region": "APAC",
-    "customer": "Company 91",
-    "revenue": 7299.9,
-    "tickets": 5
-  },
-  {
-    "orderId": "A08088",
-    "date": "2024-12-16",
-    "region": "APAC",
-    "customer": "Company 21",
-    "revenue": 2360.54,
-    "tickets": 1
-  },
-  {
-    "orderId": "A09334",
-    "date": "2023-08-26",
-    "region": "EMEA",
-    "customer": "Company 88",
-    "revenue": 9468.15,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03732",
-    "date": "2023-07-03",
-    "region": "APAC",
-    "customer": "Company 37",
-    "revenue": 8760.58,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05490",
-    "date": "2024-01-29",
-    "region": "EMEA",
-    "customer": "Company 67",
-    "revenue": 5914.72,
-    "tickets": 3
-  },
-  {
-    "orderId": "A06592",
-    "date": "2024-08-29",
-    "region": "LATAM",
-    "customer": "Company 61",
-    "revenue": 7732.78,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03528",
-    "date": "2024-11-26",
-    "region": "NA",
-    "customer": "Company 56",
-    "revenue": 5353.99,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07242",
-    "date": "2024-05-30",
-    "region": "LATAM",
-    "customer": "Company 64",
-    "revenue": 2057.51,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03478",
-    "date": "2023-09-29",
-    "region": "EMEA",
-    "customer": "Company 69",
-    "revenue": 5546.67,
+    "customer": "Company 89",
+    "revenue": 997.38,
     "tickets": 8
-  },
-  {
-    "orderId": "A04150",
-    "date": "2024-04-12",
-    "region": "NA",
-    "customer": "Company 19",
-    "revenue": 8234.96,
-    "tickets": 5
-  },
-  {
-    "orderId": "A0247",
-    "date": "2023-07-15",
-    "region": "EMEA",
-    "customer": "Company 25",
-    "revenue": 5224.45,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08248",
-    "date": "2023-10-05",
-    "region": "LATAM",
-    "customer": "Company 47",
-    "revenue": 8742.31,
-    "tickets": 10
-  },
-  {
-    "orderId": "A08438",
-    "date": "2023-08-14",
-    "region": "LATAM",
-    "customer": "Company 6",
-    "revenue": 7535.97,
-    "tickets": 8
-  },
-  {
-    "orderId": "A09176",
-    "date": "2024-08-04",
-    "region": "LATAM",
-    "customer": "Company 33",
-    "revenue": 5111.38,
-    "tickets": 7
-  },
-  {
-    "orderId": "A05524",
-    "date": "2024-08-09",
-    "region": "LATAM",
-    "customer": "Company 50",
-    "revenue": 4840.7,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01710",
-    "date": "2024-01-18",
-    "region": "EMEA",
-    "customer": "Company 8",
-    "revenue": 4313.07,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03647",
-    "date": "2023-08-31",
-    "region": "NA",
-    "customer": "Company 29",
-    "revenue": 980.52,
-    "tickets": 7
-  },
-  {
-    "orderId": "A09987",
-    "date": "2024-05-12",
-    "region": "EMEA",
-    "customer": "Company 95",
-    "revenue": 5999.29,
-    "tickets": 6
-  },
-  {
-    "orderId": "A09483",
-    "date": "2023-10-28",
-    "region": "NA",
-    "customer": "Company 1",
-    "revenue": 4697.66,
-    "tickets": 6
-  },
-  {
-    "orderId": "A0415",
-    "date": "2023-11-12",
-    "region": "LATAM",
-    "customer": "Company 47",
-    "revenue": 3671.67,
-    "tickets": 5
-  },
-  {
-    "orderId": "A0591",
-    "date": "2024-01-31",
-    "region": "APAC",
-    "customer": "Company 19",
-    "revenue": 4010.91,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03428",
-    "date": "2025-04-11",
-    "region": "LATAM",
-    "customer": "Company 20",
-    "revenue": 6491.83,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05635",
-    "date": "2025-03-31",
-    "region": "LATAM",
-    "customer": "Company 49",
-    "revenue": 7116.04,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07023",
-    "date": "2024-02-29",
-    "region": "LATAM",
-    "customer": "Company 64",
-    "revenue": 6087.82,
-    "tickets": 3
-  },
-  {
-    "orderId": "A0269",
-    "date": "2023-07-02",
-    "region": "NA",
-    "customer": "Company 96",
-    "revenue": 341.31,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05573",
-    "date": "2024-06-20",
-    "region": "EMEA",
-    "customer": "Company 75",
-    "revenue": 7160.55,
-    "tickets": 5
-  },
-  {
-    "orderId": "A03084",
-    "date": "2024-02-09",
-    "region": "NA",
-    "customer": "Company 69",
-    "revenue": 4543.13,
-    "tickets": 6
-  },
-  {
-    "orderId": "A04035",
-    "date": "2024-03-09",
-    "region": "LATAM",
-    "customer": "Company 50",
-    "revenue": 450.08,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01805",
-    "date": "2024-07-04",
-    "region": "NA",
-    "customer": "Company 61",
-    "revenue": 7994.14,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05031",
-    "date": "2024-08-20",
-    "region": "EMEA",
-    "customer": "Company 7",
-    "revenue": 4026.79,
-    "tickets": 10
-  },
-  {
-    "orderId": "A05865",
-    "date": "2024-03-07",
-    "region": "NA",
-    "customer": "Company 85",
-    "revenue": 3158.97,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03625",
-    "date": "2024-01-04",
-    "region": "EMEA",
-    "customer": "Company 33",
-    "revenue": 6560.54,
-    "tickets": 5
-  },
-  {
-    "orderId": "A02581",
-    "date": "2023-09-06",
-    "region": "LATAM",
-    "customer": "Company 55",
-    "revenue": 1802.83,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06656",
-    "date": "2025-04-25",
-    "region": "EMEA",
-    "customer": "Company 91",
-    "revenue": 1676.86,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07425",
-    "date": "2023-11-04",
-    "region": "APAC",
-    "customer": "Company 63",
-    "revenue": 1443.53,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03142",
-    "date": "2023-08-21",
-    "region": "APAC",
-    "customer": "Company 69",
-    "revenue": 4337.35,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07103",
-    "date": "2023-11-09",
-    "region": "NA",
-    "customer": "Company 35",
-    "revenue": 8479.46,
-    "tickets": 2
-  },
-  {
-    "orderId": "A0554",
-    "date": "2024-12-03",
-    "region": "EMEA",
-    "customer": "Company 27",
-    "revenue": 5348.89,
-    "tickets": 6
-  },
-  {
-    "orderId": "A03886",
-    "date": "2024-07-01",
-    "region": "EMEA",
-    "customer": "Company 10",
-    "revenue": 6916.17,
-    "tickets": 1
-  },
-  {
-    "orderId": "A09145",
-    "date": "2025-01-26",
-    "region": "NA",
-    "customer": "Company 28",
-    "revenue": 2636.0,
-    "tickets": 9
-  },
-  {
-    "orderId": "A07234",
-    "date": "2024-01-17",
-    "region": "LATAM",
-    "customer": "Company 27",
-    "revenue": 4093.45,
-    "tickets": 5
-  },
-  {
-    "orderId": "A02052",
-    "date": "2024-03-09",
-    "region": "EMEA",
-    "customer": "Company 38",
-    "revenue": 1779.47,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07316",
-    "date": "2024-04-05",
-    "region": "APAC",
-    "customer": "Company 34",
-    "revenue": 8180.46,
-    "tickets": 10
-  },
-  {
-    "orderId": "A03439",
-    "date": "2025-03-17",
-    "region": "EMEA",
-    "customer": "Company 38",
-    "revenue": 9517.02,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03876",
-    "date": "2024-04-05",
-    "region": "LATAM",
-    "customer": "Company 39",
-    "revenue": 9523.02,
-    "tickets": 8
-  },
-  {
-    "orderId": "A03312",
-    "date": "2025-05-25",
-    "region": "APAC",
-    "customer": "Company 92",
-    "revenue": 1039.32,
-    "tickets": 5
-  },
-  {
-    "orderId": "A08181",
-    "date": "2023-08-08",
-    "region": "NA",
-    "customer": "Company 27",
-    "revenue": 4661.03,
-    "tickets": 2
-  },
-  {
-    "orderId": "A06849",
-    "date": "2024-08-27",
-    "region": "NA",
-    "customer": "Company 59",
-    "revenue": 2521.89,
-    "tickets": 2
-  },
-  {
-    "orderId": "A09522",
-    "date": "2023-07-23",
-    "region": "EMEA",
-    "customer": "Company 8",
-    "revenue": 9077.71,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05934",
-    "date": "2024-02-13",
-    "region": "EMEA",
-    "customer": "Company 64",
-    "revenue": 9100.61,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03824",
-    "date": "2024-01-15",
-    "region": "APAC",
-    "customer": "Company 75",
-    "revenue": 7034.45,
-    "tickets": 1
-  },
-  {
-    "orderId": "A04148",
-    "date": "2023-12-01",
-    "region": "EMEA",
-    "customer": "Company 13",
-    "revenue": 966.63,
-    "tickets": 6
-  },
-  {
-    "orderId": "A02267",
-    "date": "2025-03-24",
-    "region": "EMEA",
-    "customer": "Company 28",
-    "revenue": 6799.13,
-    "tickets": 4
-  },
-  {
-    "orderId": "A02486",
-    "date": "2023-09-01",
-    "region": "NA",
-    "customer": "Company 18",
-    "revenue": 8829.12,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03069",
-    "date": "2024-08-02",
-    "region": "NA",
-    "customer": "Company 2",
-    "revenue": 5906.6,
-    "tickets": 3
-  },
-  {
-    "orderId": "A08263",
-    "date": "2023-12-21",
-    "region": "LATAM",
-    "customer": "Company 90",
-    "revenue": 7130.51,
-    "tickets": 8
-  },
-  {
-    "orderId": "A03465",
-    "date": "2024-05-02",
-    "region": "APAC",
-    "customer": "Company 45",
-    "revenue": 2266.15,
-    "tickets": 2
-  },
-  {
-    "orderId": "A09518",
-    "date": "2024-05-24",
-    "region": "LATAM",
-    "customer": "Company 34",
-    "revenue": 2742.18,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08283",
-    "date": "2024-03-29",
-    "region": "EMEA",
-    "customer": "Company 11",
-    "revenue": 2842.57,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03588",
-    "date": "2024-11-14",
-    "region": "EMEA",
-    "customer": "Company 33",
-    "revenue": 863.48,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07542",
-    "date": "2023-09-14",
-    "region": "EMEA",
-    "customer": "Company 82",
-    "revenue": 6734.49,
-    "tickets": 6
-  },
-  {
-    "orderId": "A04817",
-    "date": "2023-08-17",
-    "region": "LATAM",
-    "customer": "Company 25",
-    "revenue": 1344.71,
-    "tickets": 6
-  },
-  {
-    "orderId": "A07187",
-    "date": "2024-05-01",
-    "region": "LATAM",
-    "customer": "Company 55",
-    "revenue": 1283.94,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07588",
-    "date": "2023-08-12",
-    "region": "NA",
-    "customer": "Company 81",
-    "revenue": 8735.75,
-    "tickets": 1
-  },
-  {
-    "orderId": "A03187",
-    "date": "2024-09-14",
-    "region": "NA",
-    "customer": "Company 66",
-    "revenue": 6983.49,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03466",
-    "date": "2025-01-15",
-    "region": "EMEA",
-    "customer": "Company 56",
-    "revenue": 6701.49,
-    "tickets": 5
-  },
-  {
-    "orderId": "A0323",
-    "date": "2024-07-14",
-    "region": "APAC",
-    "customer": "Company 21",
-    "revenue": 6288.59,
-    "tickets": 10
-  },
-  {
-    "orderId": "A03048",
-    "date": "2025-03-15",
-    "region": "APAC",
-    "customer": "Company 83",
-    "revenue": 8466.07,
-    "tickets": 7
-  },
-  {
-    "orderId": "A04371",
-    "date": "2024-01-09",
-    "region": "NA",
-    "customer": "Company 10",
-    "revenue": 7566.28,
-    "tickets": 9
-  },
-  {
-    "orderId": "A07863",
-    "date": "2023-08-23",
-    "region": "LATAM",
-    "customer": "Company 13",
-    "revenue": 5480.78,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05648",
-    "date": "2024-09-17",
-    "region": "NA",
-    "customer": "Company 42",
-    "revenue": 1757.63,
-    "tickets": 1
-  },
-  {
-    "orderId": "A04929",
-    "date": "2025-02-22",
-    "region": "LATAM",
-    "customer": "Company 76",
-    "revenue": 3232.81,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06960",
-    "date": "2024-11-30",
-    "region": "APAC",
-    "customer": "Company 22",
-    "revenue": 7860.43,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08929",
-    "date": "2023-08-30",
-    "region": "EMEA",
-    "customer": "Company 12",
-    "revenue": 9087.61,
-    "tickets": 4
-  },
-  {
-    "orderId": "A01964",
-    "date": "2024-06-08",
-    "region": "EMEA",
-    "customer": "Company 79",
-    "revenue": 4860.32,
-    "tickets": 3
-  },
-  {
-    "orderId": "A09459",
-    "date": "2025-01-31",
-    "region": "EMEA",
-    "customer": "Company 2",
-    "revenue": 2614.93,
-    "tickets": 7
-  },
-  {
-    "orderId": "A07470",
-    "date": "2024-05-14",
-    "region": "NA",
-    "customer": "Company 14",
-    "revenue": 7940.71,
-    "tickets": 8
-  },
-  {
-    "orderId": "A06033",
-    "date": "2024-07-25",
-    "region": "LATAM",
-    "customer": "Company 38",
-    "revenue": 3659.96,
-    "tickets": 6
   },
   {
     "orderId": "A06380",
-    "date": "2024-05-15",
-    "region": "APAC",
-    "customer": "Company 64",
-    "revenue": 1728.39,
-    "tickets": 8
-  },
-  {
-    "orderId": "A03612",
-    "date": "2024-05-03",
-    "region": "EMEA",
-    "customer": "Company 96",
-    "revenue": 9966.03,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07913",
-    "date": "2025-05-28",
-    "region": "EMEA",
-    "customer": "Company 7",
-    "revenue": 6128.07,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07011",
-    "date": "2025-04-17",
-    "region": "EMEA",
-    "customer": "Company 60",
-    "revenue": 3521.12,
-    "tickets": 10
-  },
-  {
-    "orderId": "A08651",
-    "date": "2025-05-17",
-    "region": "NA",
-    "customer": "Company 17",
-    "revenue": 8983.73,
-    "tickets": 2
-  },
-  {
-    "orderId": "A01167",
-    "date": "2023-08-16",
-    "region": "APAC",
-    "customer": "Company 58",
-    "revenue": 7782.07,
-    "tickets": 1
-  },
-  {
-    "orderId": "A02995",
-    "date": "2024-03-30",
-    "region": "APAC",
-    "customer": "Company 96",
-    "revenue": 472.27,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03056",
-    "date": "2024-08-30",
+    "date": "2023-04-10",
     "region": "LATAM",
-    "customer": "Company 10",
-    "revenue": 3293.57,
-    "tickets": 6
-  },
-  {
-    "orderId": "A09689",
-    "date": "2024-03-27",
-    "region": "APAC",
-    "customer": "Company 59",
-    "revenue": 6749.03,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02376",
-    "date": "2024-09-12",
-    "region": "APAC",
-    "customer": "Company 81",
-    "revenue": 3311.29,
-    "tickets": 7
-  },
-  {
-    "orderId": "A01630",
-    "date": "2023-06-24",
-    "region": "LATAM",
-    "customer": "Company 100",
-    "revenue": 5282.25,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01721",
-    "date": "2024-03-25",
-    "region": "APAC",
-    "customer": "Company 1",
-    "revenue": 6273.23,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05775",
-    "date": "2023-07-31",
-    "region": "EMEA",
-    "customer": "Company 52",
-    "revenue": 7374.76,
-    "tickets": 10
-  },
-  {
-    "orderId": "A09126",
-    "date": "2024-12-14",
-    "region": "EMEA",
-    "customer": "Company 2",
-    "revenue": 4498.22,
-    "tickets": 10
-  },
-  {
-    "orderId": "A0526",
-    "date": "2024-12-08",
-    "region": "EMEA",
-    "customer": "Company 41",
-    "revenue": 2403.96,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07254",
-    "date": "2024-01-24",
-    "region": "EMEA",
-    "customer": "Company 20",
-    "revenue": 8045.61,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05092",
-    "date": "2025-03-12",
-    "region": "LATAM",
-    "customer": "Company 28",
-    "revenue": 5801.91,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08448",
-    "date": "2025-01-27",
-    "region": "LATAM",
-    "customer": "Company 47",
-    "revenue": 5766.43,
-    "tickets": 9
-  },
-  {
-    "orderId": "A05093",
-    "date": "2023-10-24",
-    "region": "NA",
-    "customer": "Company 35",
-    "revenue": 4499.09,
-    "tickets": 3
-  },
-  {
-    "orderId": "A08860",
-    "date": "2025-05-17",
-    "region": "APAC",
-    "customer": "Company 90",
-    "revenue": 8206.18,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01228",
-    "date": "2025-01-03",
-    "region": "NA",
-    "customer": "Company 47",
-    "revenue": 9985.54,
-    "tickets": 7
-  },
-  {
-    "orderId": "A09954",
-    "date": "2023-06-15",
-    "region": "APAC",
-    "customer": "Company 40",
-    "revenue": 9368.0,
-    "tickets": 10
-  },
-  {
-    "orderId": "A02910",
-    "date": "2024-02-22",
-    "region": "EMEA",
-    "customer": "Company 67",
-    "revenue": 4020.79,
-    "tickets": 7
-  },
-  {
-    "orderId": "A05353",
-    "date": "2023-11-20",
-    "region": "APAC",
-    "customer": "Company 100",
-    "revenue": 1224.23,
-    "tickets": 3
-  },
-  {
-    "orderId": "A06730",
-    "date": "2024-03-24",
-    "region": "APAC",
-    "customer": "Company 9",
-    "revenue": 999.29,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03722",
-    "date": "2024-02-05",
-    "region": "NA",
-    "customer": "Company 37",
-    "revenue": 7892.26,
-    "tickets": 5
-  },
-  {
-    "orderId": "A09999",
-    "date": "2023-11-08",
-    "region": "APAC",
-    "customer": "Company 62",
-    "revenue": 7465.27,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09205",
-    "date": "2025-04-21",
-    "region": "APAC",
-    "customer": "Company 10",
-    "revenue": 8764.57,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03417",
-    "date": "2023-12-25",
-    "region": "NA",
-    "customer": "Company 46",
-    "revenue": 1156.73,
-    "tickets": 6
-  },
-  {
-    "orderId": "A09817",
-    "date": "2025-04-07",
-    "region": "EMEA",
-    "customer": "Company 57",
-    "revenue": 6992.08,
-    "tickets": 3
-  },
-  {
-    "orderId": "A09282",
-    "date": "2024-04-07",
-    "region": "EMEA",
-    "customer": "Company 61",
-    "revenue": 4094.6,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07240",
-    "date": "2024-03-12",
-    "region": "APAC",
-    "customer": "Company 47",
-    "revenue": 5540.92,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05148",
-    "date": "2024-07-27",
-    "region": "APAC",
-    "customer": "Company 99",
-    "revenue": 1634.24,
-    "tickets": 3
-  },
-  {
-    "orderId": "A08208",
-    "date": "2024-10-22",
-    "region": "NA",
     "customer": "Company 38",
-    "revenue": 5782.36,
-    "tickets": 6
+    "revenue": 5186.22,
+    "tickets": 2
   },
   {
-    "orderId": "A08468",
-    "date": "2024-08-06",
-    "region": "NA",
-    "customer": "Company 35",
-    "revenue": 8254.15,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01655",
-    "date": "2025-04-08",
+    "orderId": "A06520",
+    "date": "2024-05-08",
     "region": "LATAM",
-    "customer": "Company 3",
-    "revenue": 3271.52,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05477",
-    "date": "2024-03-21",
-    "region": "APAC",
-    "customer": "Company 16",
-    "revenue": 7925.48,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01033",
-    "date": "2024-01-27",
-    "region": "LATAM",
-    "customer": "Company 23",
-    "revenue": 9865.15,
-    "tickets": 10
-  },
-  {
-    "orderId": "A02822",
-    "date": "2024-06-23",
-    "region": "LATAM",
-    "customer": "Company 20",
-    "revenue": 9807.27,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01569",
-    "date": "2025-01-30",
-    "region": "LATAM",
-    "customer": "Company 55",
-    "revenue": 670.68,
-    "tickets": 1
-  },
-  {
-    "orderId": "A09074",
-    "date": "2024-10-02",
-    "region": "EMEA",
-    "customer": "Company 17",
-    "revenue": 2037.33,
-    "tickets": 5
-  },
-  {
-    "orderId": "A03904",
-    "date": "2025-04-20",
-    "region": "APAC",
-    "customer": "Company 2",
-    "revenue": 3456.66,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09442",
-    "date": "2024-11-08",
-    "region": "NA",
-    "customer": "Company 86",
-    "revenue": 6364.79,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05994",
-    "date": "2024-11-18",
-    "region": "LATAM",
-    "customer": "Company 61",
-    "revenue": 2833.48,
-    "tickets": 5
-  },
-  {
-    "orderId": "A04527",
-    "date": "2025-01-18",
-    "region": "NA",
-    "customer": "Company 26",
-    "revenue": 1732.71,
-    "tickets": 8
-  },
-  {
-    "orderId": "A0829",
-    "date": "2024-07-20",
-    "region": "NA",
-    "customer": "Company 62",
-    "revenue": 5760.16,
-    "tickets": 7
-  },
-  {
-    "orderId": "A0356",
-    "date": "2025-02-03",
-    "region": "NA",
-    "customer": "Company 42",
-    "revenue": 8879.98,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08217",
-    "date": "2023-08-23",
-    "region": "LATAM",
-    "customer": "Company 76",
-    "revenue": 7105.14,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03653",
-    "date": "2023-08-26",
-    "region": "EMEA",
-    "customer": "Company 69",
-    "revenue": 986.47,
-    "tickets": 6
-  },
-  {
-    "orderId": "A03566",
-    "date": "2024-09-01",
-    "region": "EMEA",
-    "customer": "Company 63",
-    "revenue": 532.84,
-    "tickets": 10
-  },
-  {
-    "orderId": "A09422",
-    "date": "2025-02-25",
-    "region": "LATAM",
-    "customer": "Company 72",
-    "revenue": 1822.82,
-    "tickets": 5
-  },
-  {
-    "orderId": "A01458",
-    "date": "2024-06-16",
-    "region": "APAC",
-    "customer": "Company 54",
-    "revenue": 1137.73,
-    "tickets": 7
-  },
-  {
-    "orderId": "A01672",
-    "date": "2024-05-11",
-    "region": "EMEA",
-    "customer": "Company 35",
-    "revenue": 9660.87,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01911",
-    "date": "2025-01-29",
-    "region": "LATAM",
-    "customer": "Company 19",
-    "revenue": 6910.84,
-    "tickets": 5
-  },
-  {
-    "orderId": "A08527",
-    "date": "2025-03-20",
-    "region": "EMEA",
-    "customer": "Company 62",
-    "revenue": 9817.87,
-    "tickets": 7
-  },
-  {
-    "orderId": "A04112",
-    "date": "2024-12-03",
-    "region": "LATAM",
-    "customer": "Company 66",
-    "revenue": 9805.55,
-    "tickets": 9
-  },
-  {
-    "orderId": "A08296",
-    "date": "2024-05-31",
-    "region": "NA",
     "customer": "Company 56",
-    "revenue": 601.66,
-    "tickets": 3
-  },
-  {
-    "orderId": "A06928",
-    "date": "2024-05-18",
-    "region": "APAC",
-    "customer": "Company 37",
-    "revenue": 6748.48,
-    "tickets": 8
-  },
-  {
-    "orderId": "A01816",
-    "date": "2024-03-30",
-    "region": "EMEA",
-    "customer": "Company 9",
-    "revenue": 9120.79,
-    "tickets": 2
-  },
-  {
-    "orderId": "A01484",
-    "date": "2023-11-14",
-    "region": "EMEA",
-    "customer": "Company 71",
-    "revenue": 1846.45,
-    "tickets": 8
-  },
-  {
-    "orderId": "A04927",
-    "date": "2023-12-26",
-    "region": "EMEA",
-    "customer": "Company 75",
-    "revenue": 5736.75,
-    "tickets": 2
-  },
-  {
-    "orderId": "A09175",
-    "date": "2025-04-13",
-    "region": "NA",
-    "customer": "Company 18",
-    "revenue": 6177.07,
-    "tickets": 9
-  },
-  {
-    "orderId": "A04624",
-    "date": "2024-10-24",
-    "region": "EMEA",
-    "customer": "Company 38",
-    "revenue": 4043.55,
-    "tickets": 9
-  },
-  {
-    "orderId": "A08617",
-    "date": "2024-12-06",
-    "region": "EMEA",
-    "customer": "Company 80",
-    "revenue": 227.39,
-    "tickets": 5
-  },
-  {
-    "orderId": "A0764",
-    "date": "2024-03-13",
-    "region": "LATAM",
-    "customer": "Company 77",
-    "revenue": 8130.87,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09909",
-    "date": "2024-10-30",
-    "region": "NA",
-    "customer": "Company 66",
-    "revenue": 4261.53,
-    "tickets": 8
-  },
-  {
-    "orderId": "A0475",
-    "date": "2024-12-18",
-    "region": "APAC",
-    "customer": "Company 14",
-    "revenue": 4294.4,
-    "tickets": 6
-  },
-  {
-    "orderId": "A04063",
-    "date": "2024-07-30",
-    "region": "APAC",
-    "customer": "Company 51",
-    "revenue": 4825.42,
-    "tickets": 8
-  },
-  {
-    "orderId": "A03975",
-    "date": "2025-01-14",
-    "region": "EMEA",
-    "customer": "Company 24",
-    "revenue": 8886.31,
-    "tickets": 3
-  },
-  {
-    "orderId": "A03125",
-    "date": "2023-12-19",
-    "region": "APAC",
-    "customer": "Company 86",
-    "revenue": 5459.08,
-    "tickets": 1
-  },
-  {
-    "orderId": "A03245",
-    "date": "2025-04-22",
-    "region": "EMEA",
-    "customer": "Company 28",
-    "revenue": 307.01,
-    "tickets": 3
-  },
-  {
-    "orderId": "A04955",
-    "date": "2025-03-25",
-    "region": "NA",
-    "customer": "Company 15",
-    "revenue": 5085.1,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07313",
-    "date": "2023-11-04",
-    "region": "LATAM",
-    "customer": "Company 94",
-    "revenue": 3834.56,
-    "tickets": 6
-  },
-  {
-    "orderId": "A08667",
-    "date": "2023-10-25",
-    "region": "EMEA",
-    "customer": "Company 69",
-    "revenue": 7626.99,
-    "tickets": 8
-  },
-  {
-    "orderId": "A08223",
-    "date": "2024-02-20",
-    "region": "LATAM",
-    "customer": "Company 59",
-    "revenue": 8615.63,
-    "tickets": 8
-  },
-  {
-    "orderId": "A04958",
-    "date": "2025-05-24",
-    "region": "NA",
-    "customer": "Company 96",
-    "revenue": 6362.99,
+    "revenue": 3463.0,
     "tickets": 4
   },
   {
-    "orderId": "A03918",
-    "date": "2025-04-11",
-    "region": "LATAM",
-    "customer": "Company 77",
-    "revenue": 4143.82,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05622",
-    "date": "2024-12-19",
-    "region": "LATAM",
-    "customer": "Company 73",
-    "revenue": 8196.03,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07323",
-    "date": "2023-06-01",
-    "region": "APAC",
-    "customer": "Company 57",
-    "revenue": 2232.72,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08333",
-    "date": "2024-09-22",
-    "region": "LATAM",
-    "customer": "Company 58",
-    "revenue": 6639.72,
-    "tickets": 9
-  },
-  {
-    "orderId": "A05616",
-    "date": "2024-11-28",
-    "region": "LATAM",
-    "customer": "Company 99",
-    "revenue": 2361.81,
-    "tickets": 3
-  },
-  {
-    "orderId": "A0742",
-    "date": "2025-05-04",
-    "region": "NA",
-    "customer": "Company 13",
-    "revenue": 4065.89,
-    "tickets": 5
-  },
-  {
-    "orderId": "A04299",
-    "date": "2024-02-14",
-    "region": "EMEA",
-    "customer": "Company 18",
-    "revenue": 6650.17,
-    "tickets": 10
-  },
-  {
-    "orderId": "A06255",
-    "date": "2023-07-10",
-    "region": "NA",
-    "customer": "Company 17",
-    "revenue": 9076.63,
-    "tickets": 7
-  },
-  {
-    "orderId": "A07767",
-    "date": "2023-10-22",
+    "orderId": "A06279",
+    "date": "2023-02-19",
     "region": "APAC",
     "customer": "Company 46",
-    "revenue": 7165.48,
-    "tickets": 9
-  },
-  {
-    "orderId": "A04152",
-    "date": "2023-09-13",
-    "region": "EMEA",
-    "customer": "Company 37",
-    "revenue": 3117.87,
-    "tickets": 2
-  },
-  {
-    "orderId": "A04070",
-    "date": "2024-11-06",
-    "region": "APAC",
-    "customer": "Company 38",
-    "revenue": 3543.13,
-    "tickets": 10
-  },
-  {
-    "orderId": "A04193",
-    "date": "2023-06-08",
-    "region": "NA",
-    "customer": "Company 85",
-    "revenue": 6665.4,
-    "tickets": 2
-  },
-  {
-    "orderId": "A0951",
-    "date": "2025-03-30",
-    "region": "EMEA",
-    "customer": "Company 91",
-    "revenue": 4767.25,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07477",
-    "date": "2023-08-01",
-    "region": "APAC",
-    "customer": "Company 8",
-    "revenue": 5210.33,
-    "tickets": 4
-  },
-  {
-    "orderId": "A0242",
-    "date": "2024-10-19",
-    "region": "APAC",
-    "customer": "Company 27",
-    "revenue": 7815.99,
-    "tickets": 4
-  },
-  {
-    "orderId": "A04250",
-    "date": "2024-10-12",
-    "region": "NA",
-    "customer": "Company 52",
-    "revenue": 5330.47,
-    "tickets": 9
-  },
-  {
-    "orderId": "A0762",
-    "date": "2023-09-23",
-    "region": "LATAM",
-    "customer": "Company 90",
-    "revenue": 8295.56,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08419",
-    "date": "2024-11-19",
-    "region": "EMEA",
-    "customer": "Company 56",
-    "revenue": 5635.5,
-    "tickets": 1
-  },
-  {
-    "orderId": "A02841",
-    "date": "2025-02-27",
-    "region": "NA",
-    "customer": "Company 92",
-    "revenue": 3120.99,
+    "revenue": 4590.19,
     "tickets": 8
   },
   {
-    "orderId": "A0521",
-    "date": "2024-11-15",
-    "region": "NA",
-    "customer": "Company 45",
-    "revenue": 8654.69,
-    "tickets": 5
-  },
-  {
-    "orderId": "A0718",
-    "date": "2024-03-04",
-    "region": "NA",
-    "customer": "Company 68",
-    "revenue": 2367.32,
-    "tickets": 8
-  },
-  {
-    "orderId": "A06076",
-    "date": "2023-12-16",
-    "region": "EMEA",
-    "customer": "Company 98",
-    "revenue": 2388.63,
-    "tickets": 6
-  },
-  {
-    "orderId": "A05408",
-    "date": "2024-07-06",
-    "region": "APAC",
-    "customer": "Company 86",
-    "revenue": 7542.82,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02176",
-    "date": "2023-12-10",
+    "orderId": "A03424",
+    "date": "2023-02-10",
     "region": "LATAM",
-    "customer": "Company 22",
-    "revenue": 382.44,
-    "tickets": 3
-  },
-  {
-    "orderId": "A04012",
-    "date": "2024-08-19",
-    "region": "EMEA",
-    "customer": "Company 43",
-    "revenue": 6012.61,
-    "tickets": 5
-  },
-  {
-    "orderId": "A07734",
-    "date": "2025-03-18",
-    "region": "NA",
-    "customer": "Company 17",
-    "revenue": 5647.32,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01314",
-    "date": "2024-09-19",
-    "region": "NA",
-    "customer": "Company 34",
-    "revenue": 2642.26,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05480",
-    "date": "2024-05-03",
-    "region": "APAC",
-    "customer": "Company 29",
-    "revenue": 9866.51,
-    "tickets": 6
-  },
-  {
-    "orderId": "A09787",
-    "date": "2024-11-14",
-    "region": "APAC",
-    "customer": "Company 1",
-    "revenue": 6961.26,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05802",
-    "date": "2023-06-13",
-    "region": "NA",
-    "customer": "Company 29",
-    "revenue": 2729.34,
-    "tickets": 7
-  },
-  {
-    "orderId": "A01353",
-    "date": "2024-09-15",
-    "region": "NA",
-    "customer": "Company 97",
-    "revenue": 4283.56,
-    "tickets": 7
-  },
-  {
-    "orderId": "A04394",
-    "date": "2024-03-07",
-    "region": "LATAM",
-    "customer": "Company 74",
-    "revenue": 5328.77,
-    "tickets": 3
-  },
-  {
-    "orderId": "A0447",
-    "date": "2025-05-30",
-    "region": "EMEA",
-    "customer": "Company 58",
-    "revenue": 4900.95,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01786",
-    "date": "2025-03-28",
-    "region": "LATAM",
-    "customer": "Company 86",
-    "revenue": 2628.95,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02691",
-    "date": "2024-09-06",
-    "region": "LATAM",
-    "customer": "Company 77",
-    "revenue": 8949.87,
-    "tickets": 8
-  },
-  {
-    "orderId": "A0869",
-    "date": "2023-07-20",
-    "region": "LATAM",
-    "customer": "Company 81",
-    "revenue": 4468.2,
-    "tickets": 8
-  },
-  {
-    "orderId": "A06443",
-    "date": "2025-02-23",
-    "region": "NA",
-    "customer": "Company 51",
-    "revenue": 7316.44,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05047",
-    "date": "2024-09-06",
-    "region": "NA",
-    "customer": "Company 87",
-    "revenue": 7197.46,
-    "tickets": 2
-  },
-  {
-    "orderId": "A02255",
-    "date": "2024-06-26",
-    "region": "APAC",
-    "customer": "Company 58",
-    "revenue": 1010.22,
-    "tickets": 5
-  },
-  {
-    "orderId": "A04588",
-    "date": "2023-11-26",
-    "region": "NA",
-    "customer": "Company 65",
-    "revenue": 3098.9,
-    "tickets": 4
-  },
-  {
-    "orderId": "A04295",
-    "date": "2024-01-12",
-    "region": "EMEA",
-    "customer": "Company 84",
-    "revenue": 1068.69,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07445",
-    "date": "2024-03-23",
-    "region": "APAC",
-    "customer": "Company 59",
-    "revenue": 7525.18,
-    "tickets": 1
-  },
-  {
-    "orderId": "A09136",
-    "date": "2024-02-18",
-    "region": "APAC",
-    "customer": "Company 100",
-    "revenue": 3917.69,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01614",
-    "date": "2025-05-19",
-    "region": "EMEA",
-    "customer": "Company 59",
-    "revenue": 7268.37,
-    "tickets": 9
-  },
-  {
-    "orderId": "A08578",
-    "date": "2024-08-03",
-    "region": "APAC",
-    "customer": "Company 3",
-    "revenue": 5363.89,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01272",
-    "date": "2024-08-15",
-    "region": "NA",
-    "customer": "Company 10",
-    "revenue": 6819.48,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07688",
-    "date": "2024-08-07",
-    "region": "NA",
-    "customer": "Company 5",
-    "revenue": 6411.97,
-    "tickets": 6
-  },
-  {
-    "orderId": "A02318",
-    "date": "2023-07-03",
-    "region": "EMEA",
-    "customer": "Company 73",
-    "revenue": 8816.32,
-    "tickets": 5
-  },
-  {
-    "orderId": "A06198",
-    "date": "2024-10-14",
-    "region": "LATAM",
-    "customer": "Company 57",
-    "revenue": 2734.44,
-    "tickets": 3
-  },
-  {
-    "orderId": "A0866",
-    "date": "2025-03-05",
-    "region": "EMEA",
-    "customer": "Company 64",
-    "revenue": 648.19,
-    "tickets": 4
-  },
-  {
-    "orderId": "A04241",
-    "date": "2024-10-17",
-    "region": "EMEA",
-    "customer": "Company 99",
-    "revenue": 4959.94,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05239",
-    "date": "2024-11-01",
-    "region": "APAC",
-    "customer": "Company 47",
-    "revenue": 2181.94,
-    "tickets": 5
-  },
-  {
-    "orderId": "A04883",
-    "date": "2023-08-26",
-    "region": "APAC",
-    "customer": "Company 96",
-    "revenue": 5848.87,
-    "tickets": 10
-  },
-  {
-    "orderId": "A09599",
-    "date": "2025-01-17",
-    "region": "NA",
-    "customer": "Company 48",
-    "revenue": 2302.79,
-    "tickets": 10
-  },
-  {
-    "orderId": "A08118",
-    "date": "2024-08-28",
-    "region": "LATAM",
-    "customer": "Company 44",
-    "revenue": 658.17,
-    "tickets": 3
-  },
-  {
-    "orderId": "A04088",
-    "date": "2024-07-17",
-    "region": "APAC",
-    "customer": "Company 73",
-    "revenue": 8545.58,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05234",
-    "date": "2023-07-18",
-    "region": "APAC",
-    "customer": "Company 77",
-    "revenue": 4066.72,
-    "tickets": 2
-  },
-  {
-    "orderId": "A03431",
-    "date": "2025-02-17",
-    "region": "EMEA",
-    "customer": "Company 7",
-    "revenue": 9676.2,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05780",
-    "date": "2024-10-14",
-    "region": "LATAM",
-    "customer": "Company 75",
-    "revenue": 1804.59,
-    "tickets": 1
-  },
-  {
-    "orderId": "A06847",
-    "date": "2023-12-12",
-    "region": "NA",
-    "customer": "Company 18",
-    "revenue": 3648.15,
-    "tickets": 5
-  },
-  {
-    "orderId": "A07438",
-    "date": "2024-04-18",
-    "region": "NA",
-    "customer": "Company 76",
-    "revenue": 7072.81,
-    "tickets": 1
-  },
-  {
-    "orderId": "A0382",
-    "date": "2024-01-29",
-    "region": "NA",
-    "customer": "Company 88",
-    "revenue": 4979.49,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05899",
-    "date": "2024-07-20",
-    "region": "LATAM",
-    "customer": "Company 82",
-    "revenue": 7130.53,
-    "tickets": 8
-  },
-  {
-    "orderId": "A09274",
-    "date": "2023-06-21",
-    "region": "LATAM",
-    "customer": "Company 82",
-    "revenue": 5342.76,
-    "tickets": 4
-  },
-  {
-    "orderId": "A03956",
-    "date": "2025-03-03",
-    "region": "LATAM",
-    "customer": "Company 15",
-    "revenue": 9043.7,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05571",
-    "date": "2024-08-24",
-    "region": "NA",
-    "customer": "Company 69",
-    "revenue": 9327.99,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01813",
-    "date": "2024-09-19",
-    "region": "EMEA",
-    "customer": "Company 42",
-    "revenue": 1245.25,
-    "tickets": 10
-  },
-  {
-    "orderId": "A04214",
-    "date": "2024-08-23",
-    "region": "LATAM",
-    "customer": "Company 60",
-    "revenue": 8399.75,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07489",
-    "date": "2025-03-13",
-    "region": "APAC",
-    "customer": "Company 74",
-    "revenue": 8564.58,
-    "tickets": 7
-  },
-  {
-    "orderId": "A06518",
-    "date": "2024-12-21",
-    "region": "APAC",
-    "customer": "Company 55",
-    "revenue": 1325.47,
-    "tickets": 2
-  },
-  {
-    "orderId": "A01538",
-    "date": "2024-10-11",
-    "region": "NA",
-    "customer": "Company 51",
-    "revenue": 9015.45,
-    "tickets": 1
-  },
-  {
-    "orderId": "A01748",
-    "date": "2025-01-22",
-    "region": "APAC",
-    "customer": "Company 36",
-    "revenue": 1230.01,
-    "tickets": 5
-  },
-  {
-    "orderId": "A05030",
-    "date": "2024-05-12",
-    "region": "LATAM",
-    "customer": "Company 38",
-    "revenue": 5294.55,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01769",
-    "date": "2024-01-05",
-    "region": "LATAM",
-    "customer": "Company 3",
-    "revenue": 6883.46,
-    "tickets": 9
-  },
-  {
-    "orderId": "A0441",
-    "date": "2024-10-12",
-    "region": "EMEA",
-    "customer": "Company 31",
-    "revenue": 8263.89,
-    "tickets": 2
-  },
-  {
-    "orderId": "A01992",
-    "date": "2024-06-21",
-    "region": "APAC",
-    "customer": "Company 19",
-    "revenue": 404.79,
-    "tickets": 5
-  },
-  {
-    "orderId": "A06368",
-    "date": "2025-04-16",
-    "region": "APAC",
-    "customer": "Company 37",
-    "revenue": 9753.67,
-    "tickets": 3
-  },
-  {
-    "orderId": "A08337",
-    "date": "2025-03-27",
-    "region": "APAC",
-    "customer": "Company 35",
-    "revenue": 9702.2,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05392",
-    "date": "2025-02-16",
-    "region": "NA",
-    "customer": "Company 55",
-    "revenue": 3680.34,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08368",
-    "date": "2024-04-16",
-    "region": "APAC",
-    "customer": "Company 71",
-    "revenue": 6904.03,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05925",
-    "date": "2024-12-26",
-    "region": "LATAM",
-    "customer": "Company 52",
-    "revenue": 1962.59,
-    "tickets": 5
-  },
-  {
-    "orderId": "A07833",
-    "date": "2023-07-02",
-    "region": "LATAM",
-    "customer": "Company 55",
-    "revenue": 7280.24,
-    "tickets": 10
-  },
-  {
-    "orderId": "A07566",
-    "date": "2023-06-14",
-    "region": "LATAM",
-    "customer": "Company 38",
-    "revenue": 1491.55,
-    "tickets": 10
-  },
-  {
-    "orderId": "A03249",
-    "date": "2024-01-20",
-    "region": "APAC",
-    "customer": "Company 88",
-    "revenue": 535.82,
-    "tickets": 2
-  },
-  {
-    "orderId": "A02481",
-    "date": "2023-11-23",
-    "region": "LATAM",
-    "customer": "Company 96",
-    "revenue": 7166.5,
-    "tickets": 7
-  },
-  {
-    "orderId": "A09452",
-    "date": "2025-03-12",
-    "region": "LATAM",
-    "customer": "Company 28",
-    "revenue": 1259.28,
-    "tickets": 5
-  },
-  {
-    "orderId": "A03695",
-    "date": "2024-12-27",
-    "region": "LATAM",
-    "customer": "Company 90",
-    "revenue": 1288.82,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09308",
-    "date": "2025-02-22",
-    "region": "EMEA",
-    "customer": "Company 51",
-    "revenue": 8499.3,
-    "tickets": 9
-  },
-  {
-    "orderId": "A0165",
-    "date": "2024-06-08",
-    "region": "NA",
-    "customer": "Company 41",
-    "revenue": 9259.07,
-    "tickets": 7
-  },
-  {
-    "orderId": "A07943",
-    "date": "2025-05-30",
-    "region": "EMEA",
-    "customer": "Company 2",
-    "revenue": 6758.59,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07060",
-    "date": "2024-11-25",
-    "region": "LATAM",
-    "customer": "Company 60",
-    "revenue": 5398.63,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07159",
-    "date": "2024-03-22",
-    "region": "NA",
-    "customer": "Company 23",
-    "revenue": 4743.36,
-    "tickets": 2
-  },
-  {
-    "orderId": "A06682",
-    "date": "2023-08-10",
-    "region": "LATAM",
-    "customer": "Company 8",
-    "revenue": 8632.15,
-    "tickets": 3
-  },
-  {
-    "orderId": "A08279",
-    "date": "2023-08-26",
-    "region": "LATAM",
-    "customer": "Company 71",
-    "revenue": 4850.85,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08849",
-    "date": "2024-02-11",
-    "region": "NA",
-    "customer": "Company 27",
-    "revenue": 1803.16,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01988",
-    "date": "2023-11-02",
-    "region": "EMEA",
-    "customer": "Company 11",
-    "revenue": 8465.81,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07963",
-    "date": "2023-06-09",
-    "region": "APAC",
-    "customer": "Company 20",
-    "revenue": 448.43,
-    "tickets": 2
-  },
-  {
-    "orderId": "A02080",
-    "date": "2024-08-12",
-    "region": "NA",
-    "customer": "Company 85",
-    "revenue": 4475.54,
-    "tickets": 7
-  },
-  {
-    "orderId": "A07092",
-    "date": "2024-11-18",
-    "region": "LATAM",
-    "customer": "Company 36",
-    "revenue": 6694.39,
-    "tickets": 9
-  },
-  {
-    "orderId": "A04373",
-    "date": "2023-10-05",
-    "region": "LATAM",
-    "customer": "Company 15",
-    "revenue": 2930.99,
-    "tickets": 3
-  },
-  {
-    "orderId": "A07328",
-    "date": "2025-02-26",
-    "region": "LATAM",
-    "customer": "Company 47",
-    "revenue": 6010.89,
-    "tickets": 7
-  },
-  {
-    "orderId": "A0873",
-    "date": "2024-09-16",
-    "region": "APAC",
-    "customer": "Company 53",
-    "revenue": 5697.65,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05326",
-    "date": "2024-04-25",
-    "region": "NA",
-    "customer": "Company 21",
-    "revenue": 5459.11,
-    "tickets": 9
-  },
-  {
-    "orderId": "A06742",
-    "date": "2023-06-17",
-    "region": "LATAM",
-    "customer": "Company 83",
-    "revenue": 5994.7,
-    "tickets": 1
-  },
-  {
-    "orderId": "A03429",
-    "date": "2023-08-28",
-    "region": "APAC",
-    "customer": "Company 86",
-    "revenue": 2777.02,
-    "tickets": 6
-  },
-  {
-    "orderId": "A0443",
-    "date": "2023-08-10",
-    "region": "NA",
-    "customer": "Company 1",
-    "revenue": 8805.68,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08515",
-    "date": "2024-07-04",
-    "region": "APAC",
-    "customer": "Company 50",
-    "revenue": 7068.09,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03016",
-    "date": "2023-07-15",
-    "region": "LATAM",
-    "customer": "Company 65",
-    "revenue": 502.26,
-    "tickets": 9
-  },
-  {
-    "orderId": "A06882",
-    "date": "2024-02-29",
-    "region": "APAC",
-    "customer": "Company 87",
-    "revenue": 4792.66,
-    "tickets": 7
-  },
-  {
-    "orderId": "A02330",
-    "date": "2025-03-05",
-    "region": "LATAM",
-    "customer": "Company 65",
-    "revenue": 4299.93,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08643",
-    "date": "2024-07-14",
-    "region": "LATAM",
-    "customer": "Company 37",
-    "revenue": 8811.49,
-    "tickets": 8
-  },
-  {
-    "orderId": "A09391",
-    "date": "2024-07-05",
-    "region": "NA",
-    "customer": "Company 21",
-    "revenue": 532.54,
-    "tickets": 10
-  },
-  {
-    "orderId": "A01821",
-    "date": "2023-07-13",
-    "region": "EMEA",
-    "customer": "Company 26",
-    "revenue": 157.9,
-    "tickets": 6
-  },
-  {
-    "orderId": "A0268",
-    "date": "2025-02-26",
-    "region": "NA",
-    "customer": "Company 44",
-    "revenue": 683.43,
-    "tickets": 2
-  },
-  {
-    "orderId": "A06116",
-    "date": "2024-02-24",
-    "region": "EMEA",
-    "customer": "Company 8",
-    "revenue": 189.57,
-    "tickets": 7
-  },
-  {
-    "orderId": "A03352",
-    "date": "2023-11-29",
-    "region": "NA",
-    "customer": "Company 84",
-    "revenue": 183.24,
-    "tickets": 9
-  },
-  {
-    "orderId": "A03936",
-    "date": "2023-12-18",
-    "region": "EMEA",
-    "customer": "Company 33",
-    "revenue": 5026.26,
-    "tickets": 10
-  },
-  {
-    "orderId": "A09524",
-    "date": "2023-12-05",
-    "region": "APAC",
     "customer": "Company 24",
-    "revenue": 8464.79,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08623",
-    "date": "2024-08-10",
-    "region": "APAC",
-    "customer": "Company 76",
-    "revenue": 5979.55,
+    "revenue": 9450.89,
     "tickets": 2
   },
   {
-    "orderId": "A01176",
-    "date": "2024-05-10",
-    "region": "LATAM",
-    "customer": "Company 15",
-    "revenue": 4165.3,
-    "tickets": 10
-  },
-  {
-    "orderId": "A0477",
-    "date": "2023-09-03",
-    "region": "LATAM",
-    "customer": "Company 37",
-    "revenue": 8139.95,
-    "tickets": 1
-  },
-  {
-    "orderId": "A03425",
-    "date": "2023-10-09",
-    "region": "EMEA",
-    "customer": "Company 74",
-    "revenue": 8904.66,
-    "tickets": 2
-  },
-  {
-    "orderId": "A0221",
-    "date": "2025-04-29",
-    "region": "NA",
-    "customer": "Company 60",
-    "revenue": 4834.99,
-    "tickets": 2
-  },
-  {
-    "orderId": "A08297",
-    "date": "2025-01-10",
-    "region": "NA",
-    "customer": "Company 35",
-    "revenue": 6885.68,
-    "tickets": 7
-  },
-  {
-    "orderId": "A0522",
-    "date": "2024-01-11",
+    "orderId": "A07361",
+    "date": "2023-04-10",
     "region": "APAC",
-    "customer": "Company 39",
-    "revenue": 1950.88,
-    "tickets": 5
-  },
-  {
-    "orderId": "A01223",
-    "date": "2024-12-09",
-    "region": "NA",
-    "customer": "Company 62",
-    "revenue": 9562.73,
-    "tickets": 8
-  },
-  {
-    "orderId": "A08804",
-    "date": "2024-09-05",
-    "region": "EMEA",
-    "customer": "Company 86",
-    "revenue": 1070.89,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06661",
-    "date": "2024-04-18",
-    "region": "APAC",
-    "customer": "Company 54",
-    "revenue": 3152.13,
-    "tickets": 8
-  },
-  {
-    "orderId": "A03182",
-    "date": "2024-09-23",
-    "region": "APAC",
-    "customer": "Company 17",
-    "revenue": 568.04,
-    "tickets": 9
-  },
-  {
-    "orderId": "A0486",
-    "date": "2023-12-04",
-    "region": "APAC",
-    "customer": "Company 96",
-    "revenue": 9253.03,
-    "tickets": 2
-  },
-  {
-    "orderId": "A04960",
-    "date": "2023-09-24",
-    "region": "APAC",
-    "customer": "Company 57",
-    "revenue": 8647.94,
-    "tickets": 1
-  },
-  {
-    "orderId": "A09738",
-    "date": "2023-06-09",
-    "region": "APAC",
-    "customer": "Company 76",
-    "revenue": 6659.53,
-    "tickets": 4
-  },
-  {
-    "orderId": "A05286",
-    "date": "2025-03-05",
-    "region": "NA",
-    "customer": "Company 47",
-    "revenue": 9207.65,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07591",
-    "date": "2025-05-29",
-    "region": "APAC",
-    "customer": "Company 31",
-    "revenue": 3500.89,
-    "tickets": 4
-  },
-  {
-    "orderId": "A09624",
-    "date": "2025-03-09",
-    "region": "EMEA",
-    "customer": "Company 19",
-    "revenue": 4484.09,
-    "tickets": 4
-  },
-  {
-    "orderId": "A09299",
-    "date": "2024-06-03",
-    "region": "APAC",
-    "customer": "Company 47",
-    "revenue": 184.04,
-    "tickets": 7
-  },
-  {
-    "orderId": "A08693",
-    "date": "2024-02-09",
-    "region": "NA",
-    "customer": "Company 55",
-    "revenue": 9165.75,
-    "tickets": 1
-  },
-  {
-    "orderId": "A04720",
-    "date": "2024-10-14",
-    "region": "NA",
-    "customer": "Company 95",
-    "revenue": 9963.19,
-    "tickets": 5
-  },
-  {
-    "orderId": "A0670",
-    "date": "2024-07-07",
-    "region": "EMEA",
-    "customer": "Company 82",
-    "revenue": 404.29,
-    "tickets": 3
-  },
-  {
-    "orderId": "A0270",
-    "date": "2024-02-03",
-    "region": "APAC",
-    "customer": "Company 89",
-    "revenue": 1079.18,
-    "tickets": 1
-  },
-  {
-    "orderId": "A04349",
-    "date": "2024-02-09",
-    "region": "LATAM",
-    "customer": "Company 67",
-    "revenue": 7588.19,
-    "tickets": 3
-  },
-  {
-    "orderId": "A09366",
-    "date": "2023-07-20",
-    "region": "LATAM",
-    "customer": "Company 33",
-    "revenue": 6877.32,
-    "tickets": 9
-  },
-  {
-    "orderId": "A05427",
-    "date": "2025-03-09",
-    "region": "LATAM",
-    "customer": "Company 78",
-    "revenue": 8026.54,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07246",
-    "date": "2023-11-29",
-    "region": "APAC",
-    "customer": "Company 27",
-    "revenue": 853.1,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05197",
-    "date": "2025-01-28",
-    "region": "APAC",
-    "customer": "Company 18",
-    "revenue": 8651.62,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07789",
-    "date": "2024-12-27",
-    "region": "APAC",
-    "customer": "Company 24",
-    "revenue": 9060.98,
-    "tickets": 9
-  },
-  {
-    "orderId": "A05271",
-    "date": "2024-12-04",
-    "region": "LATAM",
-    "customer": "Company 57",
-    "revenue": 1151.15,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07837",
-    "date": "2025-03-14",
-    "region": "NA",
-    "customer": "Company 97",
-    "revenue": 7449.32,
-    "tickets": 8
-  },
-  {
-    "orderId": "A06806",
-    "date": "2023-06-19",
-    "region": "EMEA",
-    "customer": "Company 88",
-    "revenue": 3633.16,
-    "tickets": 6
-  },
-  {
-    "orderId": "A0200",
-    "date": "2025-03-05",
-    "region": "EMEA",
-    "customer": "Company 34",
-    "revenue": 2371.49,
-    "tickets": 7
-  },
-  {
-    "orderId": "A02358",
-    "date": "2024-08-24",
-    "region": "EMEA",
-    "customer": "Company 82",
-    "revenue": 4696.91,
-    "tickets": 2
-  },
-  {
-    "orderId": "A03635",
-    "date": "2025-03-21",
-    "region": "LATAM",
-    "customer": "Company 90",
-    "revenue": 764.32,
-    "tickets": 8
-  },
-  {
-    "orderId": "A01607",
-    "date": "2024-05-18",
-    "region": "NA",
-    "customer": "Company 74",
-    "revenue": 4696.35,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05029",
-    "date": "2025-05-20",
-    "region": "NA",
-    "customer": "Company 33",
-    "revenue": 9561.96,
-    "tickets": 2
-  },
-  {
-    "orderId": "A08760",
-    "date": "2025-01-11",
-    "region": "LATAM",
-    "customer": "Company 5",
-    "revenue": 765.02,
-    "tickets": 1
-  },
-  {
-    "orderId": "A03651",
-    "date": "2024-01-14",
-    "region": "LATAM",
-    "customer": "Company 25",
-    "revenue": 6037.8,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08265",
-    "date": "2023-08-18",
-    "region": "EMEA",
-    "customer": "Company 14",
-    "revenue": 4095.46,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09686",
-    "date": "2023-08-14",
-    "region": "APAC",
-    "customer": "Company 2",
-    "revenue": 9195.71,
-    "tickets": 5
-  },
-  {
-    "orderId": "A08805",
-    "date": "2023-06-30",
-    "region": "APAC",
-    "customer": "Company 69",
-    "revenue": 5803.89,
-    "tickets": 9
-  },
-  {
-    "orderId": "A07134",
-    "date": "2025-03-27",
-    "region": "APAC",
-    "customer": "Company 27",
-    "revenue": 9807.57,
-    "tickets": 3
-  },
-  {
-    "orderId": "A01352",
-    "date": "2025-05-19",
-    "region": "APAC",
-    "customer": "Company 68",
-    "revenue": 2187.66,
-    "tickets": 4
-  },
-  {
-    "orderId": "A07109",
-    "date": "2024-05-24",
-    "region": "APAC",
-    "customer": "Company 41",
-    "revenue": 6842.26,
-    "tickets": 6
-  },
-  {
-    "orderId": "A07343",
-    "date": "2025-03-04",
-    "region": "APAC",
-    "customer": "Company 22",
-    "revenue": 416.26,
-    "tickets": 6
-  },
-  {
-    "orderId": "A04589",
-    "date": "2025-04-26",
-    "region": "EMEA",
-    "customer": "Company 80",
-    "revenue": 6292.99,
-    "tickets": 2
-  },
-  {
-    "orderId": "A06126",
-    "date": "2023-12-05",
-    "region": "NA",
-    "customer": "Company 71",
-    "revenue": 752.86,
-    "tickets": 5
-  },
-  {
-    "orderId": "A04199",
-    "date": "2025-01-23",
-    "region": "LATAM",
-    "customer": "Company 36",
-    "revenue": 1221.34,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07389",
-    "date": "2024-09-29",
-    "region": "LATAM",
-    "customer": "Company 25",
-    "revenue": 2525.48,
-    "tickets": 1
-  },
-  {
-    "orderId": "A05815",
-    "date": "2024-08-04",
-    "region": "EMEA",
-    "customer": "Company 31",
-    "revenue": 3345.23,
-    "tickets": 1
-  },
-  {
-    "orderId": "A07895",
-    "date": "2024-11-06",
-    "region": "EMEA",
-    "customer": "Company 57",
-    "revenue": 2133.3,
-    "tickets": 6
-  },
-  {
-    "orderId": "A06964",
-    "date": "2024-05-25",
-    "region": "APAC",
-    "customer": "Company 8",
-    "revenue": 3931.27,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02576",
-    "date": "2024-06-17",
-    "region": "NA",
-    "customer": "Company 69",
-    "revenue": 5995.71,
-    "tickets": 1
-  },
-  {
-    "orderId": "A0243",
-    "date": "2024-08-04",
-    "region": "EMEA",
-    "customer": "Company 79",
-    "revenue": 8101.81,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05566",
-    "date": "2024-02-16",
-    "region": "APAC",
-    "customer": "Company 91",
-    "revenue": 6629.52,
-    "tickets": 3
-  },
-  {
-    "orderId": "A05120",
-    "date": "2023-12-01",
-    "region": "APAC",
-    "customer": "Company 52",
-    "revenue": 4519.49,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01768",
-    "date": "2023-11-12",
-    "region": "APAC",
-    "customer": "Company 62",
-    "revenue": 4998.96,
-    "tickets": 8
-  },
-  {
-    "orderId": "A09551",
-    "date": "2025-03-26",
-    "region": "LATAM",
-    "customer": "Company 94",
-    "revenue": 7999.06,
-    "tickets": 7
-  },
-  {
-    "orderId": "A0910",
-    "date": "2025-01-08",
-    "region": "LATAM",
-    "customer": "Company 85",
-    "revenue": 9429.77,
-    "tickets": 6
-  },
-  {
-    "orderId": "A04597",
-    "date": "2024-12-24",
-    "region": "EMEA",
-    "customer": "Company 94",
-    "revenue": 7100.79,
-    "tickets": 8
-  },
-  {
-    "orderId": "A04463",
-    "date": "2024-04-18",
-    "region": "LATAM",
-    "customer": "Company 64",
-    "revenue": 8952.25,
-    "tickets": 1
-  },
-  {
-    "orderId": "A01942",
-    "date": "2023-11-02",
-    "region": "EMEA",
-    "customer": "Company 53",
-    "revenue": 7854.89,
-    "tickets": 4
-  },
-  {
-    "orderId": "A01883",
-    "date": "2023-10-25",
-    "region": "APAC",
-    "customer": "Company 10",
-    "revenue": 9570.88,
-    "tickets": 9
-  },
-  {
-    "orderId": "A05662",
-    "date": "2025-02-25",
-    "region": "EMEA",
-    "customer": "Company 53",
-    "revenue": 1818.67,
-    "tickets": 2
-  },
-  {
-    "orderId": "A05492",
-    "date": "2024-06-07",
-    "region": "APAC",
-    "customer": "Company 58",
-    "revenue": 9059.31,
-    "tickets": 7
-  },
-  {
-    "orderId": "A06162",
-    "date": "2024-09-03",
-    "region": "LATAM",
-    "customer": "Company 53",
-    "revenue": 1295.82,
-    "tickets": 8
-  },
-  {
-    "orderId": "A03231",
-    "date": "2023-11-15",
-    "region": "LATAM",
     "customer": "Company 13",
-    "revenue": 7423.97,
+    "revenue": 6865.16,
     "tickets": 5
   },
   {
-    "orderId": "A04161",
-    "date": "2024-02-21",
-    "region": "NA",
-    "customer": "Company 16",
-    "revenue": 9832.82,
-    "tickets": 5
-  },
-  {
-    "orderId": "A07525",
-    "date": "2025-01-23",
-    "region": "APAC",
-    "customer": "Company 94",
-    "revenue": 5967.9,
-    "tickets": 8
-  },
-  {
-    "orderId": "A0449",
-    "date": "2025-05-01",
-    "region": "NA",
-    "customer": "Company 60",
-    "revenue": 6083.27,
-    "tickets": 7
-  },
-  {
-    "orderId": "A07212",
-    "date": "2024-01-06",
-    "region": "APAC",
-    "customer": "Company 64",
-    "revenue": 6519.97,
-    "tickets": 7
-  },
-  {
-    "orderId": "A06746",
-    "date": "2023-10-09",
-    "region": "NA",
-    "customer": "Company 16",
-    "revenue": 5636.9,
-    "tickets": 7
-  },
-  {
-    "orderId": "A01411",
-    "date": "2025-05-21",
+    "orderId": "A02211",
+    "date": "2023-05-09",
     "region": "LATAM",
-    "customer": "Company 69",
-    "revenue": 622.58,
+    "customer": "Company 56",
+    "revenue": 878.59,
+    "tickets": 9
+  },
+  {
+    "orderId": "A07759",
+    "date": "2023-05-17",
+    "region": "NA",
+    "customer": "Company 25",
+    "revenue": 4680.24,
     "tickets": 1
   },
   {
-    "orderId": "A01742",
-    "date": "2023-07-09",
-    "region": "EMEA",
-    "customer": "Company 78",
-    "revenue": 4846.79,
-    "tickets": 2
-  },
-  {
-    "orderId": "A09827",
-    "date": "2024-06-23",
-    "region": "APAC",
-    "customer": "Company 49",
-    "revenue": 4972.44,
-    "tickets": 6
-  },
-  {
-    "orderId": "A08509",
-    "date": "2024-04-07",
-    "region": "EMEA",
-    "customer": "Company 38",
-    "revenue": 380.54,
-    "tickets": 4
-  },
-  {
-    "orderId": "A01736",
-    "date": "2023-06-28",
-    "region": "EMEA",
-    "customer": "Company 21",
-    "revenue": 1847.99,
-    "tickets": 6
-  },
-  {
-    "orderId": "A0795",
-    "date": "2024-10-05",
-    "region": "EMEA",
+    "orderId": "A01366",
+    "date": "2023-03-27",
+    "region": "LATAM",
     "customer": "Company 79",
-    "revenue": 9633.1,
-    "tickets": 2
-  },
-  {
-    "orderId": "A02215",
-    "date": "2024-09-10",
-    "region": "EMEA",
-    "customer": "Company 35",
-    "revenue": 8010.92,
-    "tickets": 1
-  },
-  {
-    "orderId": "A0824",
-    "date": "2024-12-07",
-    "region": "NA",
-    "customer": "Company 53",
-    "revenue": 1767.12,
-    "tickets": 3
-  },
-  {
-    "orderId": "A04350",
-    "date": "2023-09-08",
-    "region": "NA",
-    "customer": "Company 86",
-    "revenue": 9961.55,
-    "tickets": 8
-  },
-  {
-    "orderId": "A01174",
-    "date": "2025-05-10",
-    "region": "NA",
-    "customer": "Company 93",
-    "revenue": 1836.09,
-    "tickets": 9
-  },
-  {
-    "orderId": "A09100",
-    "date": "2023-09-16",
-    "region": "EMEA",
-    "customer": "Company 48",
-    "revenue": 4052.71,
-    "tickets": 2
-  },
-  {
-    "orderId": "A07544",
-    "date": "2025-03-27",
-    "region": "EMEA",
-    "customer": "Company 15",
-    "revenue": 3189.08,
-    "tickets": 7
-  },
-  {
-    "orderId": "A09083",
-    "date": "2023-07-18",
-    "region": "NA",
-    "customer": "Company 85",
-    "revenue": 5194.08,
-    "tickets": 8
-  },
-  {
-    "orderId": "A04734",
-    "date": "2024-03-11",
-    "region": "LATAM",
-    "customer": "Company 16",
-    "revenue": 6001.3,
-    "tickets": 5
-  },
-  {
-    "orderId": "A02172",
-    "date": "2024-07-02",
-    "region": "LATAM",
-    "customer": "Company 97",
-    "revenue": 2808.32,
-    "tickets": 4
-  },
-  {
-    "orderId": "A06734",
-    "date": "2024-05-18",
-    "region": "EMEA",
-    "customer": "Company 70",
-    "revenue": 3734.77,
-    "tickets": 2
-  },
-  {
-    "orderId": "A06831",
-    "date": "2023-08-22",
-    "region": "NA",
-    "customer": "Company 78",
-    "revenue": 4918.32,
-    "tickets": 8
-  },
-  {
-    "orderId": "A0499",
-    "date": "2024-12-05",
-    "region": "APAC",
-    "customer": "Company 54",
-    "revenue": 5157.0,
-    "tickets": 9
-  },
-  {
-    "orderId": "A04725",
-    "date": "2023-12-16",
-    "region": "LATAM",
-    "customer": "Company 82",
-    "revenue": 5925.15,
-    "tickets": 8
-  },
-  {
-    "orderId": "A01038",
-    "date": "2024-02-15",
-    "region": "APAC",
-    "customer": "Company 86",
-    "revenue": 247.82,
-    "tickets": 7
-  },
-  {
-    "orderId": "A04665",
-    "date": "2024-07-24",
-    "region": "LATAM",
-    "customer": "Company 33",
-    "revenue": 2144.7,
-    "tickets": 1
-  },
-  {
-    "orderId": "A02879",
-    "date": "2023-09-11",
-    "region": "APAC",
-    "customer": "Company 29",
-    "revenue": 8388.16,
-    "tickets": 8
-  },
-  {
-    "orderId": "A02188",
-    "date": "2024-03-11",
-    "region": "EMEA",
-    "customer": "Company 33",
-    "revenue": 3158.15,
-    "tickets": 10
-  },
-  {
-    "orderId": "A09111",
-    "date": "2024-12-03",
-    "region": "EMEA",
-    "customer": "Company 10",
-    "revenue": 6677.82,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08602",
-    "date": "2024-11-02",
-    "region": "EMEA",
-    "customer": "Company 38",
-    "revenue": 3765.38,
-    "tickets": 8
-  },
-  {
-    "orderId": "A07623",
-    "date": "2024-07-24",
-    "region": "APAC",
-    "customer": "Company 35",
-    "revenue": 6161.15,
-    "tickets": 6
-  },
-  {
-    "orderId": "A02402",
-    "date": "2025-05-14",
-    "region": "LATAM",
-    "customer": "Company 66",
-    "revenue": 2438.08,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01532",
-    "date": "2023-11-22",
-    "region": "LATAM",
-    "customer": "Company 74",
-    "revenue": 5753.86,
-    "tickets": 6
-  },
-  {
-    "orderId": "A06646",
-    "date": "2023-06-14",
-    "region": "NA",
-    "customer": "Company 53",
-    "revenue": 2746.2,
-    "tickets": 2
-  },
-  {
-    "orderId": "A01586",
-    "date": "2024-01-30",
-    "region": "EMEA",
-    "customer": "Company 5",
-    "revenue": 9284.29,
-    "tickets": 7
-  },
-  {
-    "orderId": "A01439",
-    "date": "2025-03-04",
-    "region": "EMEA",
-    "customer": "Company 29",
-    "revenue": 7894.51,
-    "tickets": 9
-  },
-  {
-    "orderId": "A01179",
-    "date": "2025-01-23",
-    "region": "LATAM",
-    "customer": "Company 72",
-    "revenue": 9359.61,
-    "tickets": 5
-  },
-  {
-    "orderId": "A02770",
-    "date": "2023-10-11",
-    "region": "LATAM",
-    "customer": "Company 97",
-    "revenue": 5346.05,
-    "tickets": 4
-  },
-  {
-    "orderId": "A05547",
-    "date": "2025-02-12",
-    "region": "LATAM",
-    "customer": "Company 10",
-    "revenue": 6146.92,
-    "tickets": 5
-  },
-  {
-    "orderId": "A09293",
-    "date": "2024-12-19",
-    "region": "NA",
-    "customer": "Company 19",
-    "revenue": 8992.35,
-    "tickets": 10
-  },
-  {
-    "orderId": "A08199",
-    "date": "2023-10-21",
-    "region": "APAC",
-    "customer": "Company 41",
-    "revenue": 7495.47,
-    "tickets": 7
-  },
-  {
-    "orderId": "A05569",
-    "date": "2024-10-11",
-    "region": "APAC",
-    "customer": "Company 64",
-    "revenue": 5786.01,
-    "tickets": 8
-  },
-  {
-    "orderId": "A05195",
-    "date": "2024-04-21",
-    "region": "NA",
-    "customer": "Company 70",
-    "revenue": 4539.19,
-    "tickets": 4
-  },
-  {
-    "orderId": "A08669",
-    "date": "2023-11-04",
-    "region": "LATAM",
-    "customer": "Company 31",
-    "revenue": 6187.16,
-    "tickets": 1
-  },
-  {
-    "orderId": "A02593",
-    "date": "2025-02-04",
-    "region": "EMEA",
-    "customer": "Company 76",
-    "revenue": 9799.6,
+    "revenue": 1643.08,
     "tickets": 9
   },
   {
     "orderId": "A05619",
-    "date": "2024-10-06",
+    "date": "2023-04-13",
     "region": "APAC",
-    "customer": "Company 83",
-    "revenue": 5443.99,
-    "tickets": 3
+    "customer": "Company 73",
+    "revenue": 1335.1,
+    "tickets": 8
   },
   {
-    "orderId": "A07054",
-    "date": "2024-11-05",
+    "orderId": "A02416",
+    "date": "2024-05-07",
     "region": "LATAM",
-    "customer": "Company 34",
-    "revenue": 6139.86,
+    "customer": "Company 20",
+    "revenue": 8226.18,
     "tickets": 3
   },
   {
-    "orderId": "A07420",
-    "date": "2024-05-31",
+    "orderId": "A09133",
+    "date": "2024-01-27",
     "region": "NA",
+    "customer": "Company 76",
+    "revenue": 7753.58,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04108",
+    "date": "2024-04-07",
+    "region": "LATAM",
+    "customer": "Company 37",
+    "revenue": 2605.75,
+    "tickets": 4
+  },
+  {
+    "orderId": "A03265",
+    "date": "2024-01-01",
+    "region": "LATAM",
+    "customer": "Company 78",
+    "revenue": 9756.57,
+    "tickets": 3
+  },
+  {
+    "orderId": "A03808",
+    "date": "2023-05-03",
+    "region": "APAC",
     "customer": "Company 38",
-    "revenue": 2126.18,
+    "revenue": 6555.08,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02685",
+    "date": "2023-04-04",
+    "region": "EMEA",
+    "customer": "Company 93",
+    "revenue": 8302.41,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07217",
+    "date": "2024-03-21",
+    "region": "EMEA",
+    "customer": "Company 29",
+    "revenue": 3854.65,
+    "tickets": 1
+  },
+  {
+    "orderId": "A08321",
+    "date": "2023-03-22",
+    "region": "EMEA",
+    "customer": "Company 34",
+    "revenue": 9840.48,
+    "tickets": 1
+  },
+  {
+    "orderId": "A03545",
+    "date": "2024-05-13",
+    "region": "APAC",
+    "customer": "Company 55",
+    "revenue": 1150.79,
+    "tickets": 1
+  },
+  {
+    "orderId": "A05884",
+    "date": "2023-02-10",
+    "region": "LATAM",
+    "customer": "Company 7",
+    "revenue": 9924.99,
+    "tickets": 6
+  },
+  {
+    "orderId": "A04817",
+    "date": "2023-02-13",
+    "region": "LATAM",
+    "customer": "Company 79",
+    "revenue": 6374.51,
     "tickets": 7
   },
   {
-    "orderId": "A0237",
-    "date": "2025-02-14",
+    "orderId": "A07458",
+    "date": "2024-01-06",
+    "region": "LATAM",
+    "customer": "Company 46",
+    "revenue": 3886.64,
+    "tickets": 3
+  },
+  {
+    "orderId": "A01393",
+    "date": "2024-03-25",
+    "region": "NA",
+    "customer": "Company 69",
+    "revenue": 3602.37,
+    "tickets": 7
+  },
+  {
+    "orderId": "A0796",
+    "date": "2023-03-01",
+    "region": "APAC",
+    "customer": "Company 38",
+    "revenue": 3834.7,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02648",
+    "date": "2024-04-20",
+    "region": "LATAM",
+    "customer": "Company 59",
+    "revenue": 9429.45,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06833",
+    "date": "2023-02-18",
+    "region": "NA",
+    "customer": "Company 47",
+    "revenue": 7300.29,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04044",
+    "date": "2024-03-27",
+    "region": "NA",
+    "customer": "Company 10",
+    "revenue": 6025.82,
+    "tickets": 8
+  },
+  {
+    "orderId": "A01053",
+    "date": "2024-02-04",
+    "region": "NA",
+    "customer": "Company 66",
+    "revenue": 293.54,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08175",
+    "date": "2024-03-14",
+    "region": "LATAM",
+    "customer": "Company 20",
+    "revenue": 8491.67,
+    "tickets": 6
+  },
+  {
+    "orderId": "A08468",
+    "date": "2024-02-22",
+    "region": "NA",
+    "customer": "Company 99",
+    "revenue": 5094.46,
+    "tickets": 4
+  },
+  {
+    "orderId": "A09807",
+    "date": "2024-03-24",
+    "region": "NA",
+    "customer": "Company 90",
+    "revenue": 1194.74,
+    "tickets": 3
+  },
+  {
+    "orderId": "A01230",
+    "date": "2024-05-08",
+    "region": "EMEA",
+    "customer": "Company 31",
+    "revenue": 5857.1,
+    "tickets": 10
+  },
+  {
+    "orderId": "A07222",
+    "date": "2024-04-25",
+    "region": "APAC",
+    "customer": "Company 44",
+    "revenue": 9780.13,
+    "tickets": 3
+  },
+  {
+    "orderId": "A09554",
+    "date": "2024-05-16",
+    "region": "EMEA",
+    "customer": "Company 5",
+    "revenue": 6353.54,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04208",
+    "date": "2023-04-07",
+    "region": "EMEA",
+    "customer": "Company 33",
+    "revenue": 8891.34,
+    "tickets": 7
+  },
+  {
+    "orderId": "A07459",
+    "date": "2023-02-20",
+    "region": "EMEA",
+    "customer": "Company 4",
+    "revenue": 2457.56,
+    "tickets": 1
+  },
+  {
+    "orderId": "A06806",
+    "date": "2024-01-06",
+    "region": "LATAM",
+    "customer": "Company 60",
+    "revenue": 8743.81,
+    "tickets": 10
+  },
+  {
+    "orderId": "A01799",
+    "date": "2023-01-13",
+    "region": "NA",
+    "customer": "Company 63",
+    "revenue": 3874.12,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05640",
+    "date": "2023-04-03",
+    "region": "APAC",
+    "customer": "Company 3",
+    "revenue": 7694.69,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02009",
+    "date": "2023-03-21",
+    "region": "NA",
+    "customer": "Company 18",
+    "revenue": 439.01,
+    "tickets": 7
+  },
+  {
+    "orderId": "A08799",
+    "date": "2024-01-25",
+    "region": "LATAM",
+    "customer": "Company 43",
+    "revenue": 250.76,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04842",
+    "date": "2023-02-28",
+    "region": "EMEA",
+    "customer": "Company 14",
+    "revenue": 9254.11,
+    "tickets": 10
+  },
+  {
+    "orderId": "A06872",
+    "date": "2023-04-22",
+    "region": "LATAM",
+    "customer": "Company 76",
+    "revenue": 9632.46,
+    "tickets": 7
+  },
+  {
+    "orderId": "A04590",
+    "date": "2023-01-19",
+    "region": "NA",
+    "customer": "Company 76",
+    "revenue": 2778.01,
+    "tickets": 8
+  },
+  {
+    "orderId": "A07810",
+    "date": "2023-03-12",
+    "region": "LATAM",
+    "customer": "Company 81",
+    "revenue": 9021.32,
+    "tickets": 6
+  },
+  {
+    "orderId": "A09232",
+    "date": "2023-02-02",
+    "region": "EMEA",
+    "customer": "Company 35",
+    "revenue": 7041.71,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05264",
+    "date": "2023-03-13",
     "region": "EMEA",
     "customer": "Company 82",
-    "revenue": 6151.77,
+    "revenue": 1600.07,
+    "tickets": 4
+  },
+  {
+    "orderId": "A0613",
+    "date": "2024-01-01",
+    "region": "EMEA",
+    "customer": "Company 93",
+    "revenue": 3223.29,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0300",
+    "date": "2023-03-24",
+    "region": "NA",
+    "customer": "Company 24",
+    "revenue": 7901.33,
+    "tickets": 9
+  },
+  {
+    "orderId": "A07983",
+    "date": "2024-04-15",
+    "region": "NA",
+    "customer": "Company 54",
+    "revenue": 3404.33,
+    "tickets": 8
+  },
+  {
+    "orderId": "A05929",
+    "date": "2024-05-04",
+    "region": "LATAM",
+    "customer": "Company 73",
+    "revenue": 8190.58,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01586",
+    "date": "2023-03-25",
+    "region": "EMEA",
+    "customer": "Company 83",
+    "revenue": 7606.76,
+    "tickets": 9
+  },
+  {
+    "orderId": "A07254",
+    "date": "2024-04-19",
+    "region": "EMEA",
+    "customer": "Company 46",
+    "revenue": 3691.53,
+    "tickets": 6
+  },
+  {
+    "orderId": "A09263",
+    "date": "2023-03-07",
+    "region": "APAC",
+    "customer": "Company 39",
+    "revenue": 2046.12,
+    "tickets": 8
+  },
+  {
+    "orderId": "A09125",
+    "date": "2024-05-08",
+    "region": "APAC",
+    "customer": "Company 98",
+    "revenue": 3996.49,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01812",
+    "date": "2024-03-08",
+    "region": "EMEA",
+    "customer": "Company 39",
+    "revenue": 9680.22,
+    "tickets": 8
+  },
+  {
+    "orderId": "A08344",
+    "date": "2023-05-27",
+    "region": "LATAM",
+    "customer": "Company 15",
+    "revenue": 1758.85,
+    "tickets": 8
+  },
+  {
+    "orderId": "A07518",
+    "date": "2024-04-09",
+    "region": "LATAM",
+    "customer": "Company 39",
+    "revenue": 5402.87,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01545",
+    "date": "2023-02-16",
+    "region": "APAC",
+    "customer": "Company 63",
+    "revenue": 8070.4,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07413",
+    "date": "2024-04-23",
+    "region": "NA",
+    "customer": "Company 86",
+    "revenue": 4169.39,
+    "tickets": 5
+  },
+  {
+    "orderId": "A02792",
+    "date": "2024-05-19",
+    "region": "APAC",
+    "customer": "Company 36",
+    "revenue": 8230.83,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0363",
+    "date": "2023-05-14",
+    "region": "NA",
+    "customer": "Company 63",
+    "revenue": 1821.94,
+    "tickets": 8
+  },
+  {
+    "orderId": "A03600",
+    "date": "2024-04-23",
+    "region": "LATAM",
+    "customer": "Company 18",
+    "revenue": 6396.0,
+    "tickets": 1
+  },
+  {
+    "orderId": "A03212",
+    "date": "2023-02-06",
+    "region": "EMEA",
+    "customer": "Company 39",
+    "revenue": 8396.32,
+    "tickets": 2
+  },
+  {
+    "orderId": "A06640",
+    "date": "2024-03-17",
+    "region": "APAC",
+    "customer": "Company 89",
+    "revenue": 6810.7,
+    "tickets": 10
+  },
+  {
+    "orderId": "A06254",
+    "date": "2024-02-24",
+    "region": "NA",
+    "customer": "Company 31",
+    "revenue": 1359.1,
     "tickets": 3
   },
   {
-    "orderId": "A09549",
-    "date": "2025-05-30",
+    "orderId": "A02639",
+    "date": "2023-01-07",
     "region": "LATAM",
-    "customer": "Company 26",
-    "revenue": 6172.74,
+    "customer": "Company 51",
+    "revenue": 6976.83,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05708",
+    "date": "2024-02-22",
+    "region": "APAC",
+    "customer": "Company 76",
+    "revenue": 5458.11,
+    "tickets": 2
+  },
+  {
+    "orderId": "A08549",
+    "date": "2023-01-18",
+    "region": "APAC",
+    "customer": "Company 43",
+    "revenue": 7178.96,
     "tickets": 7
+  },
+  {
+    "orderId": "A03720",
+    "date": "2023-04-04",
+    "region": "LATAM",
+    "customer": "Company 73",
+    "revenue": 4130.13,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07532",
+    "date": "2023-02-02",
+    "region": "NA",
+    "customer": "Company 87",
+    "revenue": 2732.26,
+    "tickets": 1
+  },
+  {
+    "orderId": "A01321",
+    "date": "2024-03-02",
+    "region": "APAC",
+    "customer": "Company 48",
+    "revenue": 2073.09,
+    "tickets": 1
+  },
+  {
+    "orderId": "A0569",
+    "date": "2023-02-15",
+    "region": "EMEA",
+    "customer": "Company 29",
+    "revenue": 3534.48,
+    "tickets": 8
+  },
+  {
+    "orderId": "A06105",
+    "date": "2023-01-28",
+    "region": "APAC",
+    "customer": "Company 51",
+    "revenue": 2770.8,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07294",
+    "date": "2023-01-10",
+    "region": "APAC",
+    "customer": "Company 15",
+    "revenue": 2160.51,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07078",
+    "date": "2024-01-11",
+    "region": "APAC",
+    "customer": "Company 15",
+    "revenue": 7950.13,
+    "tickets": 10
+  },
+  {
+    "orderId": "A03709",
+    "date": "2023-02-18",
+    "region": "APAC",
+    "customer": "Company 56",
+    "revenue": 3336.06,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07816",
+    "date": "2023-03-04",
+    "region": "NA",
+    "customer": "Company 3",
+    "revenue": 4766.91,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09118",
+    "date": "2024-03-02",
+    "region": "EMEA",
+    "customer": "Company 67",
+    "revenue": 1823.55,
+    "tickets": 3
+  },
+  {
+    "orderId": "A01238",
+    "date": "2023-04-16",
+    "region": "EMEA",
+    "customer": "Company 21",
+    "revenue": 8184.98,
+    "tickets": 1
+  },
+  {
+    "orderId": "A05278",
+    "date": "2024-02-21",
+    "region": "APAC",
+    "customer": "Company 2",
+    "revenue": 1181.03,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05675",
+    "date": "2023-05-08",
+    "region": "APAC",
+    "customer": "Company 1",
+    "revenue": 1094.2,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0245",
+    "date": "2023-04-06",
+    "region": "EMEA",
+    "customer": "Company 31",
+    "revenue": 647.18,
+    "tickets": 1
+  },
+  {
+    "orderId": "A03790",
+    "date": "2023-04-04",
+    "region": "NA",
+    "customer": "Company 62",
+    "revenue": 8675.25,
+    "tickets": 1
+  },
+  {
+    "orderId": "A01297",
+    "date": "2023-01-08",
+    "region": "LATAM",
+    "customer": "Company 23",
+    "revenue": 395.92,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02201",
+    "date": "2024-05-20",
+    "region": "APAC",
+    "customer": "Company 94",
+    "revenue": 4617.21,
+    "tickets": 9
+  },
+  {
+    "orderId": "A05669",
+    "date": "2023-02-12",
+    "region": "APAC",
+    "customer": "Company 18",
+    "revenue": 4012.06,
+    "tickets": 3
+  },
+  {
+    "orderId": "A04479",
+    "date": "2024-05-22",
+    "region": "NA",
+    "customer": "Company 60",
+    "revenue": 214.24,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01583",
+    "date": "2024-05-10",
+    "region": "LATAM",
+    "customer": "Company 89",
+    "revenue": 1051.94,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07791",
+    "date": "2024-01-22",
+    "region": "EMEA",
+    "customer": "Company 33",
+    "revenue": 5589.13,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01298",
+    "date": "2023-02-12",
+    "region": "EMEA",
+    "customer": "Company 78",
+    "revenue": 1192.79,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01450",
+    "date": "2024-02-01",
+    "region": "APAC",
+    "customer": "Company 20",
+    "revenue": 2324.51,
+    "tickets": 2
+  },
+  {
+    "orderId": "A09273",
+    "date": "2024-02-10",
+    "region": "APAC",
+    "customer": "Company 50",
+    "revenue": 3205.79,
+    "tickets": 9
+  },
+  {
+    "orderId": "A03449",
+    "date": "2023-02-12",
+    "region": "LATAM",
+    "customer": "Company 2",
+    "revenue": 7246.53,
+    "tickets": 3
+  },
+  {
+    "orderId": "A01171",
+    "date": "2023-02-14",
+    "region": "LATAM",
+    "customer": "Company 15",
+    "revenue": 7286.85,
+    "tickets": 4
+  },
+  {
+    "orderId": "A09770",
+    "date": "2024-01-22",
+    "region": "EMEA",
+    "customer": "Company 51",
+    "revenue": 7179.64,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02964",
+    "date": "2023-03-27",
+    "region": "EMEA",
+    "customer": "Company 28",
+    "revenue": 3865.63,
+    "tickets": 5
+  },
+  {
+    "orderId": "A09299",
+    "date": "2023-03-18",
+    "region": "APAC",
+    "customer": "Company 5",
+    "revenue": 191.4,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02274",
+    "date": "2023-03-03",
+    "region": "EMEA",
+    "customer": "Company 78",
+    "revenue": 3465.34,
+    "tickets": 2
+  },
+  {
+    "orderId": "A04059",
+    "date": "2023-05-18",
+    "region": "LATAM",
+    "customer": "Company 22",
+    "revenue": 7478.48,
+    "tickets": 6
+  },
+  {
+    "orderId": "A02775",
+    "date": "2023-01-04",
+    "region": "LATAM",
+    "customer": "Company 66",
+    "revenue": 1533.34,
+    "tickets": 5
+  },
+  {
+    "orderId": "A0558",
+    "date": "2023-01-07",
+    "region": "NA",
+    "customer": "Company 49",
+    "revenue": 4630.8,
+    "tickets": 1
+  },
+  {
+    "orderId": "A04708",
+    "date": "2024-04-28",
+    "region": "LATAM",
+    "customer": "Company 42",
+    "revenue": 5342.68,
+    "tickets": 2
+  },
+  {
+    "orderId": "A0781",
+    "date": "2024-02-23",
+    "region": "EMEA",
+    "customer": "Company 72",
+    "revenue": 2420.87,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05709",
+    "date": "2024-01-09",
+    "region": "APAC",
+    "customer": "Company 100",
+    "revenue": 286.44,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0821",
+    "date": "2024-05-21",
+    "region": "EMEA",
+    "customer": "Company 70",
+    "revenue": 1037.9,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07182",
+    "date": "2024-02-24",
+    "region": "LATAM",
+    "customer": "Company 10",
+    "revenue": 1071.41,
+    "tickets": 5
+  },
+  {
+    "orderId": "A01857",
+    "date": "2024-04-13",
+    "region": "NA",
+    "customer": "Company 15",
+    "revenue": 8553.91,
+    "tickets": 7
+  },
+  {
+    "orderId": "A0699",
+    "date": "2024-05-20",
+    "region": "LATAM",
+    "customer": "Company 78",
+    "revenue": 7051.52,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02462",
+    "date": "2024-03-11",
+    "region": "LATAM",
+    "customer": "Company 82",
+    "revenue": 1129.41,
+    "tickets": 4
+  },
+  {
+    "orderId": "A03529",
+    "date": "2023-04-13",
+    "region": "NA",
+    "customer": "Company 13",
+    "revenue": 6766.13,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05379",
+    "date": "2023-05-14",
+    "region": "APAC",
+    "customer": "Company 52",
+    "revenue": 4614.45,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07053",
+    "date": "2024-01-17",
+    "region": "LATAM",
+    "customer": "Company 44",
+    "revenue": 9734.45,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05815",
+    "date": "2023-01-26",
+    "region": "LATAM",
+    "customer": "Company 88",
+    "revenue": 6453.79,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05140",
+    "date": "2023-03-23",
+    "region": "LATAM",
+    "customer": "Company 58",
+    "revenue": 8065.18,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0865",
+    "date": "2024-02-17",
+    "region": "EMEA",
+    "customer": "Company 72",
+    "revenue": 276.06,
+    "tickets": 3
+  },
+  {
+    "orderId": "A03956",
+    "date": "2023-02-18",
+    "region": "APAC",
+    "customer": "Company 93",
+    "revenue": 4569.83,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05711",
+    "date": "2023-03-18",
+    "region": "EMEA",
+    "customer": "Company 64",
+    "revenue": 1772.86,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05614",
+    "date": "2023-05-10",
+    "region": "EMEA",
+    "customer": "Company 57",
+    "revenue": 9948.15,
+    "tickets": 6
+  },
+  {
+    "orderId": "A02136",
+    "date": "2024-01-15",
+    "region": "NA",
+    "customer": "Company 75",
+    "revenue": 5750.67,
+    "tickets": 6
+  },
+  {
+    "orderId": "A04390",
+    "date": "2023-02-14",
+    "region": "APAC",
+    "customer": "Company 74",
+    "revenue": 9432.28,
+    "tickets": 5
+  },
+  {
+    "orderId": "A01689",
+    "date": "2024-01-21",
+    "region": "APAC",
+    "customer": "Company 80",
+    "revenue": 5041.59,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02874",
+    "date": "2023-03-10",
+    "region": "EMEA",
+    "customer": "Company 90",
+    "revenue": 6205.63,
+    "tickets": 1
+  },
+  {
+    "orderId": "A06281",
+    "date": "2023-05-11",
+    "region": "EMEA",
+    "customer": "Company 55",
+    "revenue": 7854.22,
+    "tickets": 6
+  },
+  {
+    "orderId": "A08581",
+    "date": "2024-02-02",
+    "region": "EMEA",
+    "customer": "Company 83",
+    "revenue": 6759.27,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05515",
+    "date": "2023-04-05",
+    "region": "APAC",
+    "customer": "Company 90",
+    "revenue": 6395.0,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02137",
+    "date": "2024-02-27",
+    "region": "APAC",
+    "customer": "Company 99",
+    "revenue": 3618.24,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04303",
+    "date": "2023-02-19",
+    "region": "LATAM",
+    "customer": "Company 22",
+    "revenue": 2359.76,
+    "tickets": 2
+  },
+  {
+    "orderId": "A03251",
+    "date": "2024-04-07",
+    "region": "APAC",
+    "customer": "Company 44",
+    "revenue": 7965.81,
+    "tickets": 7
+  },
+  {
+    "orderId": "A03654",
+    "date": "2024-05-07",
+    "region": "NA",
+    "customer": "Company 92",
+    "revenue": 2988.18,
+    "tickets": 8
+  },
+  {
+    "orderId": "A04129",
+    "date": "2023-05-12",
+    "region": "EMEA",
+    "customer": "Company 58",
+    "revenue": 4218.27,
+    "tickets": 1
+  },
+  {
+    "orderId": "A05729",
+    "date": "2023-01-04",
+    "region": "EMEA",
+    "customer": "Company 97",
+    "revenue": 4142.28,
+    "tickets": 9
+  },
+  {
+    "orderId": "A06744",
+    "date": "2023-01-04",
+    "region": "NA",
+    "customer": "Company 92",
+    "revenue": 8846.98,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02965",
+    "date": "2023-05-17",
+    "region": "APAC",
+    "customer": "Company 51",
+    "revenue": 761.46,
+    "tickets": 2
+  },
+  {
+    "orderId": "A09136",
+    "date": "2023-05-25",
+    "region": "LATAM",
+    "customer": "Company 9",
+    "revenue": 9525.86,
+    "tickets": 1
+  },
+  {
+    "orderId": "A01313",
+    "date": "2023-01-19",
+    "region": "LATAM",
+    "customer": "Company 16",
+    "revenue": 1839.72,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01078",
+    "date": "2024-03-23",
+    "region": "APAC",
+    "customer": "Company 48",
+    "revenue": 749.6,
+    "tickets": 9
+  },
+  {
+    "orderId": "A01169",
+    "date": "2024-03-15",
+    "region": "LATAM",
+    "customer": "Company 11",
+    "revenue": 1780.56,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05843",
+    "date": "2023-04-19",
+    "region": "NA",
+    "customer": "Company 49",
+    "revenue": 9743.2,
+    "tickets": 8
+  },
+  {
+    "orderId": "A07760",
+    "date": "2023-05-15",
+    "region": "NA",
+    "customer": "Company 92",
+    "revenue": 6964.25,
+    "tickets": 8
+  },
+  {
+    "orderId": "A08092",
+    "date": "2024-04-21",
+    "region": "EMEA",
+    "customer": "Company 28",
+    "revenue": 1356.88,
+    "tickets": 4
+  },
+  {
+    "orderId": "A0108",
+    "date": "2023-02-02",
+    "region": "NA",
+    "customer": "Company 78",
+    "revenue": 1023.11,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07561",
+    "date": "2023-05-15",
+    "region": "NA",
+    "customer": "Company 79",
+    "revenue": 9017.62,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02141",
+    "date": "2023-02-23",
+    "region": "LATAM",
+    "customer": "Company 100",
+    "revenue": 8677.09,
+    "tickets": 10
+  },
+  {
+    "orderId": "A08139",
+    "date": "2023-04-02",
+    "region": "NA",
+    "customer": "Company 38",
+    "revenue": 2829.37,
+    "tickets": 1
+  },
+  {
+    "orderId": "A08996",
+    "date": "2024-02-12",
+    "region": "NA",
+    "customer": "Company 63",
+    "revenue": 5522.02,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09420",
+    "date": "2024-10-10",
+    "region": "EMEA",
+    "customer": "Company 44",
+    "revenue": 4861.35,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09490",
+    "date": "2024-12-16",
+    "region": "LATAM",
+    "customer": "Company 47",
+    "revenue": 945.58,
+    "tickets": 6
+  },
+  {
+    "orderId": "A04645",
+    "date": "2023-07-21",
+    "region": "EMEA",
+    "customer": "Company 35",
+    "revenue": 3251.03,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02865",
+    "date": "2025-04-25",
+    "region": "NA",
+    "customer": "Company 61",
+    "revenue": 8637.97,
+    "tickets": 2
+  },
+  {
+    "orderId": "A09988",
+    "date": "2023-08-09",
+    "region": "NA",
+    "customer": "Company 83",
+    "revenue": 4579.22,
+    "tickets": 10
+  },
+  {
+    "orderId": "A08143",
+    "date": "2023-07-02",
+    "region": "APAC",
+    "customer": "Company 2",
+    "revenue": 7615.47,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05592",
+    "date": "2024-01-18",
+    "region": "EMEA",
+    "customer": "Company 20",
+    "revenue": 5742.83,
+    "tickets": 5
+  },
+  {
+    "orderId": "A09430",
+    "date": "2025-05-19",
+    "region": "NA",
+    "customer": "Company 50",
+    "revenue": 367.34,
+    "tickets": 6
+  },
+  {
+    "orderId": "A07889",
+    "date": "2024-11-01",
+    "region": "LATAM",
+    "customer": "Company 23",
+    "revenue": 5397.38,
+    "tickets": 10
+  },
+  {
+    "orderId": "A07185",
+    "date": "2025-01-05",
+    "region": "EMEA",
+    "customer": "Company 36",
+    "revenue": 7205.93,
+    "tickets": 6
+  },
+  {
+    "orderId": "A07363",
+    "date": "2025-02-28",
+    "region": "LATAM",
+    "customer": "Company 38",
+    "revenue": 1412.77,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02159",
+    "date": "2023-11-01",
+    "region": "LATAM",
+    "customer": "Company 48",
+    "revenue": 1926.11,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02568",
+    "date": "2024-03-17",
+    "region": "LATAM",
+    "customer": "Company 77",
+    "revenue": 4284.12,
+    "tickets": 1
+  },
+  {
+    "orderId": "A03234",
+    "date": "2023-06-22",
+    "region": "EMEA",
+    "customer": "Company 93",
+    "revenue": 775.89,
+    "tickets": 7
+  },
+  {
+    "orderId": "A04849",
+    "date": "2023-11-10",
+    "region": "LATAM",
+    "customer": "Company 13",
+    "revenue": 2532.52,
+    "tickets": 6
+  },
+  {
+    "orderId": "A01585",
+    "date": "2025-04-04",
+    "region": "EMEA",
+    "customer": "Company 50",
+    "revenue": 1824.59,
+    "tickets": 2
+  },
+  {
+    "orderId": "A03810",
+    "date": "2023-07-18",
+    "region": "EMEA",
+    "customer": "Company 98",
+    "revenue": 7348.47,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05740",
+    "date": "2025-03-08",
+    "region": "LATAM",
+    "customer": "Company 53",
+    "revenue": 5031.39,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06406",
+    "date": "2024-08-08",
+    "region": "NA",
+    "customer": "Company 92",
+    "revenue": 1518.18,
+    "tickets": 5
+  },
+  {
+    "orderId": "A08781",
+    "date": "2024-10-04",
+    "region": "APAC",
+    "customer": "Company 19",
+    "revenue": 4070.04,
+    "tickets": 6
+  },
+  {
+    "orderId": "A06874",
+    "date": "2024-12-16",
+    "region": "NA",
+    "customer": "Company 25",
+    "revenue": 1993.71,
+    "tickets": 8
+  },
+  {
+    "orderId": "A07665",
+    "date": "2025-02-25",
+    "region": "LATAM",
+    "customer": "Company 37",
+    "revenue": 1000.77,
+    "tickets": 1
+  },
+  {
+    "orderId": "A06648",
+    "date": "2023-06-12",
+    "region": "APAC",
+    "customer": "Company 59",
+    "revenue": 6992.07,
+    "tickets": 9
+  },
+  {
+    "orderId": "A02299",
+    "date": "2024-06-01",
+    "region": "LATAM",
+    "customer": "Company 23",
+    "revenue": 7814.68,
+    "tickets": 8
+  },
+  {
+    "orderId": "A06955",
+    "date": "2025-03-13",
+    "region": "APAC",
+    "customer": "Company 56",
+    "revenue": 9184.84,
+    "tickets": 7
+  },
+  {
+    "orderId": "A0566",
+    "date": "2024-04-21",
+    "region": "APAC",
+    "customer": "Company 30",
+    "revenue": 758.81,
+    "tickets": 2
+  },
+  {
+    "orderId": "A03346",
+    "date": "2024-10-02",
+    "region": "LATAM",
+    "customer": "Company 57",
+    "revenue": 6041.13,
+    "tickets": 10
+  },
+  {
+    "orderId": "A02914",
+    "date": "2023-10-26",
+    "region": "NA",
+    "customer": "Company 43",
+    "revenue": 2104.46,
+    "tickets": 1
+  },
+  {
+    "orderId": "A04103",
+    "date": "2025-05-25",
+    "region": "NA",
+    "customer": "Company 41",
+    "revenue": 7095.23,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07661",
+    "date": "2023-08-23",
+    "region": "NA",
+    "customer": "Company 95",
+    "revenue": 7121.05,
+    "tickets": 5
+  },
+  {
+    "orderId": "A09396",
+    "date": "2024-08-12",
+    "region": "NA",
+    "customer": "Company 53",
+    "revenue": 4583.51,
+    "tickets": 5
+  },
+  {
+    "orderId": "A03728",
+    "date": "2024-05-28",
+    "region": "NA",
+    "customer": "Company 6",
+    "revenue": 167.2,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05130",
+    "date": "2024-05-09",
+    "region": "NA",
+    "customer": "Company 68",
+    "revenue": 894.9,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06048",
+    "date": "2024-05-07",
+    "region": "EMEA",
+    "customer": "Company 49",
+    "revenue": 8195.99,
+    "tickets": 6
+  },
+  {
+    "orderId": "A05245",
+    "date": "2023-06-02",
+    "region": "EMEA",
+    "customer": "Company 19",
+    "revenue": 6572.31,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07675",
+    "date": "2023-09-01",
+    "region": "LATAM",
+    "customer": "Company 73",
+    "revenue": 3338.46,
+    "tickets": 3
+  },
+  {
+    "orderId": "A01398",
+    "date": "2024-08-13",
+    "region": "EMEA",
+    "customer": "Company 31",
+    "revenue": 8776.19,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07567",
+    "date": "2025-02-17",
+    "region": "LATAM",
+    "customer": "Company 95",
+    "revenue": 3875.12,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09919",
+    "date": "2024-09-07",
+    "region": "APAC",
+    "customer": "Company 78",
+    "revenue": 1819.02,
+    "tickets": 9
+  },
+  {
+    "orderId": "A05122",
+    "date": "2024-08-16",
+    "region": "LATAM",
+    "customer": "Company 36",
+    "revenue": 5889.19,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05626",
+    "date": "2024-12-12",
+    "region": "NA",
+    "customer": "Company 21",
+    "revenue": 1801.96,
+    "tickets": 10
+  },
+  {
+    "orderId": "A07407",
+    "date": "2024-10-16",
+    "region": "EMEA",
+    "customer": "Company 80",
+    "revenue": 8124.4,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04406",
+    "date": "2023-07-10",
+    "region": "LATAM",
+    "customer": "Company 22",
+    "revenue": 9199.73,
+    "tickets": 3
+  },
+  {
+    "orderId": "A06378",
+    "date": "2023-08-11",
+    "region": "LATAM",
+    "customer": "Company 46",
+    "revenue": 1341.48,
+    "tickets": 10
+  },
+  {
+    "orderId": "A05632",
+    "date": "2023-11-05",
+    "region": "NA",
+    "customer": "Company 26",
+    "revenue": 2416.2,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0144",
+    "date": "2023-12-14",
+    "region": "APAC",
+    "customer": "Company 95",
+    "revenue": 907.54,
+    "tickets": 4
+  },
+  {
+    "orderId": "A04908",
+    "date": "2025-05-19",
+    "region": "LATAM",
+    "customer": "Company 69",
+    "revenue": 604.77,
+    "tickets": 1
+  },
+  {
+    "orderId": "A01440",
+    "date": "2024-09-28",
+    "region": "LATAM",
+    "customer": "Company 40",
+    "revenue": 9868.33,
+    "tickets": 1
+  },
+  {
+    "orderId": "A08272",
+    "date": "2023-10-03",
+    "region": "EMEA",
+    "customer": "Company 2",
+    "revenue": 2897.96,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05226",
+    "date": "2023-07-07",
+    "region": "APAC",
+    "customer": "Company 59",
+    "revenue": 3790.88,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0500",
+    "date": "2023-09-14",
+    "region": "EMEA",
+    "customer": "Company 54",
+    "revenue": 4932.85,
+    "tickets": 8
+  },
+  {
+    "orderId": "A08347",
+    "date": "2024-04-04",
+    "region": "EMEA",
+    "customer": "Company 12",
+    "revenue": 4992.2,
+    "tickets": 1
+  },
+  {
+    "orderId": "A03168",
+    "date": "2024-06-06",
+    "region": "EMEA",
+    "customer": "Company 90",
+    "revenue": 4394.28,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05516",
+    "date": "2024-12-15",
+    "region": "LATAM",
+    "customer": "Company 70",
+    "revenue": 2581.94,
+    "tickets": 4
+  },
+  {
+    "orderId": "A08701",
+    "date": "2024-11-01",
+    "region": "LATAM",
+    "customer": "Company 31",
+    "revenue": 2008.99,
+    "tickets": 9
+  },
+  {
+    "orderId": "A03730",
+    "date": "2024-07-16",
+    "region": "EMEA",
+    "customer": "Company 52",
+    "revenue": 2428.16,
+    "tickets": 6
+  },
+  {
+    "orderId": "A09448",
+    "date": "2024-08-14",
+    "region": "EMEA",
+    "customer": "Company 19",
+    "revenue": 7059.42,
+    "tickets": 7
+  },
+  {
+    "orderId": "A03183",
+    "date": "2023-10-03",
+    "region": "EMEA",
+    "customer": "Company 20",
+    "revenue": 8138.06,
+    "tickets": 10
+  },
+  {
+    "orderId": "A08663",
+    "date": "2024-08-21",
+    "region": "NA",
+    "customer": "Company 41",
+    "revenue": 1303.24,
+    "tickets": 3
+  },
+  {
+    "orderId": "A08866",
+    "date": "2023-08-12",
+    "region": "NA",
+    "customer": "Company 17",
+    "revenue": 3240.82,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07607",
+    "date": "2024-08-12",
+    "region": "LATAM",
+    "customer": "Company 56",
+    "revenue": 3962.27,
+    "tickets": 6
+  },
+  {
+    "orderId": "A08589",
+    "date": "2023-10-05",
+    "region": "LATAM",
+    "customer": "Company 60",
+    "revenue": 7699.48,
+    "tickets": 5
+  },
+  {
+    "orderId": "A04032",
+    "date": "2024-06-13",
+    "region": "EMEA",
+    "customer": "Company 57",
+    "revenue": 7196.86,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05254",
+    "date": "2023-06-21",
+    "region": "EMEA",
+    "customer": "Company 23",
+    "revenue": 9587.7,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04607",
+    "date": "2024-02-27",
+    "region": "APAC",
+    "customer": "Company 19",
+    "revenue": 3622.65,
+    "tickets": 8
+  },
+  {
+    "orderId": "A09881",
+    "date": "2025-05-01",
+    "region": "NA",
+    "customer": "Company 2",
+    "revenue": 3498.1,
+    "tickets": 4
+  },
+  {
+    "orderId": "A03431",
+    "date": "2024-10-12",
+    "region": "APAC",
+    "customer": "Company 82",
+    "revenue": 5453.86,
+    "tickets": 8
+  },
+  {
+    "orderId": "A01785",
+    "date": "2024-09-02",
+    "region": "NA",
+    "customer": "Company 81",
+    "revenue": 4085.17,
+    "tickets": 10
+  },
+  {
+    "orderId": "A03896",
+    "date": "2024-09-19",
+    "region": "LATAM",
+    "customer": "Company 93",
+    "revenue": 4645.93,
+    "tickets": 5
+  },
+  {
+    "orderId": "A01368",
+    "date": "2023-09-08",
+    "region": "APAC",
+    "customer": "Company 46",
+    "revenue": 7701.39,
+    "tickets": 4
+  },
+  {
+    "orderId": "A09542",
+    "date": "2024-01-08",
+    "region": "EMEA",
+    "customer": "Company 27",
+    "revenue": 7477.84,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01359",
+    "date": "2024-12-08",
+    "region": "APAC",
+    "customer": "Company 42",
+    "revenue": 2040.87,
+    "tickets": 4
+  },
+  {
+    "orderId": "A0284",
+    "date": "2023-12-15",
+    "region": "LATAM",
+    "customer": "Company 12",
+    "revenue": 8418.58,
+    "tickets": 5
+  },
+  {
+    "orderId": "A0877",
+    "date": "2023-08-14",
+    "region": "NA",
+    "customer": "Company 22",
+    "revenue": 5782.09,
+    "tickets": 8
+  },
+  {
+    "orderId": "A06746",
+    "date": "2025-02-27",
+    "region": "NA",
+    "customer": "Company 34",
+    "revenue": 2495.92,
+    "tickets": 3
+  },
+  {
+    "orderId": "A04197",
+    "date": "2024-03-04",
+    "region": "NA",
+    "customer": "Company 38",
+    "revenue": 4575.52,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05759",
+    "date": "2024-02-01",
+    "region": "LATAM",
+    "customer": "Company 35",
+    "revenue": 3668.13,
+    "tickets": 4
+  },
+  {
+    "orderId": "A03929",
+    "date": "2024-09-25",
+    "region": "LATAM",
+    "customer": "Company 24",
+    "revenue": 5251.3,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04614",
+    "date": "2024-11-08",
+    "region": "LATAM",
+    "customer": "Company 32",
+    "revenue": 2980.82,
+    "tickets": 10
+  },
+  {
+    "orderId": "A02653",
+    "date": "2024-03-01",
+    "region": "LATAM",
+    "customer": "Company 19",
+    "revenue": 4852.77,
+    "tickets": 5
+  },
+  {
+    "orderId": "A05079",
+    "date": "2024-08-18",
+    "region": "APAC",
+    "customer": "Company 17",
+    "revenue": 3937.76,
+    "tickets": 6
+  },
+  {
+    "orderId": "A04185",
+    "date": "2023-12-01",
+    "region": "NA",
+    "customer": "Company 7",
+    "revenue": 9005.11,
+    "tickets": 5
+  },
+  {
+    "orderId": "A04682",
+    "date": "2025-04-19",
+    "region": "LATAM",
+    "customer": "Company 9",
+    "revenue": 6903.26,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07829",
+    "date": "2024-08-19",
+    "region": "LATAM",
+    "customer": "Company 92",
+    "revenue": 5510.96,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0554",
+    "date": "2023-11-23",
+    "region": "NA",
+    "customer": "Company 80",
+    "revenue": 7752.52,
+    "tickets": 6
+  },
+  {
+    "orderId": "A03117",
+    "date": "2024-08-18",
+    "region": "APAC",
+    "customer": "Company 58",
+    "revenue": 2727.07,
+    "tickets": 5
+  },
+  {
+    "orderId": "A04096",
+    "date": "2023-11-13",
+    "region": "EMEA",
+    "customer": "Company 92",
+    "revenue": 1348.38,
+    "tickets": 10
+  },
+  {
+    "orderId": "A08469",
+    "date": "2023-11-12",
+    "region": "LATAM",
+    "customer": "Company 44",
+    "revenue": 9369.31,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01536",
+    "date": "2024-01-06",
+    "region": "NA",
+    "customer": "Company 98",
+    "revenue": 8299.83,
+    "tickets": 10
+  },
+  {
+    "orderId": "A08038",
+    "date": "2025-02-13",
+    "region": "APAC",
+    "customer": "Company 97",
+    "revenue": 5917.23,
+    "tickets": 3
+  },
+  {
+    "orderId": "A04380",
+    "date": "2025-01-15",
+    "region": "APAC",
+    "customer": "Company 49",
+    "revenue": 8561.05,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0659",
+    "date": "2023-09-22",
+    "region": "APAC",
+    "customer": "Company 45",
+    "revenue": 1104.69,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07987",
+    "date": "2025-04-27",
+    "region": "LATAM",
+    "customer": "Company 50",
+    "revenue": 561.12,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06574",
+    "date": "2025-03-10",
+    "region": "EMEA",
+    "customer": "Company 15",
+    "revenue": 6142.01,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0911",
+    "date": "2024-09-09",
+    "region": "NA",
+    "customer": "Company 39",
+    "revenue": 8885.64,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05677",
+    "date": "2023-12-03",
+    "region": "LATAM",
+    "customer": "Company 52",
+    "revenue": 3923.58,
+    "tickets": 1
+  },
+  {
+    "orderId": "A05043",
+    "date": "2025-02-14",
+    "region": "LATAM",
+    "customer": "Company 20",
+    "revenue": 7491.97,
+    "tickets": 2
+  },
+  {
+    "orderId": "A02763",
+    "date": "2024-07-15",
+    "region": "NA",
+    "customer": "Company 38",
+    "revenue": 9436.33,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07160",
+    "date": "2024-04-10",
+    "region": "EMEA",
+    "customer": "Company 92",
+    "revenue": 6683.5,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02600",
+    "date": "2024-05-11",
+    "region": "LATAM",
+    "customer": "Company 80",
+    "revenue": 9247.19,
+    "tickets": 1
+  },
+  {
+    "orderId": "A04737",
+    "date": "2024-12-28",
+    "region": "APAC",
+    "customer": "Company 46",
+    "revenue": 1180.51,
+    "tickets": 1
+  },
+  {
+    "orderId": "A06231",
+    "date": "2023-12-16",
+    "region": "EMEA",
+    "customer": "Company 6",
+    "revenue": 3152.01,
+    "tickets": 4
+  },
+  {
+    "orderId": "A04007",
+    "date": "2023-10-02",
+    "region": "EMEA",
+    "customer": "Company 82",
+    "revenue": 4342.57,
+    "tickets": 1
+  },
+  {
+    "orderId": "A0916",
+    "date": "2023-09-03",
+    "region": "APAC",
+    "customer": "Company 65",
+    "revenue": 9419.7,
+    "tickets": 8
+  },
+  {
+    "orderId": "A07436",
+    "date": "2024-06-07",
+    "region": "NA",
+    "customer": "Company 15",
+    "revenue": 1990.84,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02172",
+    "date": "2023-09-23",
+    "region": "NA",
+    "customer": "Company 59",
+    "revenue": 8146.44,
+    "tickets": 5
+  },
+  {
+    "orderId": "A09438",
+    "date": "2025-02-05",
+    "region": "EMEA",
+    "customer": "Company 19",
+    "revenue": 8308.74,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05920",
+    "date": "2023-06-08",
+    "region": "LATAM",
+    "customer": "Company 37",
+    "revenue": 5381.7,
+    "tickets": 4
+  },
+  {
+    "orderId": "A05766",
+    "date": "2025-02-07",
+    "region": "NA",
+    "customer": "Company 81",
+    "revenue": 9424.83,
+    "tickets": 5
+  },
+  {
+    "orderId": "A09622",
+    "date": "2024-10-28",
+    "region": "APAC",
+    "customer": "Company 96",
+    "revenue": 3263.47,
+    "tickets": 1
+  },
+  {
+    "orderId": "A02283",
+    "date": "2023-07-19",
+    "region": "EMEA",
+    "customer": "Company 36",
+    "revenue": 8647.49,
+    "tickets": 4
+  },
+  {
+    "orderId": "A09552",
+    "date": "2023-12-16",
+    "region": "APAC",
+    "customer": "Company 15",
+    "revenue": 3229.21,
+    "tickets": 10
+  },
+  {
+    "orderId": "A0996",
+    "date": "2025-05-04",
+    "region": "EMEA",
+    "customer": "Company 99",
+    "revenue": 4565.97,
+    "tickets": 2
+  },
+  {
+    "orderId": "A01701",
+    "date": "2024-07-12",
+    "region": "NA",
+    "customer": "Company 38",
+    "revenue": 424.96,
+    "tickets": 5
+  },
+  {
+    "orderId": "A05486",
+    "date": "2024-02-01",
+    "region": "NA",
+    "customer": "Company 1",
+    "revenue": 5172.94,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02849",
+    "date": "2024-08-01",
+    "region": "EMEA",
+    "customer": "Company 64",
+    "revenue": 7556.74,
+    "tickets": 6
+  },
+  {
+    "orderId": "A08616",
+    "date": "2024-07-22",
+    "region": "LATAM",
+    "customer": "Company 100",
+    "revenue": 733.46,
+    "tickets": 8
+  },
+  {
+    "orderId": "A01074",
+    "date": "2024-08-23",
+    "region": "LATAM",
+    "customer": "Company 13",
+    "revenue": 1078.93,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01959",
+    "date": "2024-07-21",
+    "region": "APAC",
+    "customer": "Company 45",
+    "revenue": 3104.43,
+    "tickets": 10
+  },
+  {
+    "orderId": "A0323",
+    "date": "2024-12-16",
+    "region": "LATAM",
+    "customer": "Company 17",
+    "revenue": 7370.68,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08818",
+    "date": "2023-10-23",
+    "region": "EMEA",
+    "customer": "Company 82",
+    "revenue": 1795.93,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07559",
+    "date": "2023-10-09",
+    "region": "EMEA",
+    "customer": "Company 60",
+    "revenue": 8122.44,
+    "tickets": 8
+  },
+  {
+    "orderId": "A09653",
+    "date": "2024-07-17",
+    "region": "NA",
+    "customer": "Company 55",
+    "revenue": 6579.9,
+    "tickets": 5
+  },
+  {
+    "orderId": "A03522",
+    "date": "2024-11-24",
+    "region": "EMEA",
+    "customer": "Company 13",
+    "revenue": 4178.92,
+    "tickets": 6
+  },
+  {
+    "orderId": "A01904",
+    "date": "2024-05-11",
+    "region": "LATAM",
+    "customer": "Company 89",
+    "revenue": 4008.91,
+    "tickets": 9
+  },
+  {
+    "orderId": "A07895",
+    "date": "2024-02-02",
+    "region": "NA",
+    "customer": "Company 16",
+    "revenue": 5285.22,
+    "tickets": 3
+  },
+  {
+    "orderId": "A04818",
+    "date": "2025-05-13",
+    "region": "LATAM",
+    "customer": "Company 53",
+    "revenue": 1215.93,
+    "tickets": 8
+  },
+  {
+    "orderId": "A07371",
+    "date": "2024-09-20",
+    "region": "APAC",
+    "customer": "Company 11",
+    "revenue": 3780.05,
+    "tickets": 9
+  },
+  {
+    "orderId": "A01438",
+    "date": "2024-04-23",
+    "region": "EMEA",
+    "customer": "Company 36",
+    "revenue": 5425.88,
+    "tickets": 1
+  },
+  {
+    "orderId": "A01768",
+    "date": "2023-11-25",
+    "region": "APAC",
+    "customer": "Company 22",
+    "revenue": 8765.07,
+    "tickets": 1
+  },
+  {
+    "orderId": "A09121",
+    "date": "2024-08-02",
+    "region": "LATAM",
+    "customer": "Company 5",
+    "revenue": 4837.53,
+    "tickets": 1
+  },
+  {
+    "orderId": "A0663",
+    "date": "2024-04-18",
+    "region": "LATAM",
+    "customer": "Company 55",
+    "revenue": 289.62,
+    "tickets": 3
+  },
+  {
+    "orderId": "A09455",
+    "date": "2023-09-22",
+    "region": "APAC",
+    "customer": "Company 96",
+    "revenue": 1136.12,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02405",
+    "date": "2023-10-27",
+    "region": "LATAM",
+    "customer": "Company 21",
+    "revenue": 5004.34,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05125",
+    "date": "2023-08-05",
+    "region": "APAC",
+    "customer": "Company 98",
+    "revenue": 7875.92,
+    "tickets": 2
+  },
+  {
+    "orderId": "A09414",
+    "date": "2024-05-05",
+    "region": "NA",
+    "customer": "Company 44",
+    "revenue": 405.64,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04945",
+    "date": "2023-12-24",
+    "region": "LATAM",
+    "customer": "Company 59",
+    "revenue": 3696.4,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05014",
+    "date": "2023-07-20",
+    "region": "NA",
+    "customer": "Company 85",
+    "revenue": 4095.71,
+    "tickets": 3
+  },
+  {
+    "orderId": "A06873",
+    "date": "2024-08-22",
+    "region": "APAC",
+    "customer": "Company 85",
+    "revenue": 6202.44,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09943",
+    "date": "2024-06-21",
+    "region": "APAC",
+    "customer": "Company 75",
+    "revenue": 6858.24,
+    "tickets": 5
+  },
+  {
+    "orderId": "A08406",
+    "date": "2023-09-09",
+    "region": "APAC",
+    "customer": "Company 86",
+    "revenue": 8059.3,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07817",
+    "date": "2025-01-25",
+    "region": "EMEA",
+    "customer": "Company 14",
+    "revenue": 3875.39,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07194",
+    "date": "2024-08-15",
+    "region": "EMEA",
+    "customer": "Company 80",
+    "revenue": 7320.0,
+    "tickets": 10
+  },
+  {
+    "orderId": "A09675",
+    "date": "2023-12-22",
+    "region": "EMEA",
+    "customer": "Company 21",
+    "revenue": 8688.15,
+    "tickets": 3
+  },
+  {
+    "orderId": "A08553",
+    "date": "2025-01-01",
+    "region": "APAC",
+    "customer": "Company 91",
+    "revenue": 7626.96,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01265",
+    "date": "2025-04-13",
+    "region": "EMEA",
+    "customer": "Company 41",
+    "revenue": 3237.25,
+    "tickets": 7
+  },
+  {
+    "orderId": "A04789",
+    "date": "2025-04-01",
+    "region": "NA",
+    "customer": "Company 86",
+    "revenue": 5938.91,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05569",
+    "date": "2023-09-08",
+    "region": "NA",
+    "customer": "Company 53",
+    "revenue": 1189.99,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09778",
+    "date": "2023-07-02",
+    "region": "EMEA",
+    "customer": "Company 36",
+    "revenue": 7393.43,
+    "tickets": 3
+  },
+  {
+    "orderId": "A04307",
+    "date": "2024-07-03",
+    "region": "EMEA",
+    "customer": "Company 6",
+    "revenue": 8147.78,
+    "tickets": 10
+  },
+  {
+    "orderId": "A09010",
+    "date": "2024-09-12",
+    "region": "EMEA",
+    "customer": "Company 18",
+    "revenue": 1752.22,
+    "tickets": 10
+  },
+  {
+    "orderId": "A08320",
+    "date": "2024-04-11",
+    "region": "APAC",
+    "customer": "Company 84",
+    "revenue": 637.35,
+    "tickets": 9
+  },
+  {
+    "orderId": "A06588",
+    "date": "2024-12-06",
+    "region": "NA",
+    "customer": "Company 15",
+    "revenue": 2336.85,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04652",
+    "date": "2024-11-26",
+    "region": "NA",
+    "customer": "Company 55",
+    "revenue": 4816.48,
+    "tickets": 6
+  },
+  {
+    "orderId": "A02063",
+    "date": "2025-04-07",
+    "region": "EMEA",
+    "customer": "Company 6",
+    "revenue": 2488.39,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05241",
+    "date": "2023-07-22",
+    "region": "APAC",
+    "customer": "Company 54",
+    "revenue": 5565.46,
+    "tickets": 6
+  },
+  {
+    "orderId": "A0628",
+    "date": "2024-06-21",
+    "region": "APAC",
+    "customer": "Company 72",
+    "revenue": 5029.6,
+    "tickets": 3
+  },
+  {
+    "orderId": "A09869",
+    "date": "2024-04-09",
+    "region": "LATAM",
+    "customer": "Company 27",
+    "revenue": 9628.44,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07011",
+    "date": "2024-10-23",
+    "region": "EMEA",
+    "customer": "Company 7",
+    "revenue": 5145.36,
+    "tickets": 6
+  },
+  {
+    "orderId": "A05732",
+    "date": "2025-01-08",
+    "region": "NA",
+    "customer": "Company 96",
+    "revenue": 7371.99,
+    "tickets": 7
+  },
+  {
+    "orderId": "A04311",
+    "date": "2023-11-11",
+    "region": "LATAM",
+    "customer": "Company 63",
+    "revenue": 810.09,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07992",
+    "date": "2023-08-22",
+    "region": "APAC",
+    "customer": "Company 62",
+    "revenue": 2198.77,
+    "tickets": 6
+  },
+  {
+    "orderId": "A0714",
+    "date": "2024-06-27",
+    "region": "EMEA",
+    "customer": "Company 5",
+    "revenue": 3078.78,
+    "tickets": 6
+  },
+  {
+    "orderId": "A03684",
+    "date": "2024-09-15",
+    "region": "NA",
+    "customer": "Company 50",
+    "revenue": 3880.43,
+    "tickets": 6
+  },
+  {
+    "orderId": "A05395",
+    "date": "2023-09-06",
+    "region": "NA",
+    "customer": "Company 93",
+    "revenue": 5831.38,
+    "tickets": 4
+  },
+  {
+    "orderId": "A0984",
+    "date": "2023-06-26",
+    "region": "EMEA",
+    "customer": "Company 18",
+    "revenue": 7815.89,
+    "tickets": 4
+  },
+  {
+    "orderId": "A06725",
+    "date": "2023-07-14",
+    "region": "LATAM",
+    "customer": "Company 10",
+    "revenue": 3865.06,
+    "tickets": 4
+  },
+  {
+    "orderId": "A04937",
+    "date": "2024-11-02",
+    "region": "NA",
+    "customer": "Company 95",
+    "revenue": 6478.51,
+    "tickets": 2
+  },
+  {
+    "orderId": "A06758",
+    "date": "2023-11-08",
+    "region": "LATAM",
+    "customer": "Company 82",
+    "revenue": 1059.7,
+    "tickets": 2
+  },
+  {
+    "orderId": "A0425",
+    "date": "2024-07-26",
+    "region": "NA",
+    "customer": "Company 73",
+    "revenue": 4997.99,
+    "tickets": 7
+  },
+  {
+    "orderId": "A03068",
+    "date": "2024-04-19",
+    "region": "APAC",
+    "customer": "Company 35",
+    "revenue": 2432.99,
+    "tickets": 1
+  },
+  {
+    "orderId": "A0496",
+    "date": "2024-03-14",
+    "region": "NA",
+    "customer": "Company 58",
+    "revenue": 1385.39,
+    "tickets": 6
+  },
+  {
+    "orderId": "A08869",
+    "date": "2023-07-08",
+    "region": "EMEA",
+    "customer": "Company 64",
+    "revenue": 9344.0,
+    "tickets": 10
+  },
+  {
+    "orderId": "A01421",
+    "date": "2023-09-03",
+    "region": "NA",
+    "customer": "Company 72",
+    "revenue": 6132.59,
+    "tickets": 6
+  },
+  {
+    "orderId": "A03225",
+    "date": "2025-01-26",
+    "region": "LATAM",
+    "customer": "Company 58",
+    "revenue": 5613.4,
+    "tickets": 4
+  },
+  {
+    "orderId": "A07295",
+    "date": "2023-10-26",
+    "region": "EMEA",
+    "customer": "Company 98",
+    "revenue": 7704.16,
+    "tickets": 2
+  },
+  {
+    "orderId": "A04036",
+    "date": "2023-12-09",
+    "region": "APAC",
+    "customer": "Company 56",
+    "revenue": 3132.76,
+    "tickets": 5
+  },
+  {
+    "orderId": "A07930",
+    "date": "2025-01-13",
+    "region": "NA",
+    "customer": "Company 59",
+    "revenue": 7671.66,
+    "tickets": 6
+  },
+  {
+    "orderId": "A06097",
+    "date": "2024-03-06",
+    "region": "LATAM",
+    "customer": "Company 65",
+    "revenue": 2526.54,
+    "tickets": 9
+  },
+  {
+    "orderId": "A01692",
+    "date": "2024-02-05",
+    "region": "NA",
+    "customer": "Company 15",
+    "revenue": 4323.61,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02298",
+    "date": "2024-04-28",
+    "region": "NA",
+    "customer": "Company 30",
+    "revenue": 1762.34,
+    "tickets": 1
+  },
+  {
+    "orderId": "A09370",
+    "date": "2024-01-18",
+    "region": "LATAM",
+    "customer": "Company 6",
+    "revenue": 9246.13,
+    "tickets": 1
+  },
+  {
+    "orderId": "A08673",
+    "date": "2025-03-23",
+    "region": "EMEA",
+    "customer": "Company 5",
+    "revenue": 3728.42,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02322",
+    "date": "2024-12-06",
+    "region": "NA",
+    "customer": "Company 29",
+    "revenue": 8737.37,
+    "tickets": 7
+  },
+  {
+    "orderId": "A08104",
+    "date": "2024-09-02",
+    "region": "EMEA",
+    "customer": "Company 71",
+    "revenue": 9010.81,
+    "tickets": 2
+  },
+  {
+    "orderId": "A03250",
+    "date": "2025-01-18",
+    "region": "EMEA",
+    "customer": "Company 47",
+    "revenue": 4444.54,
+    "tickets": 3
+  },
+  {
+    "orderId": "A06310",
+    "date": "2025-05-19",
+    "region": "EMEA",
+    "customer": "Company 41",
+    "revenue": 7022.46,
+    "tickets": 8
+  },
+  {
+    "orderId": "A05873",
+    "date": "2023-12-15",
+    "region": "EMEA",
+    "customer": "Company 60",
+    "revenue": 4633.04,
+    "tickets": 9
+  },
+  {
+    "orderId": "A07772",
+    "date": "2024-03-17",
+    "region": "NA",
+    "customer": "Company 81",
+    "revenue": 1559.57,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02546",
+    "date": "2024-04-22",
+    "region": "APAC",
+    "customer": "Company 18",
+    "revenue": 6783.44,
+    "tickets": 5
+  },
+  {
+    "orderId": "A03633",
+    "date": "2024-12-14",
+    "region": "LATAM",
+    "customer": "Company 38",
+    "revenue": 1894.08,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05600",
+    "date": "2025-01-20",
+    "region": "LATAM",
+    "customer": "Company 49",
+    "revenue": 7369.83,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05774",
+    "date": "2023-10-20",
+    "region": "NA",
+    "customer": "Company 7",
+    "revenue": 4196.44,
+    "tickets": 7
+  },
+  {
+    "orderId": "A0607",
+    "date": "2024-08-12",
+    "region": "APAC",
+    "customer": "Company 69",
+    "revenue": 8532.64,
+    "tickets": 3
+  },
+  {
+    "orderId": "A05511",
+    "date": "2023-07-12",
+    "region": "NA",
+    "customer": "Company 66",
+    "revenue": 2539.65,
+    "tickets": 1
+  },
+  {
+    "orderId": "A07224",
+    "date": "2023-10-12",
+    "region": "APAC",
+    "customer": "Company 46",
+    "revenue": 9171.42,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02419",
+    "date": "2023-09-10",
+    "region": "APAC",
+    "customer": "Company 81",
+    "revenue": 8911.09,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07619",
+    "date": "2025-05-01",
+    "region": "LATAM",
+    "customer": "Company 46",
+    "revenue": 734.32,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02768",
+    "date": "2025-05-27",
+    "region": "EMEA",
+    "customer": "Company 59",
+    "revenue": 4138.63,
+    "tickets": 1
+  },
+  {
+    "orderId": "A09312",
+    "date": "2025-02-16",
+    "region": "APAC",
+    "customer": "Company 5",
+    "revenue": 3727.43,
+    "tickets": 8
+  },
+  {
+    "orderId": "A03735",
+    "date": "2024-10-24",
+    "region": "NA",
+    "customer": "Company 85",
+    "revenue": 105.89,
+    "tickets": 5
+  },
+  {
+    "orderId": "A06042",
+    "date": "2023-10-06",
+    "region": "LATAM",
+    "customer": "Company 6",
+    "revenue": 9594.42,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0319",
+    "date": "2024-12-28",
+    "region": "NA",
+    "customer": "Company 29",
+    "revenue": 932.13,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06762",
+    "date": "2024-02-10",
+    "region": "LATAM",
+    "customer": "Company 33",
+    "revenue": 2376.76,
+    "tickets": 6
+  },
+  {
+    "orderId": "A07046",
+    "date": "2024-04-12",
+    "region": "APAC",
+    "customer": "Company 84",
+    "revenue": 9184.79,
+    "tickets": 2
+  },
+  {
+    "orderId": "A04125",
+    "date": "2024-04-09",
+    "region": "APAC",
+    "customer": "Company 7",
+    "revenue": 418.18,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09673",
+    "date": "2023-11-08",
+    "region": "EMEA",
+    "customer": "Company 65",
+    "revenue": 693.83,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09570",
+    "date": "2025-03-04",
+    "region": "EMEA",
+    "customer": "Company 91",
+    "revenue": 9513.61,
+    "tickets": 5
+  },
+  {
+    "orderId": "A02984",
+    "date": "2024-04-20",
+    "region": "LATAM",
+    "customer": "Company 34",
+    "revenue": 5215.2,
+    "tickets": 4
+  },
+  {
+    "orderId": "A09723",
+    "date": "2023-12-01",
+    "region": "LATAM",
+    "customer": "Company 37",
+    "revenue": 5327.3,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02753",
+    "date": "2025-01-24",
+    "region": "LATAM",
+    "customer": "Company 92",
+    "revenue": 7967.48,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07133",
+    "date": "2025-02-10",
+    "region": "APAC",
+    "customer": "Company 25",
+    "revenue": 732.84,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04526",
+    "date": "2025-05-03",
+    "region": "APAC",
+    "customer": "Company 17",
+    "revenue": 4893.84,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02282",
+    "date": "2024-05-14",
+    "region": "EMEA",
+    "customer": "Company 97",
+    "revenue": 5241.29,
+    "tickets": 9
+  },
+  {
+    "orderId": "A03115",
+    "date": "2025-01-22",
+    "region": "APAC",
+    "customer": "Company 66",
+    "revenue": 8550.13,
+    "tickets": 8
+  },
+  {
+    "orderId": "A04203",
+    "date": "2024-07-13",
+    "region": "APAC",
+    "customer": "Company 22",
+    "revenue": 8983.92,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09401",
+    "date": "2023-07-18",
+    "region": "LATAM",
+    "customer": "Company 18",
+    "revenue": 6940.0,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02309",
+    "date": "2024-02-24",
+    "region": "EMEA",
+    "customer": "Company 66",
+    "revenue": 6098.15,
+    "tickets": 6
+  },
+  {
+    "orderId": "A07006",
+    "date": "2025-01-19",
+    "region": "NA",
+    "customer": "Company 76",
+    "revenue": 9925.6,
+    "tickets": 8
+  },
+  {
+    "orderId": "A05765",
+    "date": "2024-07-07",
+    "region": "EMEA",
+    "customer": "Company 66",
+    "revenue": 9706.15,
+    "tickets": 4
+  },
+  {
+    "orderId": "A03907",
+    "date": "2024-12-19",
+    "region": "NA",
+    "customer": "Company 40",
+    "revenue": 4898.17,
+    "tickets": 10
+  },
+  {
+    "orderId": "A01835",
+    "date": "2024-04-06",
+    "region": "APAC",
+    "customer": "Company 2",
+    "revenue": 1686.05,
+    "tickets": 1
+  },
+  {
+    "orderId": "A08171",
+    "date": "2024-03-24",
+    "region": "NA",
+    "customer": "Company 8",
+    "revenue": 3207.43,
+    "tickets": 3
+  },
+  {
+    "orderId": "A08601",
+    "date": "2025-02-04",
+    "region": "NA",
+    "customer": "Company 90",
+    "revenue": 3593.65,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04779",
+    "date": "2025-05-27",
+    "region": "APAC",
+    "customer": "Company 100",
+    "revenue": 2643.31,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08855",
+    "date": "2024-02-14",
+    "region": "EMEA",
+    "customer": "Company 18",
+    "revenue": 6200.4,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07796",
+    "date": "2023-09-23",
+    "region": "NA",
+    "customer": "Company 85",
+    "revenue": 3938.47,
+    "tickets": 5
+  },
+  {
+    "orderId": "A02675",
+    "date": "2024-08-03",
+    "region": "NA",
+    "customer": "Company 64",
+    "revenue": 1937.46,
+    "tickets": 6
+  },
+  {
+    "orderId": "A02658",
+    "date": "2024-09-15",
+    "region": "APAC",
+    "customer": "Company 84",
+    "revenue": 6803.56,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05369",
+    "date": "2025-05-21",
+    "region": "APAC",
+    "customer": "Company 4",
+    "revenue": 527.48,
+    "tickets": 3
+  },
+  {
+    "orderId": "A08455",
+    "date": "2025-01-25",
+    "region": "NA",
+    "customer": "Company 20",
+    "revenue": 1722.76,
+    "tickets": 1
+  },
+  {
+    "orderId": "A05607",
+    "date": "2023-09-07",
+    "region": "APAC",
+    "customer": "Company 47",
+    "revenue": 4169.75,
+    "tickets": 9
+  },
+  {
+    "orderId": "A03652",
+    "date": "2024-06-23",
+    "region": "EMEA",
+    "customer": "Company 95",
+    "revenue": 255.1,
+    "tickets": 10
+  },
+  {
+    "orderId": "A03582",
+    "date": "2025-05-14",
+    "region": "NA",
+    "customer": "Company 100",
+    "revenue": 8626.9,
+    "tickets": 10
+  },
+  {
+    "orderId": "A03420",
+    "date": "2025-03-18",
+    "region": "LATAM",
+    "customer": "Company 47",
+    "revenue": 8924.64,
+    "tickets": 3
+  },
+  {
+    "orderId": "A03395",
+    "date": "2023-06-04",
+    "region": "EMEA",
+    "customer": "Company 5",
+    "revenue": 3748.99,
+    "tickets": 8
+  },
+  {
+    "orderId": "A05071",
+    "date": "2023-11-07",
+    "region": "NA",
+    "customer": "Company 54",
+    "revenue": 7504.84,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09262",
+    "date": "2025-04-01",
+    "region": "NA",
+    "customer": "Company 49",
+    "revenue": 1268.04,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02351",
+    "date": "2023-12-11",
+    "region": "EMEA",
+    "customer": "Company 56",
+    "revenue": 6700.66,
+    "tickets": 5
+  },
+  {
+    "orderId": "A09714",
+    "date": "2024-03-03",
+    "region": "LATAM",
+    "customer": "Company 91",
+    "revenue": 5321.27,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08236",
+    "date": "2024-06-23",
+    "region": "APAC",
+    "customer": "Company 27",
+    "revenue": 3531.42,
+    "tickets": 5
+  },
+  {
+    "orderId": "A05129",
+    "date": "2023-08-22",
+    "region": "APAC",
+    "customer": "Company 77",
+    "revenue": 9613.44,
+    "tickets": 6
+  },
+  {
+    "orderId": "A06387",
+    "date": "2023-06-07",
+    "region": "APAC",
+    "customer": "Company 40",
+    "revenue": 7573.64,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09007",
+    "date": "2024-04-21",
+    "region": "NA",
+    "customer": "Company 89",
+    "revenue": 7205.82,
+    "tickets": 10
+  },
+  {
+    "orderId": "A02678",
+    "date": "2024-10-04",
+    "region": "LATAM",
+    "customer": "Company 54",
+    "revenue": 227.15,
+    "tickets": 8
+  },
+  {
+    "orderId": "A08488",
+    "date": "2025-02-25",
+    "region": "APAC",
+    "customer": "Company 56",
+    "revenue": 1668.89,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0863",
+    "date": "2024-08-17",
+    "region": "LATAM",
+    "customer": "Company 2",
+    "revenue": 9554.56,
+    "tickets": 2
+  },
+  {
+    "orderId": "A04599",
+    "date": "2023-11-01",
+    "region": "EMEA",
+    "customer": "Company 17",
+    "revenue": 470.22,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04688",
+    "date": "2023-11-26",
+    "region": "EMEA",
+    "customer": "Company 83",
+    "revenue": 4524.36,
+    "tickets": 1
+  },
+  {
+    "orderId": "A04336",
+    "date": "2024-12-28",
+    "region": "APAC",
+    "customer": "Company 21",
+    "revenue": 9321.44,
+    "tickets": 9
+  },
+  {
+    "orderId": "A05490",
+    "date": "2024-01-25",
+    "region": "EMEA",
+    "customer": "Company 75",
+    "revenue": 1325.92,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09182",
+    "date": "2024-09-06",
+    "region": "EMEA",
+    "customer": "Company 48",
+    "revenue": 1516.02,
+    "tickets": 7
+  },
+  {
+    "orderId": "A03503",
+    "date": "2024-04-02",
+    "region": "EMEA",
+    "customer": "Company 55",
+    "revenue": 6674.77,
+    "tickets": 3
+  },
+  {
+    "orderId": "A02275",
+    "date": "2023-07-22",
+    "region": "APAC",
+    "customer": "Company 15",
+    "revenue": 5221.79,
+    "tickets": 9
+  },
+  {
+    "orderId": "A0703",
+    "date": "2024-06-21",
+    "region": "EMEA",
+    "customer": "Company 64",
+    "revenue": 3597.56,
+    "tickets": 4
+  },
+  {
+    "orderId": "A07654",
+    "date": "2023-11-24",
+    "region": "LATAM",
+    "customer": "Company 54",
+    "revenue": 9644.66,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07048",
+    "date": "2024-04-05",
+    "region": "APAC",
+    "customer": "Company 33",
+    "revenue": 5087.38,
+    "tickets": 10
+  },
+  {
+    "orderId": "A06068",
+    "date": "2024-11-21",
+    "region": "EMEA",
+    "customer": "Company 75",
+    "revenue": 274.31,
+    "tickets": 9
+  },
+  {
+    "orderId": "A01578",
+    "date": "2025-01-13",
+    "region": "EMEA",
+    "customer": "Company 85",
+    "revenue": 4344.34,
+    "tickets": 10
+  },
+  {
+    "orderId": "A0111",
+    "date": "2024-04-23",
+    "region": "EMEA",
+    "customer": "Company 41",
+    "revenue": 9086.18,
+    "tickets": 6
+  },
+  {
+    "orderId": "A01602",
+    "date": "2023-08-19",
+    "region": "NA",
+    "customer": "Company 43",
+    "revenue": 8080.13,
+    "tickets": 9
+  },
+  {
+    "orderId": "A01849",
+    "date": "2024-12-18",
+    "region": "EMEA",
+    "customer": "Company 17",
+    "revenue": 9039.72,
+    "tickets": 8
+  },
+  {
+    "orderId": "A02863",
+    "date": "2025-05-07",
+    "region": "NA",
+    "customer": "Company 22",
+    "revenue": 2335.15,
+    "tickets": 10
+  },
+  {
+    "orderId": "A01699",
+    "date": "2023-10-16",
+    "region": "EMEA",
+    "customer": "Company 45",
+    "revenue": 2855.49,
+    "tickets": 4
+  },
+  {
+    "orderId": "A0473",
+    "date": "2025-01-10",
+    "region": "APAC",
+    "customer": "Company 53",
+    "revenue": 1176.7,
+    "tickets": 9
+  },
+  {
+    "orderId": "A06114",
+    "date": "2025-05-20",
+    "region": "NA",
+    "customer": "Company 61",
+    "revenue": 2451.85,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08030",
+    "date": "2023-11-20",
+    "region": "EMEA",
+    "customer": "Company 76",
+    "revenue": 1985.39,
+    "tickets": 7
+  },
+  {
+    "orderId": "A04267",
+    "date": "2024-09-26",
+    "region": "LATAM",
+    "customer": "Company 87",
+    "revenue": 8541.52,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07454",
+    "date": "2023-10-28",
+    "region": "APAC",
+    "customer": "Company 38",
+    "revenue": 9635.55,
+    "tickets": 7
+  },
+  {
+    "orderId": "A03392",
+    "date": "2024-05-07",
+    "region": "NA",
+    "customer": "Company 81",
+    "revenue": 673.57,
+    "tickets": 9
+  },
+  {
+    "orderId": "A01311",
+    "date": "2025-05-19",
+    "region": "NA",
+    "customer": "Company 88",
+    "revenue": 331.09,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09530",
+    "date": "2023-07-17",
+    "region": "APAC",
+    "customer": "Company 28",
+    "revenue": 211.9,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09768",
+    "date": "2025-01-11",
+    "region": "LATAM",
+    "customer": "Company 37",
+    "revenue": 2607.04,
+    "tickets": 2
+  },
+  {
+    "orderId": "A06373",
+    "date": "2025-05-21",
+    "region": "EMEA",
+    "customer": "Company 74",
+    "revenue": 8810.32,
+    "tickets": 7
+  },
+  {
+    "orderId": "A04783",
+    "date": "2024-11-20",
+    "region": "NA",
+    "customer": "Company 96",
+    "revenue": 6179.5,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04257",
+    "date": "2025-03-03",
+    "region": "APAC",
+    "customer": "Company 68",
+    "revenue": 288.48,
+    "tickets": 5
+  },
+  {
+    "orderId": "A04113",
+    "date": "2024-07-25",
+    "region": "LATAM",
+    "customer": "Company 97",
+    "revenue": 6294.66,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0544",
+    "date": "2024-11-08",
+    "region": "LATAM",
+    "customer": "Company 70",
+    "revenue": 4255.13,
+    "tickets": 9
+  },
+  {
+    "orderId": "A04384",
+    "date": "2023-09-21",
+    "region": "NA",
+    "customer": "Company 99",
+    "revenue": 7147.32,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0336",
+    "date": "2024-01-07",
+    "region": "EMEA",
+    "customer": "Company 82",
+    "revenue": 8777.21,
+    "tickets": 9
+  },
+  {
+    "orderId": "A09877",
+    "date": "2024-05-16",
+    "region": "EMEA",
+    "customer": "Company 50",
+    "revenue": 3319.85,
+    "tickets": 10
+  },
+  {
+    "orderId": "A02737",
+    "date": "2023-06-23",
+    "region": "APAC",
+    "customer": "Company 20",
+    "revenue": 1171.42,
+    "tickets": 7
+  },
+  {
+    "orderId": "A05155",
+    "date": "2023-11-13",
+    "region": "LATAM",
+    "customer": "Company 43",
+    "revenue": 1088.08,
+    "tickets": 7
+  },
+  {
+    "orderId": "A08806",
+    "date": "2024-12-14",
+    "region": "EMEA",
+    "customer": "Company 90",
+    "revenue": 2337.95,
+    "tickets": 7
+  },
+  {
+    "orderId": "A09850",
+    "date": "2023-11-20",
+    "region": "EMEA",
+    "customer": "Company 73",
+    "revenue": 4418.14,
+    "tickets": 2
+  },
+  {
+    "orderId": "A01404",
+    "date": "2023-08-19",
+    "region": "EMEA",
+    "customer": "Company 93",
+    "revenue": 2771.39,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02800",
+    "date": "2023-06-19",
+    "region": "LATAM",
+    "customer": "Company 63",
+    "revenue": 2117.07,
+    "tickets": 8
+  },
+  {
+    "orderId": "A09334",
+    "date": "2023-12-03",
+    "region": "EMEA",
+    "customer": "Company 32",
+    "revenue": 8092.61,
+    "tickets": 5
+  },
+  {
+    "orderId": "A04715",
+    "date": "2024-03-08",
+    "region": "NA",
+    "customer": "Company 44",
+    "revenue": 2062.9,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05551",
+    "date": "2023-06-19",
+    "region": "EMEA",
+    "customer": "Company 7",
+    "revenue": 581.62,
+    "tickets": 10
+  },
+  {
+    "orderId": "A02957",
+    "date": "2023-07-06",
+    "region": "APAC",
+    "customer": "Company 37",
+    "revenue": 1049.09,
+    "tickets": 10
+  },
+  {
+    "orderId": "A01896",
+    "date": "2024-12-24",
+    "region": "EMEA",
+    "customer": "Company 30",
+    "revenue": 7570.3,
+    "tickets": 4
+  },
+  {
+    "orderId": "A08459",
+    "date": "2024-01-18",
+    "region": "EMEA",
+    "customer": "Company 4",
+    "revenue": 842.29,
+    "tickets": 10
+  },
+  {
+    "orderId": "A0474",
+    "date": "2024-08-21",
+    "region": "NA",
+    "customer": "Company 47",
+    "revenue": 4459.85,
+    "tickets": 3
+  },
+  {
+    "orderId": "A09890",
+    "date": "2024-07-15",
+    "region": "LATAM",
+    "customer": "Company 5",
+    "revenue": 6956.65,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04198",
+    "date": "2023-08-25",
+    "region": "EMEA",
+    "customer": "Company 44",
+    "revenue": 2286.56,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0561",
+    "date": "2024-07-26",
+    "region": "EMEA",
+    "customer": "Company 63",
+    "revenue": 693.49,
+    "tickets": 5
+  },
+  {
+    "orderId": "A03231",
+    "date": "2024-01-19",
+    "region": "LATAM",
+    "customer": "Company 29",
+    "revenue": 1902.01,
+    "tickets": 7
+  },
+  {
+    "orderId": "A0725",
+    "date": "2023-09-11",
+    "region": "EMEA",
+    "customer": "Company 82",
+    "revenue": 387.13,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06838",
+    "date": "2023-11-11",
+    "region": "NA",
+    "customer": "Company 24",
+    "revenue": 6698.19,
+    "tickets": 7
+  },
+  {
+    "orderId": "A08981",
+    "date": "2024-01-09",
+    "region": "EMEA",
+    "customer": "Company 60",
+    "revenue": 7786.32,
+    "tickets": 2
+  },
+  {
+    "orderId": "A05628",
+    "date": "2024-10-22",
+    "region": "APAC",
+    "customer": "Company 45",
+    "revenue": 8800.47,
+    "tickets": 4
+  },
+  {
+    "orderId": "A01596",
+    "date": "2024-11-12",
+    "region": "EMEA",
+    "customer": "Company 98",
+    "revenue": 6659.95,
+    "tickets": 8
+  },
+  {
+    "orderId": "A09865",
+    "date": "2024-07-03",
+    "region": "NA",
+    "customer": "Company 7",
+    "revenue": 670.96,
+    "tickets": 1
+  },
+  {
+    "orderId": "A01045",
+    "date": "2025-02-11",
+    "region": "APAC",
+    "customer": "Company 3",
+    "revenue": 3204.97,
+    "tickets": 10
+  },
+  {
+    "orderId": "A01743",
+    "date": "2024-05-15",
+    "region": "EMEA",
+    "customer": "Company 49",
+    "revenue": 2760.37,
+    "tickets": 9
+  },
+  {
+    "orderId": "A02362",
+    "date": "2025-05-15",
+    "region": "APAC",
+    "customer": "Company 27",
+    "revenue": 7777.39,
+    "tickets": 3
+  },
+  {
+    "orderId": "A0891",
+    "date": "2025-03-09",
+    "region": "NA",
+    "customer": "Company 8",
+    "revenue": 2864.57,
+    "tickets": 6
+  },
+  {
+    "orderId": "A02422",
+    "date": "2025-02-21",
+    "region": "EMEA",
+    "customer": "Company 46",
+    "revenue": 4017.45,
+    "tickets": 10
+  },
+  {
+    "orderId": "A09551",
+    "date": "2023-11-04",
+    "region": "NA",
+    "customer": "Company 33",
+    "revenue": 7705.73,
+    "tickets": 10
+  },
+  {
+    "orderId": "A03426",
+    "date": "2024-12-13",
+    "region": "NA",
+    "customer": "Company 13",
+    "revenue": 8308.99,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08995",
+    "date": "2024-09-11",
+    "region": "NA",
+    "customer": "Company 82",
+    "revenue": 9335.03,
+    "tickets": 5
+  },
+  {
+    "orderId": "A04201",
+    "date": "2025-01-12",
+    "region": "APAC",
+    "customer": "Company 7",
+    "revenue": 1093.52,
+    "tickets": 5
+  },
+  {
+    "orderId": "A02002",
+    "date": "2024-10-09",
+    "region": "LATAM",
+    "customer": "Company 18",
+    "revenue": 6591.81,
+    "tickets": 4
+  },
+  {
+    "orderId": "A08603",
+    "date": "2023-11-20",
+    "region": "EMEA",
+    "customer": "Company 90",
+    "revenue": 4418.69,
+    "tickets": 9
+  },
+  {
+    "orderId": "A06899",
+    "date": "2023-07-21",
+    "region": "NA",
+    "customer": "Company 2",
+    "revenue": 5911.75,
+    "tickets": 10
+  },
+  {
+    "orderId": "A04463",
+    "date": "2024-03-21",
+    "region": "APAC",
+    "customer": "Company 71",
+    "revenue": 2687.09,
+    "tickets": 2
+  },
+  {
+    "orderId": "A01961",
+    "date": "2024-01-20",
+    "region": "EMEA",
+    "customer": "Company 87",
+    "revenue": 9886.06,
+    "tickets": 8
+  },
+  {
+    "orderId": "A03505",
+    "date": "2024-10-10",
+    "region": "LATAM",
+    "customer": "Company 78",
+    "revenue": 8352.96,
+    "tickets": 9
+  },
+  {
+    "orderId": "A02222",
+    "date": "2024-02-11",
+    "region": "LATAM",
+    "customer": "Company 74",
+    "revenue": 2761.96,
+    "tickets": 2
+  },
+  {
+    "orderId": "A08529",
+    "date": "2023-09-19",
+    "region": "EMEA",
+    "customer": "Company 19",
+    "revenue": 321.86,
+    "tickets": 5
+  },
+  {
+    "orderId": "A06848",
+    "date": "2023-06-13",
+    "region": "LATAM",
+    "customer": "Company 95",
+    "revenue": 8413.8,
+    "tickets": 1
+  },
+  {
+    "orderId": "A0156",
+    "date": "2024-10-13",
+    "region": "LATAM",
+    "customer": "Company 13",
+    "revenue": 2976.19,
+    "tickets": 4
+  },
+  {
+    "orderId": "A04644",
+    "date": "2023-06-28",
+    "region": "APAC",
+    "customer": "Company 12",
+    "revenue": 9549.28,
+    "tickets": 8
+  },
+  {
+    "orderId": "A0538",
+    "date": "2024-07-23",
+    "region": "EMEA",
+    "customer": "Company 81",
+    "revenue": 3111.61,
+    "tickets": 2
+  },
+  {
+    "orderId": "A08072",
+    "date": "2023-09-23",
+    "region": "EMEA",
+    "customer": "Company 6",
+    "revenue": 4566.54,
+    "tickets": 5
+  },
+  {
+    "orderId": "A0404",
+    "date": "2025-04-17",
+    "region": "NA",
+    "customer": "Company 83",
+    "revenue": 7924.48,
+    "tickets": 1
+  },
+  {
+    "orderId": "A02609",
+    "date": "2024-04-11",
+    "region": "EMEA",
+    "customer": "Company 37",
+    "revenue": 7024.03,
+    "tickets": 2
+  },
+  {
+    "orderId": "A07753",
+    "date": "2024-06-06",
+    "region": "NA",
+    "customer": "Company 68",
+    "revenue": 2480.76,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07964",
+    "date": "2024-09-23",
+    "region": "APAC",
+    "customer": "Company 11",
+    "revenue": 2476.56,
+    "tickets": 7
+  },
+  {
+    "orderId": "A02875",
+    "date": "2025-02-10",
+    "region": "EMEA",
+    "customer": "Company 22",
+    "revenue": 1073.11,
+    "tickets": 4
+  },
+  {
+    "orderId": "A0753",
+    "date": "2024-10-28",
+    "region": "LATAM",
+    "customer": "Company 78",
+    "revenue": 6972.33,
+    "tickets": 6
+  },
+  {
+    "orderId": "A02511",
+    "date": "2024-03-14",
+    "region": "LATAM",
+    "customer": "Company 24",
+    "revenue": 5283.31,
+    "tickets": 1
+  },
+  {
+    "orderId": "A02485",
+    "date": "2023-08-04",
+    "region": "NA",
+    "customer": "Company 49",
+    "revenue": 2368.69,
+    "tickets": 4
+  },
+  {
+    "orderId": "A06256",
+    "date": "2025-05-08",
+    "region": "LATAM",
+    "customer": "Company 59",
+    "revenue": 2633.11,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01902",
+    "date": "2023-10-11",
+    "region": "LATAM",
+    "customer": "Company 55",
+    "revenue": 3933.44,
+    "tickets": 4
+  },
+  {
+    "orderId": "A02606",
+    "date": "2023-09-03",
+    "region": "NA",
+    "customer": "Company 33",
+    "revenue": 5434.68,
+    "tickets": 6
+  },
+  {
+    "orderId": "A09446",
+    "date": "2023-10-10",
+    "region": "APAC",
+    "customer": "Company 88",
+    "revenue": 2912.05,
+    "tickets": 7
+  },
+  {
+    "orderId": "A01103",
+    "date": "2025-02-13",
+    "region": "LATAM",
+    "customer": "Company 95",
+    "revenue": 6704.17,
+    "tickets": 1
+  },
+  {
+    "orderId": "A0415",
+    "date": "2024-03-26",
+    "region": "EMEA",
+    "customer": "Company 40",
+    "revenue": 4916.28,
+    "tickets": 3
+  },
+  {
+    "orderId": "A07271",
+    "date": "2023-07-21",
+    "region": "LATAM",
+    "customer": "Company 19",
+    "revenue": 8214.8,
+    "tickets": 9
+  },
+  {
+    "orderId": "A08418",
+    "date": "2024-06-16",
+    "region": "NA",
+    "customer": "Company 88",
+    "revenue": 5041.68,
+    "tickets": 2
+  },
+  {
+    "orderId": "A02285",
+    "date": "2025-02-11",
+    "region": "APAC",
+    "customer": "Company 34",
+    "revenue": 4850.31,
+    "tickets": 6
+  },
+  {
+    "orderId": "A08812",
+    "date": "2025-04-03",
+    "region": "LATAM",
+    "customer": "Company 79",
+    "revenue": 1754.3,
+    "tickets": 7
+  },
+  {
+    "orderId": "A03716",
+    "date": "2024-11-02",
+    "region": "APAC",
+    "customer": "Company 71",
+    "revenue": 838.35,
+    "tickets": 7
+  },
+  {
+    "orderId": "A06793",
+    "date": "2025-02-11",
+    "region": "LATAM",
+    "customer": "Company 16",
+    "revenue": 4531.98,
+    "tickets": 5
+  },
+  {
+    "orderId": "A02956",
+    "date": "2023-11-22",
+    "region": "LATAM",
+    "customer": "Company 14",
+    "revenue": 2905.18,
+    "tickets": 10
+  },
+  {
+    "orderId": "A09331",
+    "date": "2023-09-12",
+    "region": "EMEA",
+    "customer": "Company 12",
+    "revenue": 1049.24,
+    "tickets": 4
+  },
+  {
+    "orderId": "A06787",
+    "date": "2023-10-17",
+    "region": "NA",
+    "customer": "Company 10",
+    "revenue": 798.13,
+    "tickets": 4
+  },
+  {
+    "orderId": "A04932",
+    "date": "2024-01-09",
+    "region": "NA",
+    "customer": "Company 37",
+    "revenue": 7201.34,
+    "tickets": 3
   }
 ]

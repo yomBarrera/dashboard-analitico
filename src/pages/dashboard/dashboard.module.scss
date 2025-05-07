@@ -1,6 +1,26 @@
-.card_list{
+.filters {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.card_list {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  gap: 1rem;
   padding: 2rem;
+  flex-wrap: wrap;
 }
+@media (width < 320px) {
+  .card_list {
+    flex-direction: column;
+    padding: 1rem;
+  }
+}
+
+// .charts {
+//   border-radius: 20px;
+//   overflow: hidden;
+// }

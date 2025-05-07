@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import { Header, Footer } from '@/ui/components'
-import '../styles/main.module.scss'
+import sc from '../styles/main.module.scss'
 
 type Props = {
   children: React.ReactNode
@@ -8,9 +8,9 @@ type Props = {
 
 const Main: FC <Props> = ({children}) => {
   return (
-    <div className='main'>
+    <div className={sc.main}>
       <Header />
-      <main className='page'>
+      <main className={sc.page}>
         {children}
       </main>
       <Footer />

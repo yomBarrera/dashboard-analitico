@@ -3,6 +3,7 @@
   box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
   background-color: #7f7f7f;
   width: min-content;
+  min-width: 180px;
   
   .card-body {
     padding: 24px;
@@ -31,10 +32,12 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
+      text-align: left;
       .semibold{
         font-weight: 600;
       }
       .extrabold{
+        text-align: left;
         font-weight: 900;
       }
     }
