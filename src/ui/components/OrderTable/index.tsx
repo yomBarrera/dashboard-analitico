@@ -7,6 +7,7 @@ import * as Papa from "papaparse";
 import sc from "./ordersTable.module.scss";
 
 import { Order } from "@/types/order.interface";
+import Link from "next/link";
 
 export const OrdersTable = () => {
 
@@ -31,8 +32,8 @@ export const OrdersTable = () => {
   if (loading) return <p className={sc.loading}>Cargando...</p>;
 
   return (
+    <>
     <div className={sc.container}>
-      <button onClick={downloadCSV} className={sc.downloadButton}>Descargar CSV</button>
       <table className={sc.table}>
         <thead>
           <tr>
@@ -47,7 +48,11 @@ export const OrdersTable = () => {
         <tbody>
           {orders.map((order) => (
             <tr key={order.orderId}>
-              <td>{order.orderId}</td>
+              <td>
+                <Link href={`/detail/${order.orderId}`} className={sc.link}>
+                  {order.orderId}
+                </Link>
+              </td>
               <td>{order.date}</td>
               <td>{order.region}</td>
               <td>{order.customer}</td>
@@ -58,5 +63,7 @@ export const OrdersTable = () => {
         </tbody>
       </table>
     </div>
+      <button onClick={downloadCSV} className={sc.downloadButton}>Descargar CSV</button>
+    </>
   );
 };

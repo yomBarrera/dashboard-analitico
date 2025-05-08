@@ -1,46 +1,54 @@
+@use "../ui/styles/mixin" as m;
+
 .card {
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-  background-color: #7f7f7f;
-  width: min-content;
-  min-width: 180px;
-  
+  background-color: var(--card-background);
+  flex: 1 1 200px;
+  @include m.mobile {
+    width: 45%;
+    flex: 1;
+  }
+
   .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
     padding: 24px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 0 0 8px 8px;
-    .row{
+    .row {
       display: flex;
       flex-direction: row;
     }
-    .icon_div{
+    .icon_div {
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color: #e0e0e0;
+      background-color: var(--foreground);
       min-width: 50px;
       height: 50px;
       border-radius: 50%;
       margin-right: 16px;
     }
-    .icon_stats{
+    .icon_stats {
       width: 24px;
       height: 24px;
     }
-    .text_div{
+    .text_div {
       display: flex;
       flex-direction: column;
-      align-items: center;
       justify-content: center;
       text-align: left;
-      .semibold{
+      .semibold {
+        color: var(--foreground-light);
         font-weight: 600;
       }
-      .extrabold{
+      .extrabold {
         text-align: left;
         font-weight: 900;
       }
     }
-
   }
 }

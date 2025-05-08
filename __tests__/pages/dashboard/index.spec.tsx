@@ -5,7 +5,7 @@ import Home from '@/pages/dashboard';
 describe("Home", () => {
     it('should render the text "Dashboard"', () => {
       render(<Home />);
-      const textElement = screen.getByText("Dashboard");
+      const textElement = screen.getByText("DASHBOARD");
       expect(textElement).toBeInTheDocument();
     });
 });

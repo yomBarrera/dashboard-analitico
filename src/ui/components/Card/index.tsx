@@ -17,8 +17,8 @@ export const Card = ({children, category, totalSale}:Props) => {
             </div>
           </div>
           <div className={sc.text_div}>
-            <h6 className={sc.semibold }>{category}</h6>
-            <h6 className={sc.extrabold}>{totalSale}</h6>
+            <p className={sc.semibold }>{category}</p>
+            <p className={sc.extrabold}>{totalSale}</p>
           </div>
         </div>
       </div>

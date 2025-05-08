@@ -1,6 +1,33 @@
+import { useEffect, useState } from "react";
+import sc from "./themeToggle.module.scss";
+
 const ThemeToggle = () => {
+  const [isDark, setIsDark] = useState<boolean>(false);
+
+  useEffect(() => {
+    const preference = window.matchMedia(
+      "(prefers-color-scheme: dark)"
+    ).matches;
+    localStorage.setItem("isDark", JSON.stringify( preference ));
+  }, []);
+
+  useEffect(() => {
+    getTheme()
+    document.body.className = isDark ? "dark" : "light";
+  }, [isDark]);
+
+  const getTheme = () => {
+    const theme = localStorage.getItem("isDark") || "false"
+    setIsDark(JSON.parse(theme));
+  }
+
+  const toggleChange = () => {
+    setIsDark(!isDark);
+    localStorage.setItem("isDark", JSON.stringify(!isDark));
+  };
+
   return (
-    <div className="theme-toggle">
+    <div className={sc["theme-toggle"]}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlnsXlink="http://www.w3.org/1999/xlink"
@@ -30,15 +57,19 @@ const ThemeToggle = () => {
           </g>
         </g>
       </svg>
-      <div className="form-check form-switch fs-6">
-        <input
-          className="form-check-input  me-0"
-          type="checkbox"
-          id="toggle-dark"
-          style={{ cursor: "pointer" }}
-        />
-        <label className="form-check-label" />
+      <div className={sc.relative}>
+        <div className={sc["toggle-container"]}>
+          <input
+            onChange={toggleChange}
+            className={sc.toggle}
+            type="checkbox"
+            id="check"
+            style={{ cursor: "pointer" }}
+          />
+          <label htmlFor="check" />
+        </div>
       </div>
+
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlnsXlink="http://www.w3.org/1999/xlink"

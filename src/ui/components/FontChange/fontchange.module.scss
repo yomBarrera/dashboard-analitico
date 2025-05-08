@@ -6,10 +6,14 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #777;
+  flex-direction: column;
+  left: -25%;
+  top: 100%;
+  border-radius: 5px;
+  background-color: var(--color-buttons);
   min-width: 60px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 5px 9px;
+  padding: 5px;
   z-index: 1;
 }
 
@@ -28,6 +32,4 @@
 
 .dropdown:hover .dropdown-content {
   display: flex;
-  flex-direction: column;
-  left: -18px;
 }

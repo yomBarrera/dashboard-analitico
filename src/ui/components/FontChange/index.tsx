@@ -26,7 +26,7 @@ const FontChange = () => {
     <div className="btn-group">
       <div className={sc.dropdown}>
         <button className="btn dropdown-toggle " type="button">
-          <svg viewBox="0 0 24 24" version="1.1" fill="#000000">
+          <svg viewBox="0 0 24 24" version="1.1" fill="#25396f">
             <g id="SVGRepo_bgCarrier" strokeWidth={0} />
             <g
               id="SVGRepo_tracerCarrier"
@@ -47,7 +47,7 @@ const FontChange = () => {
                 {" "}
                 <g
                   id="ic_fluent_text_font_size_24_filled"
-                  fill="#212121"
+                  fill="#25396f"
                   fillRule="nonzero"
                 >
                   {" "}

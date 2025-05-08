@@ -1,0 +1,16 @@
+@use '../ui/styles/mixin' as m;
+.custom_datepicker {
+  width: 100%;
+  border-radius: 10px;
+  font-size: var(--font-size);
+  background-color: var(--color-buttons);
+  color: var(--foreground);
+  padding: 7px 10px;
+  min-height: 30px;
+  border: none;
+  @include m.mobile {
+    font-size: var(--font-size-mobile);
+  }
+}
+
+

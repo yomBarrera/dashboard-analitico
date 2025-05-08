@@ -1,6 +1,6 @@
 import Main from '@/ui/layouts/main'
 import { useRouter } from 'next/router'
-import React from 'react'
+import sc from './detail.module.scss'
 
 const Order = () => {
   
@@ -9,7 +9,9 @@ const Order = () => {
 
   return (
     <Main>
+      <div className={sc.detail}>
       Order ID: {orderId}
+      </div>
     </Main>  
     )
 }

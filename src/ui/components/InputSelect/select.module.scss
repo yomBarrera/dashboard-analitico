@@ -1,0 +1,51 @@
+@use '../ui/styles/mixin' as m;
+
+.select_input {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  background-color: var(--color-buttons);
+  color: var(--foreground);
+  padding: 7px 10px;
+  border: none;
+  height: 30px;
+  font-size: var(--font-size);
+  flex: 1;
+  transition: 0.4s;
+  &:hover,
+  &:focus {
+    background: var(--focus-input);
+  }
+  @include m.mobile {
+    flex: 1;
+    width: 100%;
+    font-size: var(--font-size-mobile);
+  }
+}
+
+.option {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  border: 2px solid #ddd;
+  background: var(--color-buttons);
+  padding: 7px;
+  transition: 0.4s;
+}
+.option:first-of-type {
+  border-radius: 8px 8px 0 0;
+}
+
+.option:last-of-type {
+  border-radius: 0 0 8px 8px;
+}
+
+.option:not(.option:last-of-type) {
+  border-bottom: 1px solid #ddd;
+}
+
+.option:hover,
+.option:focus {
+    background: var(--focus-input);
+}

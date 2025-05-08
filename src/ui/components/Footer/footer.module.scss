@@ -1,0 +1,18 @@
+@use '../ui/styles/mixin' as m;
+
+.footer{
+  width: 100%;
+  background-color: var(--card-background);
+  padding: 10px 20px;
+  text-align: center;
+  font-size: var(--font-size);
+  color: var(--foreground-light);
+  @include m.mobile {
+    font-size: var(--font-size-mobile);
+    padding: 20px;
+    span{
+      display: block;
+      margin-bottom: 5px;
+    }
+  }
+}

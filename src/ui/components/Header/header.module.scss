@@ -1,14 +1,28 @@
+@use '../ui/styles/mixin' as m;
 .header{
   align-items: center;
-  background-color: #282c34;
-  border: solid 1px white; 
-  color: white;
+  background-color: var(--card-background);
+  box-shadow: var(--shadow);
+  color: var(--foreground);
+  text-transform: uppercase;
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 20px 5%;
   text-align: center;
+  width: 100%;
+  @include m.mobile {
+    flex-direction: column;
+    padding: 10px 5%;
+    gap: 10px;
+    margin-bottom: 0;
+    border-bottom: 1px solid var(--foreground-light);
+    h2{
+      font-size: 18px;
+    }
+  }
 }
 .access_buttons{
   display: flex;
   gap: 10px;
+  align-items: center;
 }

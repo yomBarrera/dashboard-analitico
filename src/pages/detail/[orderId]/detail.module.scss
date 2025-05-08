@@ -1,0 +1,7 @@
+@use '../../../ui/styles/mixin.scss' as m;
+.detail{
+  height:calc( 100vh - 254px);
+  @include m.mobile {
+    height: calc(100vh - 232px);
+  }
+}

@@ -2,9 +2,11 @@
 import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 
-import Highcharts, { color } from "highcharts";
+import Highcharts from "highcharts";
 
-const HighchartsReact = dynamic(() => import("highcharts-react-official"), { ssr: false });
+const HighchartsReact = dynamic(() => import("highcharts-react-official"), {
+  ssr: false,
+});
 
 interface Order {
   orderId: string;
@@ -17,10 +19,9 @@ interface Order {
 
 export const OrdersChart = () => {
   const [orders, setOrders] = useState<Order[]>([]);
-  const [color1, setColor1] = useState('#FF5733'); 
-  const [chart, setChart] = useState<any>({ });
+  const [color1, setColor1] = useState("#FF5733");
+  const [chart, setChart] = useState<any>({});
 
-  
   useEffect(() => {
     fetch("/api/orders")
       .then((res) => res.json())
@@ -29,7 +30,8 @@ export const OrdersChart = () => {
     const safeInit = (mod: any) => {
       try {
         if (typeof mod === "function") mod(Highcharts);
-        else if (mod && typeof mod.default === "function") mod.default(Highcharts);
+        else if (mod && typeof mod.default === "function")
+          mod.default(Highcharts);
       } catch (e) {
         console.error("Error al inicializar módulo Highcharts:", e);
       }
@@ -40,7 +42,7 @@ export const OrdersChart = () => {
         import("highcharts/modules/exporting"),
         import("highcharts/modules/export-data"),
         import("highcharts/modules/accessibility"),
-        import("highcharts/modules/offline-exporting")
+        import("highcharts/modules/offline-exporting"),
       ]).then(([exporting, exportData, accessibility, OfflineExporting]) => {
         safeInit(exporting);
         safeInit(exportData);
@@ -48,115 +50,117 @@ export const OrdersChart = () => {
         safeInit(OfflineExporting);
       });
     }
-
-
-
-
   }, []);
 
   useEffect(() => {
-   if (orders) 
-     ResolveChart()
-  }, [orders])
+    if (orders) ResolveChart();
+  }, [orders]);
 
-
-  
- const setcolor = (color: string) => {
+  const setcolor = (color: string) => {
     setColor1(color);
-   ResolveChart()
-  }
+    ResolveChart();
+  };
 
- const ResolveChart = () => {
+  const ResolveChart = () => {
+    const monthlySales: Record<string, number[]> = {
+      "2023": Array(12).fill(0),
+      "2024": Array(12).fill(0),
+    };
 
-   const monthlySales: Record<string, number[]> = {
-     '2023': Array(12).fill(0),
-     '2024': Array(12).fill(0),
-   };
+    orders.forEach((order) => {
+      const date = new Date(order.date);
+      const year = date.getFullYear().toString();
+      const month = date.getMonth();
 
-   orders.forEach((order) => {
-     const date = new Date(order.date);
-     const year = date.getFullYear().toString();
-     const month = date.getMonth();
+      if (year === "2023" || year === "2024") {
+        monthlySales[year][month] += order.revenue;
+      }
+    });
 
-     if (year === '2023' || year === '2024') {
-       monthlySales[year][month] += order.revenue;
-     }
-   });
+    setChart({
+      chart: {
+        type: "line",
+      },
+      title: {
+        text: "Comparación mensual de ventas: 2023 vs 2024",
+      },
+      accessibility: {
+        description:
+          "Gráfico de comparación de ventas mensuales entre 2023 y 2024.",
+        enabled: true,
+      },
 
-   setChart({
-     chart: {
-       type: "line",
-     },
-     title: {
-       text: "Comparación mensual de ventas: 2023 vs 2024",
-     },
-     accessibility: {
-       description: "Gráfico de comparación de ventas mensuales entre 2023 y 2024.",
-       enabled: true,
-     },
-
-
-     xAxis: {
-       categories: [
-         "Ene", "Feb", "Mar", "Abr", "May", "Jun",
-         "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"
-       ],
-       title: {
-         text: "Meses"
-       },
-       accessibility: {
-         description: "Meses del año"
-       }
-     },
-     yAxis: {
-       title: {
-         text: "Número de ventas"
-       },
-       accessibility: {
-         description: "cantidad de ingreso por mes"
-       }
-     },
-     exporting: {
-       enable: true,
-     },
-     series: [
-       {
-         name: "2023",
-         data: monthlySales['2023'],
-         color: color1,
-         type: "line"
-       },
-       {
-         name: "2024",
-         data: monthlySales['2024'],
-         type: "line"
-       }
-     ],
-     responsive: {
-       rules: [{
-         condition: {
-           maxWidth: 320
-         },
-         chartOptions: {
-           legend: {
-             layout: 'horizontal',
-             align: 'center',
-             verticalAlign: 'bottom'
-           }
-         }
-       }]
-     }
-   })
-  }
+      xAxis: {
+        categories: [
+          "Ene",
+          "Feb",
+          "Mar",
+          "Abr",
+          "May",
+          "Jun",
+          "Jul",
+          "Ago",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dic",
+        ],
+        title: {
+          text: "Meses",
+        },
+        accessibility: {
+          description: "Meses del año",
+        },
+      },
+      yAxis: {
+        title: {
+          text: "Número de ventas",
+        },
+        accessibility: {
+          description: "cantidad de ingreso por mes",
+        },
+      },
+      exporting: {
+        enable: true,
+      },
+      series: [
+        {
+          name: "2023",
+          data: monthlySales["2023"],
+          color: color1,
+          type: "line",
+        },
+        {
+          name: "2024",
+          data: monthlySales["2024"],
+          type: "line",
+        },
+      ],
+      responsive: {
+        rules: [
+          {
+            condition: {
+              maxWidth: 320,
+            },
+            chartOptions: {
+              legend: {
+                layout: "horizontal",
+                align: "center",
+                verticalAlign: "bottom",
+              },
+            },
+          },
+        ],
+      },
+    });
+  };
 
   if (orders.length === 0) return <p>Cargando datos...</p>;
 
-  return(
+  return (
     <>
-      <button onClick={() => setcolor('#ff00ff')}>buton</button>
+      {/* <button onClick={() => setcolor('#ff00ff')}>buton</button> */}
       <HighchartsReact highcharts={Highcharts} options={chart} />
     </>
-  )
-
-  
+  );
 };
