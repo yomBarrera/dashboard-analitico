@@ -33,14 +33,14 @@ const ThemeToggle = () => {
         xmlnsXlink="http://www.w3.org/1999/xlink"
         aria-hidden="true"
         role="img"
-        className="iconify iconify--system-uicons"
+        className="iconify iconify--mdi"
         width={20}
         height={20}
         preserveAspectRatio="xMidYMid meet"
-        viewBox="0 0 21 21"
+        viewBox="0 0 20 20"
       >
         <g
-          fill="none"
+          fill="currentColor"
           fillRule="evenodd"
           stroke="currentColor"
           strokeLinecap="round"

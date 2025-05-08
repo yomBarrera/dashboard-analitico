@@ -1,12 +1,16 @@
+
 import sc from './card.module.scss'
 
 interface Props{
   children: React.ReactNode,
   category: string,
-  totalSale: string
+  total: string 
 }
 
-export const Card = ({children, category, totalSale}:Props) => {
+export const Card = ({children, category, total}:Props) => {
+
+
+
   return (
     <div className={sc.card}>
       <div className={sc['card-body']}>
@@ -18,7 +22,7 @@ export const Card = ({children, category, totalSale}:Props) => {
           </div>
           <div className={sc.text_div}>
             <p className={sc.semibold }>{category}</p>
-            <p className={sc.extrabold}>{totalSale}</p>
+            <p className={sc.extrabold}>{total}</p>
           </div>
         </div>
       </div>

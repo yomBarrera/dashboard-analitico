@@ -1,3 +1,4 @@
+// styles for the DropRol component
 .dropdown {
   position: relative;
   display: inline-block;
@@ -26,11 +27,14 @@
   &:last-child{
     border-bottom: none;
   }
+  &:hover {
+    background-color: var(--focus-input);
+  }
 }
 
 .dropdown:hover .dropdown-content {
   display: flex;
   flex-direction: column;
-    top: 100%;
+  top: 100%;
   left: -25%;
 }

@@ -12,3 +12,4 @@ export * from "./InputSelect";
 export * from './Card';
 export * from './Chart';
 export * from './OrderTable';
+export * from './Modal';

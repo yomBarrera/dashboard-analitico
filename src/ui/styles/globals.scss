@@ -1,23 +1,37 @@
+@forward './mayer.scss';
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-:root,
-.light {
-  --background: #f2f7ff;
-  --main-background: #fff;
-  --foreground: #25396f;
-  --foreground-light: #607080bf;
-  --font-family: 'Roboto', sans-serif;
-  --font-size: 14px;
-  --color-buttons: #addeeb;
-  --shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
-  --card-background: #fff;
-  --focus-input: #4db7eb;
-  --font-size-mobile: 12px;
-}
+
+  :root,
+  .light {
+    --background: #f2f7ff;
+    --main-background: #fff;
+    --foreground: #25396f;
+    --foreground-light: #607080bf;
+    --font-family: 'Roboto', sans-serif;
+    --font-size: 14px;
+    --color-buttons: #addeeb;
+    --shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    --card-background: #fff;
+    --focus-input: #4db7eb;
+    --font-size-mobile: 12px;
+  }
+
+  .dark {
+    --background: #151521;
+    --main-background: #151521;
+    --foreground: #c2c2d9;
+    --foreground-light: #dee2e6bf;
+    --font-size: 14px;
+    --color-buttons: #435ebe;
+    --shadow: 0px 0px 18px rgba(255, 255, 255, 0.4);
+    --card-background: #2b2b84;
+    --focus-input: #4db7eb;
+    --font-size-mobile: 12px;
+  }
 
 @media (prefers-color-scheme: dark) {
-  :root,
-  .dark {
+  :root {
     --background: #151521;
     --main-background: #151521;
     --foreground: #c2c2d9;
@@ -31,7 +45,7 @@
   }
 }
 
-@import './mayer.scss';
+
 
 html,
 body {
@@ -60,6 +74,11 @@ a {
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark; 
+  }
+}
+@media (prefers-color-scheme: light) {
+  html {
+    color-scheme: light; 
   }
 }
 h1 {
@@ -92,7 +111,7 @@ select,
   background-color: var(--color-buttons);
   min-width: 40px;
   height: 40px;
-  color: var(--foreground-light);
+  color: var(--foreground);
   border: none;
   border-radius: 10px;
   padding: 5px 10px;

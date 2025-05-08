@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import {
   InputSelect,
   DateSelect,
@@ -5,18 +6,49 @@ import {
   OrdersChart,
   OrdersTable,
 } from "@/ui/components";
+import Modal from "@/ui/components/Modal";
 import Main from "@/ui/layouts/main";
+
+import { Order } from "@/types/order.interface";
 
 import sc from "./dashboard.module.scss";
 
 const Home = () => {
+
+  const [orders, setOrders] = useState<Order[]>([]);
+  const [openModal, setOpenModal] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [filterOrders, setFilterOrders] = useState<Order[]>([]);
+
+  const closeModal = () => {
+    setOpenModal(false);
+  };
+
+  useEffect(() => {
+    fetch("/api/orders")
+      .then((res) => res.json())
+      .then((data) => {
+        setOrders(data);
+        setLoading(false);
+      });
+  }, []);
+
+  const sales = (filterOrders.reduce((tot, order) => tot + order.revenue, 0)).toFixed(2);
+  const clients = new Set(filterOrders.map((order) => order.customer ))
+  const tikets = (filterOrders.reduce((tot, order) => tot + order.tickets, 0));
+  const convetion = (( clients.size / tikets) * 100).toFixed(1) + " tick/client";
+
+  useEffect(() => {
+console.log(orders);
+
+  }, [orders])
+  
   return (
     <Main>
-
       <section className={sc.filters}>
         <div className={sc.filters__select}>
-          <span>Region:</span>
-          <InputSelect />
+          <span>Región:</span>
+          <InputSelect orders={orders} setOrdersRegion={setFilterOrders} />
         </div>
         <div className={sc.filters__select}>
           <span>Date Range:</span>
@@ -25,7 +57,7 @@ const Home = () => {
       </section>
 
       <section className={sc.card_list}>
-        <Card category={"Ventas"} totalSale={"112000"}>
+        <Card category={"Ventas"} total={sales}>
           <svg
             fill="#ffffff"
             viewBox="0 0 1024 1024"
@@ -44,7 +76,7 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-        <Card category={"Clientes"} totalSale={"112000"}>
+        <Card category={"Clientes"} total={`${clients.size}`}>
           <svg
             fill="#ffffff"
             version="1.1"
@@ -84,7 +116,7 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-        <Card category={"Tikets Abiertos"} totalSale={"112000"}>
+        <Card category={"Tikets Abiertos"} total={`${tikets}`}>
           <svg
             fill="#ffffff"
             version="1.1"
@@ -119,7 +151,7 @@ const Home = () => {
             </g>
           </svg>
         </Card>
-        <Card category={"Tasa de conversión"} totalSale={"112000"}>
+        <Card category={"Tasa de conversión"} total={convetion}>
           <svg
             viewBox="0 0 512 512"
             enableBackground="new 0 0 512 512"
@@ -260,6 +292,11 @@ const Home = () => {
         <h2>Orders Table</h2>
         <OrdersTable />
       </section>
+      {openModal && (
+        <Modal title="Title modal" onClose={closeModal}>
+          <h1>hiii</h1>
+        </Modal>
+      )}
     </Main>
   );
 };

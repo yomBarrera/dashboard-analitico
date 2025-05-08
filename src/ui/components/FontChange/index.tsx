@@ -1,28 +1,24 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import sc from './fontchange.module.scss'
 
 const FontChange = () => {
-  const [fontSize, setFonSize] = useState('16px')
+  const [fontSize, setFonSize] = useState('14')
 
   const increaseFontSize = () => {
     setFonSize((prevSize) => {
       const newSize = parseInt(prevSize) + 1
-      return `${newSize}px`
+      return `${newSize}`
     } )
   }
   const decreaseFontSize = () => {
     setFonSize((prevSize) => {
       const newSize = parseInt(prevSize) - 1
-      return `${newSize}px`
+      return `${newSize}`
     } )
   } 
-
-  useEffect(() => {
-     console.log(fontSize)
-  }, [fontSize])
-  
   
   return (
+    <>
     <div className="btn-group">
       <div className={sc.dropdown}>
         <button className="btn dropdown-toggle " type="button">
@@ -63,11 +59,15 @@ const FontChange = () => {
           </svg>
         </button>
         <div className={sc['dropdown-content']} >
-          <span className={sc['dropdown-item']} onClick={increaseFontSize}>+</span>
-          <span className={sc['dropdown-item']} onClick={decreaseFontSize}>-</span>
+          <span className={sc['dropdown-item']} onClick={increaseFontSize}>A+</span>
+          <span className={sc['dropdown-item']} onClick={decreaseFontSize}>A-</span>
         </div>
       </div>
     </div>
+      <style>
+        {`:root { --font-size: ${fontSize}px; }`}
+      </style>
+    </>
   )
 }
 
