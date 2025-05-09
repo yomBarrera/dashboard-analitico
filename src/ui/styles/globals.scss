@@ -11,6 +11,7 @@
     --font-family: 'Roboto', sans-serif;
     --font-size: 14px;
     --color-buttons: #addeeb;
+    --color-selected: #619c84;
     --shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
     --card-background: #fff;
     --focus-input: #4db7eb;
@@ -24,6 +25,7 @@
     --foreground-light: #dee2e6bf;
     --font-size: 14px;
     --color-buttons: #435ebe;
+    --color-selected: #619c84;
     --shadow: 0px 0px 18px rgba(255, 255, 255, 0.4);
     --card-background: #2b2b84;
     --focus-input: #4db7eb;
@@ -132,6 +134,10 @@ select,
   background-color: var(--foreground-light);
 }
 
+
+.react-datepicker__current-month{
+  color: #25396f !important;
+}
 @media (width<= 320px) {
   html, body{
     font-size: var(--font-size-mobile);

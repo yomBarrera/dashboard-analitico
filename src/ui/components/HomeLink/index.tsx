@@ -1,9 +1,20 @@
+import React, { useContext } from "react";
+import { useRouter } from "next/router";
 import Link from "next/link";
-import React from "react";
+
+import { ContextApplication } from "@/context/application";
 
 const HomeButton = () => {
+  const router = useRouter();
+  const { setSelectedOrderId } = useContext(ContextApplication);
+
+  const handleClick = () => {
+    setSelectedOrderId(null);
+    router.push("/dashboard");
+  };
+
   return (
-    <Link href={"/dashboard"} className="btn">
+    <Link href={"/dashboard"} className="btn" onClick={() => handleClick()}>
       <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
         <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
         <g

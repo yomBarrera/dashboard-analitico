@@ -1,3 +1,4 @@
+import { useRouter } from 'next/router'
 import DropRol from '../DropRol'
 import FontChange from '../FontChange'
 import HomeButton from '../HomeLink'
@@ -6,11 +7,16 @@ import sc from './header.module.scss'
 
 
 export const Header = () => {
+  const router = useRouter()
+
+  const navigate =()=>{
+    router.push('/dashboard')
+  }
   return (
     <div className={sc.header}> 
-    
-    <div className="title">
-        <h1>Dashboard</h1>
+  
+    <div className={sc.title} onClick={navigate}>
+      <h1>Dashboard</h1>
     </div>
 
     <div className={sc.access_buttons}>

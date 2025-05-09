@@ -5,3 +5,16 @@
     height: calc(100vh - 232px);
   }
 }
+.detail__data{
+  h2{
+    text-align: center;
+  }
+  p{
+    margin:  0 0 10px 0;
+  }
+  strong{
+    font-weight: 900;
+    display: inline-block;
+    width: 100px;
+  }
+}

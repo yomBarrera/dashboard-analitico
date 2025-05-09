@@ -28,6 +28,9 @@
   &:last-child{
     border-bottom: none;
   }
+  &:hover{
+    border-color: var(--color-selected);
+  }
 }
 
 .dropdown:hover .dropdown-content {

@@ -1,27 +1,15 @@
-import { useEffect, useState } from "react";
+import { useContext } from "react";
+import { ContextApplication } from "@/context/application";
+
 import sc from "./select.module.scss";
-import { Order } from "@/types/order.interface";
 
+export const InputSelect = () => {
 
-interface Props {
-  orders: Order[];
-  setOrdersRegion: (orders: Order[]) => void;
-}
-export const InputSelect = ({ orders, setOrdersRegion}: Props) => {
-  const [selecValue, setSelecValue] = useState<string>("");
-
-  const [filterOrders, setFilterOrders] = useState<Order[]>(orders);
-
-  useEffect(() => {
-    setOrdersRegion(filterOrders);
-  }, [selecValue]);
-
+  const { setFilters, filters } = useContext(ContextApplication);
   const regionSelect = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    setSelecValue(e.target.value);
-    const filteredOrders = orders.filter(
-      (order) => order.region === e.target.value
-    );
-    setFilterOrders(filteredOrders);
+    setFilters({...filters, region: e.target.value});
+
+    console.log("Selected region:", e.target.value);
   };
 
   return (

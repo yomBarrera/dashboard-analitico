@@ -11,6 +11,9 @@
   @include m.mobile {
     font-size: var(--font-size-mobile);
   }
+  .react-datepicker__current-month{
+    color: var(--foreground) !important;
+  }
 }
 
 

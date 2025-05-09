@@ -1,4 +1,6 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
+
+import { ContextApplication } from "@/context/application";
 
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -6,13 +8,15 @@ import "react-datepicker/dist/react-datepicker.css";
 import sc from "./datepicker.module.scss";
 
 export const DateSelect = () => {
-  const [startDate, setStartDate] = useState(new Date());
-  const [endDate, setEndDate] = useState(null);
+
+  const { setFilters, filters } = useContext(ContextApplication);
 
   const onChange = (dates): void => {
     const [start, end] = dates;
-    setStartDate(start);
-    setEndDate(end);
+
+    setFilters({ ...filters, dateRange: { start, end } });
+
+    console.log("Selected range:", start, end);
   };
 
   return (
@@ -26,19 +30,13 @@ export const DateSelect = () => {
         <div>
           <button
             aria-label="Previous Month"
-            className={
-              "react-datepicker__navigation react-datepicker__navigation--previous"
-            }
+            className="react-datepicker__navigation react-datepicker__navigation--previous"
             style={
               customHeaderCount === 1 ? { visibility: "hidden" } : undefined
             }
             onClick={decreaseMonth}
           >
-            <span
-              className={
-                "react-datepicker__navigation-icon react-datepicker__navigation-icon--previous"
-              }
-            >
+            <span className="react-datepicker__navigation-icon react-datepicker__navigation-icon--previous">
               {"<"}
             </span>
           </button>
@@ -50,31 +48,35 @@ export const DateSelect = () => {
           </span>
           <button
             aria-label="Next Month"
-            className={
-              "react-datepicker__navigation react-datepicker__navigation--next"
-            }
+            className="react-datepicker__navigation react-datepicker__navigation--next"
             style={
               customHeaderCount === 0 ? { visibility: "hidden" } : undefined
             }
             onClick={increaseMonth}
           >
-            <span
-              className={
-                "react-datepicker__navigation-icon react-datepicker__navigation-icon--next"
-              }
-            >
+            <span className="react-datepicker__navigation-icon react-datepicker__navigation-icon--next">
               {">"}
             </span>
           </button>
         </div>
       )}
-      selected={startDate}
+      selected={
+        filters.dateRange?.start
+          ? new Date(filters.dateRange.start)
+          : new Date()
+      }
       onChange={onChange}
       monthsShown={2}
-      startDate={startDate}
-      endDate={endDate}
-      selectsRange
+      startDate={
+        filters.dateRange?.start
+          ? new Date(filters.dateRange.start)
+          : new Date()
+      }
+      endDate={
+        filters.dateRange?.end ? new Date(filters.dateRange.end) : new Date()
+      }
       className={sc.custom_datepicker}
+      placeholderText="Select a date range"
     />
   );
 };

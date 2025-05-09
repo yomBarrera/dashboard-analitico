@@ -1,32 +1,20 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 
 import Highcharts from "highcharts";
+import { ContextApplication } from "@/context/application";
 
 const HighchartsReact = dynamic(() => import("highcharts-react-official"), {
   ssr: false,
 });
 
-interface Order {
-  orderId: string;
-  date: string;
-  region: string;
-  customer: string;
-  revenue: number;
-  tickets: number;
-}
-
 export const OrdersChart = () => {
-  const [orders, setOrders] = useState<Order[]>([]);
-  const [color1, setColor1] = useState("#FF5733");
-  const [chart, setChart] = useState<any>({});
+
+  const [chart, setChart] = useState({});
+  const { allOrders, loading, filteredOrders} = useContext(ContextApplication);
 
   useEffect(() => {
-    fetch("/api/orders")
-      .then((res) => res.json())
-      .then((data) => setOrders(data));
-
     const safeInit = (mod: any) => {
       try {
         if (typeof mod === "function") mod(Highcharts);
@@ -53,13 +41,8 @@ export const OrdersChart = () => {
   }, []);
 
   useEffect(() => {
-    if (orders) ResolveChart();
-  }, [orders]);
-
-  const setcolor = (color: string) => {
-    setColor1(color);
-    ResolveChart();
-  };
+    if (filteredOrders) ResolveChart();
+  }, [filteredOrders]);
 
   const ResolveChart = () => {
     const monthlySales: Record<string, number[]> = {
@@ -67,7 +50,7 @@ export const OrdersChart = () => {
       "2024": Array(12).fill(0),
     };
 
-    orders.forEach((order) => {
+    filteredOrders.forEach((order) => {
       const date = new Date(order.date);
       const year = date.getFullYear().toString();
       const month = date.getMonth();
@@ -127,7 +110,7 @@ export const OrdersChart = () => {
         {
           name: "2023",
           data: monthlySales["2023"],
-          color: color1,
+          color: '#ff5733',
           type: "line",
         },
         {
@@ -155,12 +138,9 @@ export const OrdersChart = () => {
     });
   };
 
-  if (orders.length === 0) return <p>Cargando datos...</p>;
+  if (loading) return <p>Cargando datos...</p>;
 
   return (
-    <>
-      {/* <button onClick={() => setcolor('#ff00ff')}>buton</button> */}
       <HighchartsReact highcharts={Highcharts} options={chart} />
-    </>
-  );
+   );
 };
