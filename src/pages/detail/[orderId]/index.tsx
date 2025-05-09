@@ -17,7 +17,7 @@ const Order = () => {
     } else {
       getOrderById()
     }
-  }, [selectedOrderId]);
+  }, [selectedOrderId, router, getOrderById]);
 
   return (
     <Main>

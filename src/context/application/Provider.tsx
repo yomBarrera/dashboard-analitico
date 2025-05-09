@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useReducer, useRef, useState } from "react";
+import { useEffect, useMemo, useReducer, useState } from "react";
 import { ContextApplication, Reducer } from "./";
 import { Order, OrdersFilters, OrdersState } from "@/types/order.interface";
 
@@ -9,14 +9,14 @@ const INITIAL_STATE: OrdersState = {
   filters: {},
   loading: false,
   error: null,
-  rol: 'user'
+  rol: 'admin'
 };
 
 export const ApplicationProvider = ({ children }:{children:React.ReactNode}) => {
   
   const [state, dispatch] = useReducer(Reducer, INITIAL_STATE);
   const [visibleCount, setVisibleCount] = useState(20);
-  const observerRef = useRef<HTMLDivElement>(null);
+  const [lastElementRef, setLastElementRef] = useState<HTMLTableRowElement | null>(null);
 
   const fetchOrders = async () => {
     dispatch({ type: "FETCH_ORDERS_START" });
@@ -24,7 +24,7 @@ export const ApplicationProvider = ({ children }:{children:React.ReactNode}) => 
       const res = await fetch("/api/orders");
       const data: Order[] = await res.json();
       dispatch({ type: "FETCH_ORDERS_SUCCESS", payload: data });
-    } catch (err:any) {
+    } catch (err) {
       console.error(err);
       dispatch({ type: "FETCH_ORDERS_ERROR", payload: "Error al cargar las órdenes" });
     }
@@ -68,17 +68,17 @@ export const ApplicationProvider = ({ children }:{children:React.ReactNode}) => 
   };
 
   useEffect(() => {
-    if (!observerRef.current || !hasMoreOrders) return;
+    if (!lastElementRef || !hasMoreOrders) return;
 
     const observer = new IntersectionObserver(entries => {
       if (entries[0].isIntersecting) {
-        loadMoreOrders();
+        if (hasMoreOrders) setVisibleCount(visible => visible + 20);
       }
     });
 
-    observer.observe(observerRef.current);
+    observer.observe(lastElementRef);
     return () => observer.disconnect();
-  }, [hasMoreOrders, paginatedOrders]);
+  }, [lastElementRef, hasMoreOrders]);
 
   const metrics = useMemo(() => {
     const totalRevenue = filteredOrders.reduce((sum, order) => sum + order.revenue, 0);
@@ -128,7 +128,7 @@ export const ApplicationProvider = ({ children }:{children:React.ReactNode}) => 
       hasMoreOrders,
       metrics,
       chartSeries,
-      observerRef,
+      setLastElementRef,
       getOrderById,
       changeRol
     }}>

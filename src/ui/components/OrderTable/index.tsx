@@ -17,10 +17,9 @@ export const OrdersTable = () => {
     filteredOrders,
     loading,
     paginatedOrders,
-    observerRef,
+    setLastElementRef,
     hasMoreOrders,
     setSelectedOrderId,
-    selectedOrderId,
     rol
   } = useContext(ContextApplication);
 
@@ -33,7 +32,7 @@ export const OrdersTable = () => {
   const selectOrderId = (orderId: string) => {
     if(rol === 'admin'){
       setSelectedOrderId(orderId);
-      router.push(`/detail/${selectedOrderId}`);
+      router.push(`/detail/${orderId}`);
     }
   }
   
@@ -71,7 +70,7 @@ export const OrdersTable = () => {
           </tbody>
           {hasMoreOrders && (
             <tfoot>
-              <tr ref={observerRef}>
+              <tr ref={setLastElementRef}>
                 <td colSpan={6}>Cargando más órdenes...</td>
               </tr>
             </tfoot>

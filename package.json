@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "all-dev": "npm i && npm run dev",
+    "all-prod": "npm i && npm run start",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

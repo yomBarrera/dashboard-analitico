@@ -23,8 +23,8 @@ export interface ContextProps {
   };
   allOrders: Order[];
   chartSeries: LineChartSeries[];
-  observerRef: React.RefObject<HTMLDivElement>;
-  rol: string;
+  setLastElementRef: (node: HTMLTableRowElement | null) => void;
+  rol: string | null;
   changeRol: (rol:string)=> void;
 }
 

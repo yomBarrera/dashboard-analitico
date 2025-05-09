@@ -9,13 +9,16 @@ const HighchartsReact = dynamic(() => import("highcharts-react-official"), {
   ssr: false,
 });
 
+
+type HighchartsModule = ((hc: typeof Highcharts) => void) | { default: (hc: typeof Highcharts) => void };
+
 export const OrdersChart = () => {
 
   const [chart, setChart] = useState({});
-  const { allOrders, loading, filteredOrders} = useContext(ContextApplication);
+  const { loading, filteredOrders} = useContext(ContextApplication);
 
   useEffect(() => {
-    const safeInit = (mod: any) => {
+    const safeInit = (mod: HighchartsModule) => {
       try {
         if (typeof mod === "function") mod(Highcharts);
         else if (mod && typeof mod.default === "function")
